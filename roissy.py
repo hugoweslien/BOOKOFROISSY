@@ -10,7 +10,6 @@ book.add_author('Chateau Heartise')
 
 book.set_cover("image.jpg", open('images.jpeg', 'rb').read())
 
-
 # Chapters
 # Introduction Chapter
 intro = epub.EpubHtml(title='Introduction', file_name='intro.xhtml',
@@ -1152,8 +1151,10 @@ their bodies and sexuality,  their flirtations and flattery,  and their \
 charm and whimsy\
 ,  women are incapable of seriously entertaining for any length of time \
 greater than the \
-duration from leer to spent urge any but the most desperately cloying of men. \
-Sure there are exceptions &#8212; women of particularly engaging personalities \
+duration from leer to spent urge any \
+but the most desperately cloying of men. \
+Sure there are exceptions &#8212; \
+women of particularly engaging personalities \
 and surprising fondness \
 for the abstract &#8212; but these exceptions serve merely to remind a man \
 of the depressing drabness of the mass of women with their meager,  \
@@ -1202,7 +1203,7 @@ heel is vanity.</p>\
 <p>Men love freely. Women love desperately.</p>\
 <p>***</p>\
 <p>This post is bitch bait. It&#8217;s been booby-trapped. We&#8217;ll \
-see who trips it.</p>
+see who trips it.</p>\
 '
 
 c5 = epub.EpubHtml(title='why do conservatives sanctify women',
@@ -1506,7 +1507,7 @@ They&#8217;ve got an image to burnish,  you see.</\
 p>\
 <p><em>Note: As with many of my\
 posts,  the chronology of this post has been altered to protect the innocent\
-. Namely,  me.</em></p>
+. Namely,  me.</em></p>\
 '
 
 c7 = epub.EpubHtml(title='female dictionary',
@@ -1880,7 +1881,7 @@ be! $49.99 will give you such a massive competitive advantage over\
 every other man it&#8217;s a wonder this product isn&#8217\
 ;t ILLEGAL! Buy now before the divorce lawyers find a way to classify\
 the W/E Translator as Schedule I contraband! (Operators and coping therapists\
-                                              standing by.)</p>
+                                              standing by.)</p>\
 '
 
 
@@ -2561,7 +2562,7 @@ fucking around less\
 . It goes without saying that only the top 20% of men are enjoying\
 the emergent slut bounty.</p>\
 <p>What men think about sluts\
-,  illustrated:</p>
+,  illustrated:</p>\
 '
 
 
@@ -2803,7 +2804,7 @@ Long\
 Term Potential Rating:  N/A</em></p>\
 <p>\
 I hope it hasn&#8217;t escaped anyone&#8217;s notice\
-that sexual satisfaction and long term potential are inversely related.</p>
+that sexual satisfaction and long term potential are inversely related.</p>\
 '
 
 c13 = epub.EpubHtml(title='friends',
@@ -3372,7 +3373,7 @@ decoration:underline;">39+ year olds</span></strong></p>\
 <p>No Chateau proprietor has experience dating or fucking women 39 years old\
 or older,  so we cannot offer much advice for gaming women in this age\
 range. Yes,  yes,  we can all hear you crying now.</p\
->
+>\
 '
 
 
@@ -3471,14 +3472,14 @@ previously thought.</p>\
 <blockquote><p>&#8216;While some measurements showed a gradual decline,\
 cheek volume &#8211; one of the key factors in a youthful appearance &#\
 8211; can drop off suddenly,  by as much as 35 per cent in\
-a year, &#8217; he says.</p></blockquote>\\
+a year, &#8217; he says.</p></blockquote>\
 <p\
 >Naturally,  there are some women whose stress-inducing lives of stripping,\
 smoking,  slutting,  and single motherhood age them much faster\
 than their actual years\
 . These are truly tragic cases,  for they have thrown away\
 their most precious\
-asset for instant gratification.</p>\\
+asset for instant gratification.</p>\
 <p>In other news,  the\
 new HBO documentary &#8220;<a href="http://www.hbo.\
 com/documentaries/youth-knows-no-pain/index.html\
@@ -3492,7 +3493,7 @@ when her friends told her there are plenty of women who look good for their\
 age,  like Sophia Loren,  she responded that Sophia Loren is just one woman\
 out of millions who &#8220;don&#8217;t look so good\
 when they get older&#8221;. Found: A woman with a grasp of\
-basic statistical concepts. Alert the media!</p>\\
+basic statistical concepts. Alert the media!</p>\
 <p>Most of\
 the women in the documentary looked like alien-eyed stretchy gumbo toys,  but\
 a couple did actually look pretty good,  at least ten years younger than their\
@@ -3707,7 +3708,7 @@ realize\
 impressive knowledge of<br />\
 computer hardware)<br />\
 4                                    +-10 points      1 hour \
-(male wants same night lay\\
+(male wants same night lay\
  )<br />\
 4                                    &\
 gt;-10 points      1/\
@@ -3806,7 +3807,7 @@ br />\
 30 years (beta suffers seizure\
           from<br />\
 constant\
-          stream of endorphins)<br\\
+          stream of endorphins)<br\
 />\
 9                                    &gt;-10\
 points      30 years (she&#\
@@ -3848,22 +3849,11972 @@ their girlfriends,  dates,  wives\
 ,  fuckbuddies without an external injection\
 of groinal stimulation. There is\
 only one way a man can\
-delay Time To Boredom:</p>
+delay Time To Boredom:</p>\
 '
 
 
-c17 = epub.EpubHtml(title='quality vs qunatity',
+c17 = epub.EpubHtml(title='quality vs quantity',
 file_name='quality_vs_quantity.xhtml',
 lang='en')
-c17.content='
-<h2>Quality VS Quanity,  Formula Version</h2>
+c17.content='\
+<h2>Quality VS Quanity\
+,  Formula Version</h2>\
+\
+<p>Ah,  that\
+perennial conundrum. That gavel of\
+masculine judgment. Does the quality\
+or the quantity,  or both\
+,  of women that a man\
+beds determine his alpha mojo?\
+The hosts have graciously elaborated on\
+this topic <a href="\
+https://heartiste.wordpress.\
+com/2008/05/\
+02/quality-vs-\
+quantity-pussy/" target="\
+_blank">in the past</\
+a>,  which should have been\
+the final word,  but not\
+all of the world&#8217\
+;s 7 billion people have\
+yet stayed a night at the\
+Chateau to wake in the morning\
+infused with the knowledge of the\
+Celestials.</p>\
+<blockquote\
+><p>Any guy who\
+claims to have game but picks\
+up hundreds of circus freaks a\
+year will be a laughingstock.\
+And the boastful guy with few\
+notches who claims to know everything\
+about women because he’s\
+been dating his cute high school\
+sweetheart his whole life will similarly\
+be mocked.</p></blockquote\
+>\
+<p>To put\
+it in logical terms easily grasped\
+by the aspies among us (\
+    first number in each series\
+    refers to penis-in\
+    -vagina notch count unless\
+    otherwise noted; second number\
+    refers to female attractiveness rating\
+    on a 0-10\
+    scale):</p>\
+<\
+p>Stiff autumn breeze &\
+lt;more alpha than&\
+gt; 100 0s</p\
+>\
+<p>Unlubed masturbation\
+&lt;more alpha than\
+&gt; 100 hundred 1s\
+&lt;more alpha than\
+&gt; 200 0s</\
+p>\
+<p>Couch\
+crease &lt;more alpha\
+than&gt; 100 2s\
+&lt;more alpha than\
+&gt; 200 1s &\
+lt;more alpha than&\
+gt; 300 0s</p\
+>\
+<p>Lubed masturbation\
+&lt;more alpha than\
+&gt; 100 3s &\
+lt;more alpha than&\
+gt; 200 2s &lt\
+;more alpha than&gt\
+; 300 1s &lt;\
+more alpha than&gt;\
+400 0s</p>\
+<\
+p>Barely legal porn-\
+assisted masturbation &lt;more\
+alpha than&gt; 100\
+2s &lt;but less\
+alpha than&gt; 100\
+3s over a two month time\
+span</p>\
+<p\
+>Handjob by a 4 &\
+lt;more alpha than&\
+gt; 10 3s</p\
+>\
+<p>Blowjob by\
+a 4 &lt;more\
+alpha than&gt; 15\
+3s</p>\
+<p\
+>Chandelier swinging,  titty fucking\
+,  throat gagging,  motorized defiling\
+,  publicly violating,  video recorded\
+facialized money shotting,  post-\
+coital sammich making,  never see\
+her again sex with a 4\
+&lt;more alpha than\
+&gt; 50 missionary style\
+3s</p>\
+<\
+>Fleeting glance from a 10\
+&lt;more alpha than\
+&gt; 100 1s</\
+p>\
+<p>Handjob\
+by a 10 &lt;\
+more alpha than&gt;\
+\
+1, 000 1s</p\
+\
+>\
+<p>Blowjob by\
+\
+a 10 &lt;more\
+\
+alpha than&gt; 10\
+\
+, 000 1s</p>\
+\
+\
+<p>Sex with\
+a\
+10 &lt;more\
+alpha\
+than&gt; 100\
+,\
+000 1s</p>\
+\
+<\
+p>Anal sex with\
+a\
+10 &lt;more\
+alpha\
+than&gt; Infinity\
+1s\
+</p>\
+<p\
+>\
+100 5s &lt;\
+more\
+alpha than&gt;\
+100\
+4s &lt;more\
+alpha\
+than&gt; 500\
+3s\
+</p>\
+<p\
+>\
+50 6s &lt;\
+more\
+alpha than&gt;\
+100\
+5s</p>\
+<\
+p\
+>40 7s &lt\
+;\
+more alpha than&gt\
+;\
+100 6s</p>\
+\
+<\
+p>30 8s &\
+lt\
+;more alpha than&\
+gt\
+; 100 7s</p\
+>\
+\
+<p>10\
+9s &\
+lt;more alpha\
+than&\
+gt; 100 8s\
+</p\
+>\
+<p>\
+1 10\
+&lt;more\
+alpha than\
+&gt; 3\
+9s</\
+p>\
+<p\
+>LTR\
+with a 10 &\
+lt;\
+more alpha than&\
+gt;\
+one night of sex\
+with a\
+10 &lt;\
+more alpha\
+than&gt;\
+LTR with\
+an 7</p\
+>\
+<\
+p>One night\
+of sex\
+with a 9 &\
+lt;\
+more alpha than&\
+gt;\
+Rotating harem of multiple\
+LTRs with\
+100 5s and 6s\
+&lt\
+;more alpha than\
+&gt\
+; One night stands\
+with 1\
+, 000 4s</\
+p>\
+\
+<p>\
+LTR with a\
+0 &lt\
+;more alpha\
+than&gt\
+; Nothing</\
+p>\
+<\
+p>Serial\
+LTRs with 5\
+10s &lt\
+;more alpha\
+than&gt\
+; One night\
+stands with 100\
+9s &lt\
+;more alpha\
+than&gt\
+; Lifelong monogamous\
+LTR with an\
+8</p\
+>\
+<p\
+>Unmarried,\
+cohabiting,  child\
+-free,\
+sex-gorged\
+LTR with an\
+8 &lt\
+;more alpha\
+than&gt\
+; Once-\
+a-month\
+married sex with\
+a 9 &\
+lt;more\
+alpha than&\
+gt; Once\
+-a-\
+day married sex\
+with a 7\
+</p>\
+\
+<p\
+>Unmarried,  commitment\
+-free\
+,  responsibility-absolved\
+,  sex\
+-on-demand\
+with a\
+cast of 1,\
+000s of faithful 10s wearing kneepads\
+and schooled in the culinary arts\
+&lt;more alpha than\
+&gt; The universe</\
+p>\
+<p>***</p\
+>\
+<p>So,\
+if you have ass-banged\
+one 10 in your life,\
+you have equivalent bragging rights to\
+the guy who has banged every\
+1 in the world.</p\
+>\
+<p>If you\
+have effortlessly banged 10, 000\
+1s,  you have less bragging\
+rights than the guy who has\
+gotten one (freely given)\
+blowjob from a 10. If\
+you needed to expend huge effort\
+to bang those 10, 000\
+1s,  you have less bragging\
+rights than the guy who stuck\
+it in a couch crease for\
+quick relief.</p>\
+<\
+p>If you have inspired\
+a 6 to want a relationship\
+with you,  you have more\
+alpha bragging rights than the guy\
+who has inspired 10 4s to\
+spread their legs for him.</\
+p>\
+<p>Where\
+it gets blurry is in the\
+plain middle of the beauty arc\
+. A guy who banged one 6 technically will\
+be more alpha than the guy who banged two 5s,  but at those fine\
+gradations,  who&#8217;s really keeping tabs? That&#8217;\
+s where <a href="https://heartiste.wordpress.com/2010\
+/12/16/predicting-a-girls-infidelity/" target="\
+_blank">the Template</a\
+> will influence the grading curve and make distinctions\
+harder to delineate.</p>\
+<p>Ultimately,  the essence of alpha\
+maledom all comes down to inspiring\
+beautiful women to,  first and\
+foremost,  desire\
+your poundage,\
+and then to desire your continual\
+poundage,  and finally to desire\
+\
+your love. If you can\
+seduce a hot babe into bed\
+multiple times,\
+then seduce her\
+into love,  and then do\
+this same thing with many hot\
+babes over the course of your\
+life,  you are an alpha\
+male,  no matter what else\
+you have or have not accomplished\
+in your life. Many will\
+balk at this,  but that doesn&#8217;t change its truth.</p>\
 '
 
 c18 = epub.EpubHtml(title='wrapped',
 file_name='wrapped.xhtml',
 lang='en')
-c18.content='
-<h2>Wrapped Around His Finger</h2>
+c18.content='\
+<h2>Wrapped Around His\
+Finger</h2>\
+<p\
+>We talk a lot about\
+alpha males here,  and their\
+mysterious\
+pull on women. We\
+discuss their attributes,  their attitude\
+and their game,\
+and how\
+and why it works to vibrate\
+vaginas all across the land.\
+But\
+sometimes the weight of theory\
+can deaden the senses,  and\
+it helps to have\
+a real\
+-life,  flesh and blood\
+exemplar of alphaness staring you in\
+the\
+face to bring that theory\
+down to solid earth,  where\
+you can see and\
+hear it\
+all from your personal first-\
+person view. In that spirit\
+,\
+I will relay a moment\
+in time from my life so\
+that you can feel\
+like you\
+&#8217;re stepping in\
+my shoes and witnessing it yourself\
+.</\
+p>\
+<p>\
+I was at a large social\
+event (the more\
+astute readers\
+       will be able to figure\
+       out the type of event\
+       from details\
+in this post\
+       ) and was seated at\
+a table with mostly women &#\
+\
+8212; all in their mid\
+to late 20s &#8212;\
+and a couple\
+of men.\
+As a keen observer of sexual\
+dynamics,  the rapport between one\
+\
+of the men and his girlfriend\
+was especially entertaining to me.</\
+p>\
+<\
+p>She\
+was completely enamored of him,\
+leaning against him,  smiling at\
+\
+him (and when she wasn\
+     &#8217;t smiling\
+     she was &#8220\
+;\
+     smizing&#8221; at\
+     him  &#8212; smiling\
+     with her eyes\
+),  touching\
+him on his hands and arms\
+and shoulders and thighs,  blushing\
+\
+periodically when he deigned to smirk\
+at her (which wasn&#\
+        8217;t\
+often),\
+flattering him,  imperceptibly nudging her\
+chair closer to his,  nuzzling\
+\
+into his man-nook where\
+pec meets armpit,  gazing up\
+at his face\
+(and I\
+ do mean UP,  as\
+ she would deliberately arch her\
+ back and\
+neck so that\
+ her body was compressed in\
+ the vertical and he was\
+ looming\
+over the top of\
+ her head),  defending him\
+when her girl friends were\
+challenging\
+him on something he said,\
+and,  best of all,\
+apologizing profusely\
+for imagined slights that\
+she believed she had accidentally committed\
+against him. When she\
+spoke\
+,  either to him or to\
+others in his company,  she\
+sounded,\
+not to put too\
+fine a point on it,\
+like a ditz. Yes\
+,\
+she was doing all this in\
+front of about ten people,\
+some total\
+strangers to her.</\
+p>\
+<p>For\
+his part,  he was\
+behaving\
+and speaking in almost the exact\
+opposite manner as his girlfriend.\
+He would\
+sit straight,  neither\
+leaning away nor into her,\
+would speak in a heavy\
+and\
+deep monotone,  would rarely smile\
+(and when he did it\
+ was always\
+a half-\
+ assed &#8220;yeah\
+ i&#8217;m\
+ the\
+douchebag you wish you\
+ were&#8221; effort\
+ ),  would only touch her\
+\
+when he was reaching around to\
+grab her ass for a makeout\
+,  seemed\
+oblivious to her cloying\
+flattery,  effected an air of\
+imperturbable indifference,  showed\
+little outward\
+signs of affection for her except\
+for the one time I caught\
+\
+sight of them absconding to what\
+they thought was a private location\
+,  occasionally\
+spoke ill of her\
+even to the point of insulting\
+her,  never complimented\
+her,\
+looked straight ahead in the middle\
+distance when she complimented him,\
+\
+never said &#8220;thank\
+you&#8221; or &#\
+8220;\
+excuse me&#8221\
+;,  never excused or &#8220\
+;forgave&#8221\
+; her\
+when she was excessively apologizing to\
+him (in fact,  he\
+\
+     seemed to relish her clumsy\
+     supplication),  would sometimes insult\
+her friends right in\
+front of\
+her,  would often command (\
+    not ask) her to\
+get\
+him a drink,  and\
+,  best of all,  flirted\
+with other hot\
+girls at the\
+table.</p>\
+<p\
+>There was a telling\
+moment\
+of the nature of their relationship\
+early in the night. She\
+was\
+giddy and excitable as she\
+laughed with her girlfriends and some\
+new arrivals,\
+when it suddenly\
+dawned on her that she had\
+neglected to promptly introduce her\
+boyfriend\
+to everyone. (And by\
+              promptly,  I mean not\
+              more than\
+three seconds had\
+              passed before she caught herself\
+              in this supposed irredeemable faux\
+              pas\
+.) Red-faced\
+,  she humbly corrected herself.</\
+p>\
+<p\
+>&#8220\
+;Oh my god,  I\
+&#8217;m so sorry\
+\
+!&#8221; she pleaded as\
+she looked at him. &#\
+8220;\
+I&#8217;\
+m so sorry! So sorry\
+! I forgot to\
+introduce you\
+to everyone! Everyone,  this\
+is [name],  my boyfriend\
+\
+.&#8221; Now semi-\
+whispering to him,  &#8220;Sorry\
+,  baby! Sorry.&#8221;</p>\
+<p>His facial\
+expression\
+remained unmoved. A powerful pause\
+heightened the awkwardness before he answered\
+.\
+&#8220;Don&#\
+8217;t worry about it\
+. I got\
+it.&#8221\
+; He then nods in the\
+direction of the others.</\
+p\
+>\
+<p>His vocal\
+tone and expression are important here\
+.\
+It was not consolingly beta\
+,  where the pitch rises on\
+&#8220;\
+worry&#8221\
+; and descends to a loving\
+shoulder rub on an elongated\
+&#\
+8220;I got it&#\
+8221;,  as his eyes crinkle\
+at\
+the corners in reassurance.\
+Nope,  it was more like\
+a staccato,\
+Draper-esque\
+,  punch to the face,\
+flatly delivered,  emotionless except\
+for\
+a hint of contempt,  which\
+was noticeable in the way he\
+commandeered\
+the drama by addressing the\
+table himself and refusing to glance\
+at her as\
+she effused with\
+apologia.</p>\
+<p\
+>I watched admiringly.\
+The\
+other man at the table glanced\
+at his feet nervously. The\
+girls\
+were a mix of hatred\
+and arousal.</p>\
+<\
+p>This\
+guy was the\
+flawless encapsulation of the jerk.\
+The dick. The narcissistic\
+prick\
+. All together now&#8230\
+;</p>\
+<p>\
+The\
+Asshole Hot Chicks Love.</\
+p>\
+<p>And\
+she? She was\
+the hot\
+chick who loves an asshole.\
+Every mannerism,  word and body\
+shift\
+&#8212; right down\
+to the tiniest facial tic &#\
+8212; telegraphed her\
+absolute devotion\
+&#8212; her ADDICTION &#\
+8212; to her jerk boyfriend\
+.</\
+p>\
+<p>\
+Now some of you will parry\
+with the usual gripes\
+. But\
+before you do,  know the\
+following:</p>\
+<p\
+>\
+She graduated from a top\
+-tier Ivy. Her degree\
+is in a numbers\
+-related\
+field. She is hot,\
+a hard 8.5.\
+Her\
+body is worthy of a\
+sacrificial fuckening. According to my\
+sources,  when she\
+isn&#\
+8217;t with her alpha\
+-squared asshole boyfriend,  she\
+is\
+one of the smartest,\
+most put-together and confident\
+girls in a room\
+. The\
+ditz act,  apparently,  only\
+blossoms in his presence. Her\
+girl\
+friends are jealous of her\
+even though they hate what she\
+becomes when she&#\
+8217;\
+s with him. And the\
+blow that I know will sting\
+beta\
+males the worst? She\
+COULD have almost any man she\
+wanted &#8212;\
+good men\
+,  solid company men,  respectable\
+men of their communities &#8212\
+;\
+but she chooses to be\
+with an arrogant renegade.</p\
+>\
+<p>\
+And him\
+? Decent looking. Easy on\
+the eyes,  I suppose most\
+women\
+would say. Certainly not\
+Hollywood looks. Not a big\
+or muscular guy.\
+Lean to\
+the point of skinny. Edgy\
+,  downscale style. (She\
+                     showed\
+up at this event\
+                     poured into an exquisite cocktail\
+                     dress. He arrived late\
+\
+                     with her,  wearing frayed\
+                     designer jeans and an untucked\
+                     tight flannel shirt over\
+\
+\
+                     a white Hanes wifebeater that\
+                     was showing through the top\
+                     . Most of the\
+\
+\
+                     other men were wearing suits\
+                     .) He was short.\
+Yes,  he might\
+have been\
+a half inch shorter than his gf. Unemployed.</p>\
+<\
+p>You read that right. He lost his [redacted] industry job\
+six months ago and was living\
+off her earnings. He has\
+money,  but\
+he doesn&#\
+8217;t spend it because\
+,  as he explained to me\
+\
+,  he&#8217;s\
+saving it for a few years\
+of fun-\
+time travel.\
+Whether he intends her to go\
+with him or not is left\
+\
+to interpretation.</p>\
+<\
+p>None of this is\
+new to me\
+. I&#\
+8217;ve met guys like\
+him before. I&#8217\
+\
+;ve *been* that\
+guy plenty of times,  when\
+the mood strikes\
+. I&#\
+8217;m intimately familiar with\
+the adoring love copping such a\
+\
+grotesque asshole alpha attitude inspires in\
+women. There is no escaping\
+that this is\
+a reality of\
+female sexual nature,  a powerfully\
+harsh reality that sends shockwaves of\
+\
+disbelief and disillusion through the more\
+tenderhearted of the inexperienced idealists.\
+Some learn from\
+what they see\
+behind the curtain; others cocoon\
+further into self-medicating platitudes\
+\
+.</p>\
+<p>\
+And what about the spectators?\
+What did the\
+men and women\
+in attendance think of him,\
+both those who knew and knew\
+\
+of him? From what I\
+could glean,  the men were\
+largely neutral.\
+Some hated him\
+(usually the biggest betas with\
+ overbearing girlfriends),  some liked\
+him\
+(maybe not surprising,\
+ the alphas and the omegas\
+ were affable toward him),\
+\
+and most were willing to throw\
+him under the bus in furtive\
+conversation at the\
+behest of their\
+gossipy girlfriends.</p>\
+<\
+p>More pertinently,  how\
+\
+did the women &#8212;\
+all of them well-educated\
+urbanite professionals &#\
+8212; feel about him?\
+In his company,  they were\
+girlish and borderline\
+shy,  or\
+self-conscious. Behind his\
+back,  they were disparaging,\
+\
+complaining bitterly of the way he\
+treats his girlfriend (bitterness was\
+                       correlated with their\
+closeness to\
+                       her),  and constantly &#\
+8212; I mean CONSTANTLY &#\
+8212\
+; working to install his\
+ouster. I saw one girl\
+drag her away so\
+that she\
+could introduce her to a man\
+who,  unknown to her at\
+the\
+time,  was a handsome\
+gay man.</p>\
+<\
+p>If you\
+held any\
+doubts that girl friends will not\
+conspire against you should they find\
+you\
+unacceptable boyfriend material for their\
+friend,  well&#8230;\
+you can put those\
+doubts to\
+rest now.</p>\
+<\
+p>Of course,  none\
+of\
+their efforts worked in the\
+least. He had been dating\
+his girlfriend for many\
+years,\
+during which time he has cheated\
+on her for months at a\
+stretch\
+with more than one woman\
+. His cheating,  his aloof\
+treatment of her,\
+her friends\
+&#8217; dispproval&#8230\
+; none of it seemed to\
+have\
+dampened her love for him\
+. Or her loyalty to him\
+,  for as I\
+learned from\
+a trusted source,  she never\
+,  not once in the sumptuous\
+prime\
+of her life when she\
+had every excuse and rationale to\
+do so,  cheated\
+on him\
+.</p>\
+<p>\
+Remember that the next time you\
+hear\
+of some whiny ho cheating\
+on her beta boyfriend,  and\
+rationalizing it by blaming\
+it all\
+on him.</p>\
+<\
+p>The professed hate the\
+girls\
+had for this asshole boyfriend of\
+one of their friends,  and\
+the wet glower\
+in their eyes\
+when they spoke of him,\
+belied a primitive attraction. It\
+\
+was not the impassioned hate a\
+man has for another man who\
+has humiliated him\
+,  or the\
+withering hate a woman has for\
+a weak ex-lover who\
+\
+now repulses her. When I\
+heard them talk about him,\
+their words ostensibly\
+carried a payload\
+of anger and disgust,  but\
+it was a gossamer veneer;\
+\
+to a hardened pro of female\
+codespeak like myself,  the dulcet\
+harmonies of untamed\
+curiosity sent their\
+words aloft on a stanza of\
+gina tingles. Listen closely,\
+\
+and you can hear the subliminal\
+poetry asserting itself &#8212;\
+&#8220;\
+ode to why\
+oh why do i hate this\
+guy but feel like i do\
+\
+?&#8221;</p>\
+<\
+p>Interestingly,  there was\
+one girl,\
+a looker in\
+every way and smart as tacks\
+to boot,  whose loathing for\
+\
+the asshole boyfriend of her best\
+friend seemed the most genuine.\
+I say &#\
+8220;seemed\
+&#8221;,  because it may\
+merely be the case that she\
+\
+was best at concealing her shameful\
+intrigue. Whatever the true motivation\
+,  I found\
+her responses to\
+him the most cutting. She\
+was clearly aiming for the throat\
+\
+,  and her eyes pierced like\
+laser beams,  her voice cold\
+and still as\
+sheet ice.\
+Lesser men would have suffered a\
+grievous wound from her attacks,\
+\
+for her barbs were sharp and\
+subtle enough to avoid triggering a\
+hen phalanx of\
+social diplomacy.\
+But the asshole deflected her thrusts\
+without breaking a sweat. In\
+\
+the smarts department,  he was\
+outclassed,  but in the attitude\
+department he had\
+her number.</\
+p>\
+<p>Why\
+did I find this dynamic the\
+\
+most interesting? Background helps.\
+She was dating a considerably older\
+man who was\
+not present at\
+this event,  an alpha male\
+in his own right,  for\
+\
+many years. Perhaps,  intimate\
+familiarity with her own alpha braces\
+her for the\
+\
+abyss that\
+always looms ominously to eternally capture\
+a woman&#8217;s\
+heart\
+should she become completely unguarded\
+. She sees in the asshole\
+boyfriend of her friend\
+the power\
+the alpha male has over all\
+female sense and reason,  and\
+she\
+wants to put him on\
+notice. It is her redemption\
+.</p>\
+<\
+p>\
+More interesting,  she alone among\
+all the girl friends never consoled\
+her\
+smitten friend,  never attempted\
+to introduce her to new men\
+,  and never assuaged\
+her ego\
+by telling her she could do\
+better. She was smart enough\
+to\
+know those kinds of interventions have no effect and,  worse,\
+usually result in\
+the opposite of\
+what was intended. There&#\
+8217;s an unwritten rule\
+\
+among very high-value women\
+who date alpha males &#8212; the\
+hate is for show. No woman would seriously give up the pleasure she gets\
+from dating the alpha jerks she loves. They&#8217;d all poach\
+each other&#8217;s boyfriends given half the chance,  and they know\
+it.</p>\
+'
+
+gm = epub.EpubHtml(title='state of mind',
+file_name='state_of_mind.xhtml',
+lang='en')
+gm.content='\
+</h2>State Of Mind</h2>\
+<p><em>\
+i loved that he was so \
+powerful i was nothing.<br \
+/>\
+</em>&#8211; \
+O </p>\
+<p\
+>What is it that separates \
+those select few men from all \
+the rest? The ones who \
+seemingly have no trouble getting pussy \
+when they want and how they \
+want it? The ones who \
+wield illimitable power to inflame the \
+desires of women?</p>\
+\
+<p>The key to \
+their power is not money or \
+sports cars or beach houses or \
+post graduate degrees or 50 inch \
+plasma TVs or chocolate covered strawberries \
+on a bed of rose petals \
+or any of that shit. \
+All of that is incidental and \
+is only important to the extent \
+that it improves your state of \
+mind. No,  the real \
+source of this power is already \
+within you. It is how \
+you SEE YOURSELF. It is \
+your decision to move through the \
+world without apology,  to set \
+aside complaining for decisive action,  \
+to let your brass balls do \
+your talking for you.</p\
+>\
+<p>The quintessential \
+masculine quality women can&#8217\
+;t resist is SUPREME UNSHAKEABLE \
+CONFIDENCE. You can be poor\
+,  out of shape,  stupid\
+,  unemployed,  addicted to drugs\
+,  and meet every one of \
+society&#8217;s standards \
+for LOSERNESS but if you radiate \
+those confident vibes that say you \
+are PERFECTLY FUCKING PLEASED WITH YOURSELF \
+you will get laid ALL THE \
+TIME. And the kinds of \
+girls who get wet for such \
+men aren&#8217;t \
+just bar sluts. Smart women\
+,  women with high self-\
+esteems and MBAs and,  yes\
+,  even &#8212; ESPECIALLY \
+&#8212; HARDCORE FEMINISTS will \
+crave the cock of the man \
+who exudes such power and happily \
+take it IN THE FACE and \
+UP THE ASS if it means \
+he will grace her with the \
+pleasure of his company for a \
+little while longer.</p>\
+\
+<p>THIS is the \
+kind of power that matters. \
+FUCK the normal rules. You \
+make the rules now. They \
+tell you to give give GIVE \
+till it hurts,  to do \
+your duty and throw yourself in \
+the blood-soaked grinding gears \
+of the KorporateAkademiaKredentialist Krell Machine in \
+service to society&#8217;\
+s great gaping maw and then \
+maybe&#8230; MAYBE&#\
+8230; one day you&#\
+8217;ll be lucky enough \
+to get chained for life to \
+some mediocre pussy and infrequent,  \
+tepid sex,  whereupon you will \
+work yourself tirelessly to the bone \
+shuffling your ungrateful brats through one \
+societal sacramental rite of passage after \
+another feeding the endless,  insatiable \
+hunger of the machinery of the \
+state. And they will pat \
+you on the head for your \
+devotion to the cause with lateral \
+promotions and certificates of exemplary service \
+and announcements in the wedding pages \
+of the local paper and a \
+brand new set of steak knives\
+.</p>\
+<p>\
+FUCK</p>\
+<p\
+>THAT</p>\
+<\
+p>NOIZE.</p>\
+\
+<p>There&#8217\
+;s a dirty little secret \
+they don&#8217;t \
+want you to know. And \
+everyone is in cahoots,  from \
+the alphas to the betas to \
+the keepers of the vagina. \
+It is this: You don\
+&#8217;t need to play by their rules to get \
+what you want! Women will \
+still FLOCK to you if you \
+shit all over everything you were \
+taught you needed to do to \
+earn their love as long as \
+you do it with STYLE and \
+UNWAVERING BOLDNESS and a TAKE IT \
+OR LEAVE IT attitude. Because \
+the simple truth is that the \
+right attitude counts for more than \
+all the material possessions in the \
+world.</p>\
+<p\
+>The POWER is in your \
+head.</p>\
+'
+
+
+gm2 = epub.EpubHtml(title='the naturals dilemma',
+file_name='the_naturals_dilemma.xhtml',
+lang='en')
+gm2.content='\
+<h2>The Natural''s Dilemma</h2>\
+<p>The Natural &#8212; the man who has \
+a seemingly otherworldly ability to entrance \
+women. The Natural &#8212\
+; not the CEO,  nor \
+the jet fighter,  nor the \
+doctor &#8212; is the \
+man most men secretly admire and \
+wish they had some of his \
+mysterious mojo.</p>\
+<\
+p>But in reality he \
+does not possess any magical abilities \
+out of reach of ordinary men\
+. The Natural is similar to \
+the self-taught pickup artist\
+,  with the critical distinction being \
+that the former assimilated the lessons \
+of love earlier in life. \
+His masterstrokes paint the canvas of \
+women effortlessly because he has been \
+in training since he first noticed \
+that girls and boys are different\
+. If you break down the \
+game of Naturals,  you&#\
+8217;ll learn that their \
+maneuvers and tactics and strategies,  \
+far from being indefinable essences that \
+only a very few lucky can \
+lay claim to,  are in \
+fact identical to the blueprints of \
+learned game.</p>\
+<\
+p>Neither is the Natural \
+necessarily good-looking. Many \
+Naturals,  perhaps most of them\
+,  are nondescript in the looks \
+department. But because there is \
+good reason to think a lot \
+of them have inherited the Dark \
+Triad suite of personality traits,  \
+they are skilled at <a \
+href="https://heartiste.\
+wordpress.com/2012/\
+12/05/evidence-\
+that-peacocking-works/" \
+target="_blank">presenting themselves \
+in a way</a> \
+that projects their sex appeal,  \
+or invents it whole cloth,  \
+if need be.</p>\
+\
+<p>No,  what \
+the Natural has that mere mortals \
+don&#8217;t is \
+this: UNSTOPPABLE CONFIDENCE. They \
+had the <a href="\
+https://heartiste.wordpress.\
+com/2012/03/\
+08/the-aloof-\
+alpha-attitude-explained/" \
+target="_blank">ALPHA ATTITUDE\
+</a> at a young \
+enough age that it became ingrained \
+to such an extent they rarely \
+yield to the temptation to doubt \
+their appeal to women.</p\
+>\
+<p>But the \
+Externally Validated Natural who has spent \
+a lifetime leaning on his looks\
+/social connections/fame to \
+get laid has a dilemma. \
+As a reader puts it:</\
+p>\
+<blockquote><p\
+>I&#8217;ve \
+said it many times before,  \
+the most pathetic thing in the \
+world is a natural who has \
+<a href="http://\
+www.rooshv.com/\
+you-have-no-\
+idea-how-easy-\
+it-is-for-\
+good-looking-men#\
+comment-66324" target="\
+_blank">lost his mojo</\
+a>.</p></blockquote>\
+\
+<p>The very blessing \
+that makes The Natural an early \
+adopter ladykiller is the curse that \
+hobbles him later in life when \
+challenges arise that introduce cracks to \
+his impenetrable edifice of entitlement. \
+You see,  the Externally Validated \
+Natural has not bothered to learn \
+the crimson arts. He has \
+not mastered the state control that \
+is necessary when inevitable dry spells \
+occur,  or when glances from \
+women are fewer and farther between\
+,  or when uppity women with \
+visions of mcmansion upgrades dancing in \
+their heads give him shit he \
+is not accustomed to receiving. \
+He has never studied how to \
+remain aloof and indifferent in the \
+face of female fickleness because he \
+has rarely experienced what life is \
+like as a beta male who \
+must battle to be loved,  \
+rather than watching love fall in \
+his lap like autumn leaves.</\
+p>\
+<p>The \
+Natural who understands on a more \
+than superficial level the nature of \
+women,  and who has a \
+working familiarity with game concepts,\
+is a force ten charmer.\
+Most Naturals don&#8217;\
+t; they do the right\
+things without knowing how or why\
+they do them. When success\
+eludes them and the expected warmth\
+from women is missing,  they\
+are left with nothing,  no\
+storehouse of knowledge or pride of\
+past successes achieved through self-\
+aware hard work,  to pull\
+them up from a dangerous downward\
+spiral into the betatude they never quite understood either.</p>\
+'
+
+
+gm3 = epub.EpubHtml(title='the underrated alpha male quality',
+file_name='the_underrated_alpha_male_quality.xhtml',
+lang='en')
+gm3.content='\
+<h2>The Underrated Alpha \
+Male Quality</h2>\
+<\
+p>At a social gathering \
+with friends and lovers,  I \
+witnessed an attempted pickup unfold between \
+an alpha male and a cute \
+girl. We were a merged \
+group of three girls and two \
+men,  including myself,  and \
+everyone there was known to me \
+in more than a passing fashion\
+. (I use the term \
+   &#8220;alpha male\
+   &#8221; as shorthand \
+   to describe the constellation of \
+   personality traits he possessed which \
+   gave him an advantage in \
+   the mating market. He \
+   is not a particularly good\
+   -looking man,  but \
+   I suspect most girls would \
+   say he is at least \
+   not hard on the eyes\
+   .)</p>\
+<p\
+>The girls with me knew \
+that said alpha male was single \
+and looking,  (ladies,  \
+               we&#8217;re \
+               ALWAYS looking),  and pow\
+-wowed with each other to \
+find a third girl they knew \
+to be single as well for \
+a possible alpha male-cute \
+girl love copulation. Apparently,  \
+not only do girls want alpha \
+males for themselves,  they also \
+want them for their friends. \
+It&#8217;s that \
+primeval female harem-managing mentality \
+rising to the fore.</p\
+>\
+<p>One of \
+the girls briefly absconded to another \
+room and returned with a girl \
+friend in tow who she wished \
+to introduce to the alpha male\
+. (I love using these \
+   terms because I know how \
+   much it chafes the asses \
+   of the right sorts of \
+   people.) The third girl \
+was in transit to another subgroup\
+,  and her slightly puzzled look \
+suggested that she did not know \
+why she was being pulled over\
+. After a round of hellos\
+,  I watched and listened,  \
+from as sly a vantage point \
+as I could muster under the \
+circumstances,  the conversation that ensued \
+between the alpha male and the \
+cute girl summoned to unwittingly participate \
+in his machinations.</p>\
+\
+<p>She looked him \
+over as he began speaking,  \
+and I could tell there lacked \
+any sort of insta-spark \
+of delight at his physical countenance\
+. Nevertheless,  a man does \
+not become an alpha male by \
+abandoning all women who don&#\
+8217;t instantly take a \
+shine to his looks. For \
+the first minute or two,  \
+she would periodically glance at the \
+girl friend to my side with \
+that &#8220;why don\
+&#8217;t you join \
+in on this conversation so that \
+I can impatiently slip away like \
+a thief in the night&#\
+8221; eye squeeze that women \
+are so naturally adept at executing\
+.</p>\
+<p>\
+But then a funny thing happened \
+on the way to a certain\
+,  subtle SWPL rejection where all \
+feelings are spared in the most \
+sadistic manner possible: the vibe \
+turned in his favor. I \
+can&#8217;t tell \
+you the exact moment of redemption\
+,  but I can say that \
+the energy between them got a \
+boost in the second or two \
+after he dropped what can only \
+be charitably described as a couched \
+insult.</p>\
+<p\
+>&#8220;Well at least \
+you&#8217;re still \
+in your heels. Most girls \
+like you are trading in for \
+flats at this hour.&#8221\
+;</p>\
+<p>\
+Her head snapped back. She \
+was at full attention. Gone \
+was the exasperated sideways glance for \
+a rescuer,  replaced by flushed \
+indignation that is the telltale mark \
+of blood pipelined directly between the \
+hamster and the vagina. A \
+few hollow protests to the contrary \
+notwithstanding,  she fell quickly into \
+his orbit and they were off \
+to the races. He had \
+pricked her safe and secure but \
+ultimately flimsy bitch bubble,  and \
+she could not be happier for \
+it.</p>\
+<p\
+>Now some of you readers \
+are sure to lay the credit \
+for his success on that convo\
+-refueling neg which slices and \
+dices bland boring expectations like a \
+ginsu. You&#8217;\
+d only be partly right in \
+your assumptions. You see,  \
+the neg was really just a \
+culmination of something else,  some \
+other ineffable quality,  that alpha \
+males have in mass quantities: \
+    persistence.</p>\
+<\
+p>Not that cringing,  \
+awkward,  pushy,  socially uncalibrated \
+persistence that a few oddly aggressive \
+beta and omega males employ,  \
+but the calm,  controlled,  \
+almost serene persistence that doesn&#\
+8217;t spook girls and \
+which signals a strong,  dominant \
+masculinity that women crave. It \
+might be more precise to call \
+it &#8220;steadiness&#\
+8221; rather than persistence.</\
+p>\
+<p>The \
+alpha male at this function knew \
+she wasn&#8217;t \
+immediately into him. The way \
+he handled this &#8220;\
+setback&#8221; wasn&#\
+8217;t to slink away \
+like a defeated herb,  or \
+pump up the volume in a \
+desperate last gasp maneuver to capture \
+her attention. He wasn&#\
+8217;t implicitly apologetic for \
+the convo lull (as if \
+                it was his responsibility to \
+                keep everyone entertained),  nor \
+was he giving any outward sign \
+that he felt any pressure to \
+perform.</p>\
+<p\
+>He simply stayed rooted at \
+his spot,  never wavered in \
+his eye contact,  maintained a \
+neutral vocal cadence,  and never \
+stupidly smiled to occupy dead air \
+as so many less confident men \
+are wont to do. He \
+just kept&#8230; listening\
+. And talking. And raising \
+a single eyebrow. And leading \
+the topic of discussion. And \
+refraining from showing any discomfort with \
+her feints to escape his company\
+.</p>\
+<p>\
+And that was how he won \
+her. Slow and steady and \
+persistent and unshakeable. His body \
+language and unperturbed social grace was \
+the foundation upon which she was \
+able to lean for evidence of \
+alpha maleness. The neg was \
+only icing on his seductive cake\
+. The best time to drop \
+a neg is when it is \
+least expected,  not when it \
+is obviously a craven effort to \
+&#8220;win over&#\
+8221; an intransigent girl. \
+For him,  the neg was \
+an adjunct that complimented his entire \
+game repertoire.</p>\
+<\
+p>The alpha male is \
+both aloof and persistent. His \
+aloofness is more a vague impression \
+that flows from his attitude,  \
+and his persistence is a dagger \
+that sneaks up on women and \
+chips away at their coyness. \
+When you can finally grasp that \
+seeming contradiction and apply it in \
+real social interactions,  your game will have matured immeasurably.</p>\
+<p>Never listen to \
+man-haters aka feminists who \
+claim that women don&#8217\
+;t like persistent men. \
+They do. Women love persistent \
+men who are persistent from a \
+position of want,  not need\
+. Women don&#8217;\
+t love the idea of persistence \
+because they associate it,  perhaps \
+justifiably,  with overly aggressive meatheads \
+throwing themselves at random vaginas during \
+garbage hour. But now you \
+know that there is better way \
+to be persistent. And that \
+you are doing honor to your \
+alpha male ancestors by pursuing that \
+scared little bunny to the farthest \
+corners of the warren,  instead \
+of turning tail the first time \
+the bunny hops away a few \
+feet from your swiping paws.</\
+p>\
+'
+
+gm4 = epub.EpubHtml(title='inner game',
+file_name='inner_game.xhtml',
+lang='en')
+gm4.content='\
+<h2>Inner Game</h2>\
+<p>I have a\
+friend who is very self-\
+critical. When we go out\
+to meet girls he will handicap\
+his game by being too hard\
+on himself. When he isn\
+&#8217;t weaseling out\
+of approaching girls with every excuse\
+in the book he is projecting\
+an overly attentive vibe when he\
+does manage to enter a set\
+. In the field,  I\
+&#8217;d often hear\
+him say:</p>\
+<\
+p>&#8220;I wonder\
+if she got my jokes?&#\
+8221;</p>\
+<p\
+>&#8220;I hope I\
+didn&#8217;t come\
+off as too needy.&#8221\
+;</p>\
+<p>&#\
+8220;She&#8217;\
+s probably looking for a different\
+type of guy.&#8221;</\
+p>\
+<p>Poor\
+inner game &#8212; what\
+is known by other jargon as\
+your state of mind or your\
+self confidence &#8212; is\
+inwardly directed. Good inner game\
+is outwardly directed. It&#\
+8217;s the difference between\
+berating yourself for not winning over\
+others and berating others for not\
+winning over you. The men\
+who are naturally good with women\
+live outside their minds &#8212\
+; they are externally focused.\
+The downside is that they are\
+usually not very introspective,  but\
+who cares about that shit when\
+you&#8217;re getting\
+pussy? Introspection is for dainty\
+young women in sundresses picking buttercups\
+in meadows.</p>\
+<\
+p>If my friend had\
+good inner game what he would\
+have said is:</p>\
+\
+<p>&#8220;She\
+loses points for not having a\
+good sense of humor.&#8221\
+;</p>\
+<p>&#\
+8220;She&#8217;\
+s the kind of girl who\
+hides her insecurity behind aloofness.&#\
+8221;</p>\
+<p\
+>&#8220;I&#8217\
+;ll chat with her to\
+see if she&#8217;\
+s the type of girl I\
+want in my life.&#8221\
+;</p>\
+<p>\
+I hear a lot of talk\
+about how Game routines are going\
+stale,  and chicks see right\
+through them. In fact,\
+the problem isn&#8217;\
+t typically with the routines,\
+it&#8217;s with\
+the confidence and congruence in which\
+they are delivered. If your\
+inner game isn&#8217;\
+t solid then what you present\
+to the outside world won&#\
+8217;t match what you\
+are feeling inside. Your inner\
+game is reflected through your body\
+language and voice tone,  so\
+however clever your routines they will\
+strike a false note if you\
+don&#8217;t internalize\
+the confidence you are trying to\
+portray. You will betray yourself\
+with negative thinking.</p>\
+\
+<p>Fake it till\
+you make it means faking that\
+internal confidence as well as the\
+external behavior. This is not\
+as hard as it sounds.\
+Every time you feel self-\
+doubt and talk yourself into inaction\
+,  yell &#8220;Stop\
+!&#8221; out loud,\
+and your brain will reboot.\
+You then consciously reframe your thought\
+processes to put the burden of\
+approval seeking on those around you\
+. With good inner game you\
+can say just about any ridiculous\
+routine and the girl will be intrigued.</p>\
+<p>The most important change in thinking you can make:</p>\
+<p><strong>You\
+are not there to win over\
+women,  they are there to\
+win over you.</strong></\
+p>\
+<p>Keep\
+saying this over and over until\
+you begin to believe it.\
+You are re-wiring yourself\
+. Don&#8217;t\
+worry about the truth or falsity\
+of it. That&#8217;s irrelevant.</p>\
+<p>The beauty of\
+this system is that it turns\
+the seduction template on its head\
+. Co-opting a woman\
+&#8217;s natural choosiness\
+and making yourself the chooser instead\
+of the chosen is extremely attractive\
+to women. Because it hardly\
+ever happens this way,  women\
+will happily strive to win the\
+approval of a man who is\
+clear in his words and his\
+actions that he is judging them\
+for worthiness of his attention,  and not the other way around.</p>\
+'
+
+
+gm5 = epub.EpubHtml(title='are ugly women necessary as stepping stones',
+file_name='are_ugly_women_necesasry_as_stepping_stones.xhtml',
+lang='en')
+gm5.content='\
+<h2>Are Ugly Women Necessary As Stepping Stones?</h2>\
+<p><em>Alert: Intrapickup squabble!</em></p>\
+<p>Is it true\
+that an aspiring womanizer &#8212\
+; or even a typical man\
+in a billowy button-down\
+who wants to improve his love\
+life &#8212; must pay\
+his dues with ugly women before\
+he can achieve the goal of\
+banging hotter women? The question\
+hints at a significant fault line\
+in current pickup thinking,  precisely\
+because it throws into stark relief\
+the ego-shattering human impulse\
+to judge men <a href\
+="https://heartiste.wordpress\
+.com/2008/10\
+/21/misconceptions-about\
+-the-alpha-male\
+/" target="_blank">based\
+on the quality of women they\
+pull</a>.</p>\
+\
+<p>I&#8217\
+;ll paraphrase a reader&#\
+8217;s objections,  who\
+asked not to be directly quoted\
+:</p>\
+<p><\
+em><a href="http\
+://www.rooshv.com\
+/the-i-have\
+-standards-excuse" target\
+="_blank">Roosh&#8217\
+;s idea</a>\
+that you have to bang a\
+lot of unattractive women to get\
+hotter women is not persuasive.\
+What helps is getting laid regularly\
+,  which doesn&#8217;\
+t necessarily require cutting your teeth\
+on ugly chicks. You only\
+need one woman to get laid\
+regularly,  so such a strategy\
+obviates the need to fill up\
+your notch post with lots of\
+uglies and plain janes. Ideally\
+,  your &#8220;regular\
+lay&#8221; should be\
+in the 6 to 8 range\
+,  but if you&#8217\
+;re a newbie you may\
+have to start with 4s and\
+5s. Picking up large numbers\
+of less attractive women may give\
+you experience with logistics and help\
+with honing your routines,  but\
+that is the relatively easy part\
+of game. Getting laid regularly\
+,  even if it&#8217\
+;s with one woman,\
+is all a man needs to\
+step up to the next higher\
+beauty class.</em></p\
+>\
+<p>My opinion\
+on this matter falls somewhere between\
+Roosh&#8217;s and\
+the anonymous reader&#8217;\
+s takes. Roosh is entirely\
+correct to note that men who\
+use the &#8220;I\
+have standards&#8221; excuse\
+are,  more often than not\
+,  men who aren&#8217\
+;t living up to their\
+professed high standards. It&#\
+8217;s similar in spirit\
+to the internet nerd sour grapes\
+syndrome,  in which hot chicks\
+that are unavailable to them are\
+deemed unworthy of their loving nerd\
+attention because of some ridiculously trivial\
+flaw,  like pointy elbows.</\
+p>\
+<p>Roosh\
+is also onto something when he\
+advocates for having flexible standards.\
+If 8s and above are all\
+you will deign to approach,\
+then there are going to be\
+times and places when and where\
+you will endure some long,\
+tough dry spells,  and this\
+is especially true if you are\
+an average guy with average game\
+and above average horniness. Unless\
+you have rock solid inner game\
+and unshakeable confidence that enables you\
+to weather extended down times without\
+losing your pickup magic or your\
+aura of charismatic fuckability,  those\
+dry spells will hurt your interactions\
+with women. Like dogs can\
+smell fear,  women can smell\
+celibacy.</p>\
+<p>The reader suggests\
+that the ideal route for men\
+to take to avoid sexless purgatory\
+while keeping the ladder-climbing\
+option open is to gun for\
+the decent-looking regular lay\
+. This allows a man to\
+avoid the dispiritment that accompanies fucking\
+too many uglies while also sparing\
+him the stink of celibacy that\
+erodes confidence and spooks hot chicks\
+.</p>\
+<p>\
+And that&#8217;s\
+where I part company with Roosh\
+and favor the life strategy of\
+the anonymous reader. Fucking uglies\
+,  in even small quantities and\
+in temporary bouts,  risks flirting\
+with depression and slumping into a\
+long-term rut. I\
+don&#8217;t come\
+by this view speculatively. I\
+have some real world trials by\
+trolls from which to evangelize.\
+I&#8217;ll give\
+you an example I&#8217\
+;m thinking of from years\
+ago:</p>\
+<p\
+>I had spent a few\
+weeks fucking a 5. It\
+was only four bang sessions,\
+but that was enough to alter\
+my self-perception and mood\
+. I had gone through a\
+bad breakup and she (the\
+                     5) presented herself,\
+fortuitously,  almost immediately after the\
+final severance from my ex.\
+She was friendly and sweet,\
+and open to meeting someone.\
+I gamed her but hardly needed\
+more than my first wave artillery\
+; she melted quickly. She\
+had a good body,  so\
+despite her plain face the sex\
+was good. But I couldn\
+&#8217;t help notice\
+it was not as good as\
+<a href="https://\
+heartiste.wordpress.com/\
+2007/08/30/\
+hotter-women-better-\
+sex/" target="_blank">\
+sex with hotter women</a\
+>.</p>\
+<p>\
+Just at the point I was\
+getting the full measure of my\
+single man&#8217;s\
+confidence back,  the 5 conveniently\
+left town,  rescuing me from\
+the awkwardness of a messy dumping\
+I knew had to be done\
+. However,  upon leaving,\
+the sexless rut began to reappear\
+. Two weeks went by with\
+no acceptable nibbles on my penile\
+line. A buddy who was\
+a wingman at the time suggested\
+I meet up with a girl\
+he had failed with himself as\
+a sort of friendship offering in\
+difficult times.</p>\
+<\
+p>&#8220;You&#\
+8217;ll really like this\
+girl. She&#8217;\
+s totally your type. A\
+solid 8. Very hot,\
+blonde.&#8221;</p>\
+\
+<p>&#8220;Oh\
+yeah? If she&#8217\
+;s so hot,  why aren&#8217;t you working on her?&#8221;</p>\
+<p>&#8220;I\
+did. I got nowhere,\
+but it&#8217;s\
+OK,  I prefer brunettes.\
+We hang out together. She\
+makes me look good when we\
+go out.&#8221;</p\
+>\
+<p>&#8220;\
+So you want me to meet\
+her? Hmm.&#8221;</\
+p>\
+<p>&#8220\
+;Yes,  you&#8217\
+;ll thank me.&#8221\
+;</p>\
+<p>\
+We met,  all four of\
+us &#8212; me,\
+the &#8220;hot blonde\
+8&#8221;,  my friend\
+,  and his current girlfriend &#\
+8212; late at night under\
+cover of a dark lounge.\
+I didn&#8217;t\
+know where my friend&#8217\
+;s head was,  but\
+she was no 8. Yes\
+,  she had blonde hair,\
+but that was about where the\
+confirmation of my friend&#8217\
+;s powers of observation ended\
+. From what I could glean\
+through the dim club light and\
+my alcoholic haze,  she was\
+no better than a 6,\
+and maybe even a 5.</\
+p>\
+<p>Nevertheless\
+,  I was horny,  and\
+feeling down. I could use\
+the pickmeup pickherup. We trundled\
+outside,  into a cab,\
+and I took her back to\
+my pad. Inside my place\
+,  lights at full blast,\
+I was sorely disappointed to realize\
+my friend&#8217;s\
+&#8220;solid 8&#\
+8221; was a weak 4\
+. I had never fucked a\
+4 before,  and never would\
+again.</p>\
+<p\
+>Too late to reverse course\
+,  and bored into conspiracy,\
+I lamely escorted her into my\
+bed,  and quickly swung her\
+into the doggy-style position\
+where exposure to her face would\
+be limited. Her body wasn\
+&#8217;t half-\
+bad,  but not good enough\
+to compensate; my dick went\
+limp inside her vagina. I\
+imagine that has to be a\
+girl&#8217;s worst\
+nightmare; up front rejection in\
+the form of a backturn or\
+a wandering eye is bad enough\
+,  but getting rejected in the\
+most softeningly obvious way possible when\
+you are literally giving it everything\
+you&#8217;ve got\
+,  your womanhood deeply committed&#\
+8230; well,  that&#8217;s gotta sting.</p>\
+<p>I couldn&#\
+8217;t be bothered to\
+make excuses. She dressed and\
+left in silence. My blue\
+mood hardened. I cursed my\
+friend&#8217;s taste\
+in women. I took a\
+shower to wash off the dirt\
+that had alighted upon my soul\
+.</p>\
+<p>\
+Two women,  one borderline ugly\
+and the other plain as unsyruped\
+pancakes,  in a row and\
+I was done with the idea\
+of it. Their company,\
+however genial and accommodating,  did\
+nothing to lift my spirits or\
+gird my confidence. Just the\
+opposite,  in fact: I\
+fell deeper into self-flagellation\
+.</p>\
+<p>\
+One week after the limp-\
+out incident,  I hit up\
+a local lounge and met an\
+8.5 whom I would\
+spend the next five months fucking\
+in gloriously hedonistic abandon. I\
+have yet to share my bed\
+since then with a woman lower\
+than a 6.5.\
+I learned my lesson.</p\
+>\
+<p>I&#\
+8217;m as horny a\
+guy as you&#8217;\
+ll find,  but I have\
+to admit not so horny that\
+I&#8217;ll start\
+rummaging through the 3 and 4\
+kitchen trash if there&#8217\
+;s no four star restaurant\
+available. Maybe that&#8217\
+;s a problem of getting\
+laid too regularly &#8212;\
+you lose that wall-climbing\
+horniness that would compel you to\
+stick it in the most convenient\
+wet hole. Ugly girls as\
+stepping stones to hotter women sounds\
+good in theory,  but in\
+reality sex with them too often\
+&#8212; and too often\
+can happen a lot faster than\
+most men realize &#8212;\
+is not only a time and\
+energy suck,  but a depressive\
+drug that corrodes self-confidence\
+.</p>\
+<p>\
+Perhaps this feeling &#8212;\
+this sex dynamic &#8212;\
+varies by race,  age and\
+baseline dignity. If so,\
+more power to the guys who\
+don&#8217;t mind\
+dumping fucks in seacows and butterfaces\
+. I can&#8217;\
+t bring myself to do it\
+,  even if it&#8217\
+;s all the local talent\
+has to offer. My minimum\
+threshold in women&#8217;\
+s looks is 6,  under\
+which it becomes almost physiologically impossible\
+for me to complete the bang\
+.</p>\
+<p>\
+My inner game is strong enough\
+now that I can afford to\
+risk a month or two downtime\
+without getting too rusty or too\
+doubtful of my skills. I\
+would only use an ugly girl\
+who fell below my minimum looks\
+threshold as a stepping stone in\
+the most dire of circumstances,\
+such as if my dry spell\
+extends beyond two months,  or\
+I&#8217;ve taken\
+to,  ahem,  &#8220\
+;mood enhancers&#8221;\
+that give me 24 hour wood\
+.</p>\
+<p>\
+So you might say that the\
+reader&#8217;s strategy\
+is the way to go if\
+you are a high risk for\
+lengthy dry spells,  and your\
+game and self-possession aren\
+&#8217;t strong enough\
+to carry you through a slump\
+slumming it with ugly chicks.\
+Alternatively,  Roosh&#8217;\
+s strategy &#8212; to\
+skip the &#8220;regular\
+lay&#8221; girlfriends and\
+just focus on getting laid even\
+if the talent available is not\
+up to snuff &#8212;\
+is better if you can&#\
+8217;t tolerate any kind\
+of dry spell,  if your\
+dick is indiscriminate,  and if\
+your game is good enough that\
+regular pickup with little downtime is\
+within the realm of possibility.</\
+p>\
+<p>TL\
+;DR Don&#8217;\
+t make a habit of banging\
+ugly chicks. It can be\
+as bad for your self-\
+confidence as involuntary celibacy.</p\
+>\
+'
+
+gm6 = epub.EpubHtml(title='i only play games with girls who deserve it',
+file_name='i_only_play_games_with_girls_who_deserve_it.xhtml',
+lang='en')
+gm6.content='\
+<h2>I Only Play Games With Girls Who Deserve It</h2>\
+<p><a href="\
+https://heartiste.files.\
+wordpress.com/2008/\
+06/hott.jpg"></\
+a>I get this occasionally\
+from some girls I date,\
+usually after they have dumped a\
+major shit test on me and\
+I am forced to respond with\
+advanced game:</p>\
+<\
+p><em>&#8220;\
+Why does everything have to be\
+a test with you?&#8221\
+;</em></p>\
+<\
+p>I thought about this\
+and reflected on my history with\
+women. It was partly true\
+. With certain girls I&#\
+8217;ve dated,  I\
+was in game mode <a\
+href="https://heartiste.\
+wordpress.com/2007/\
+04/11/excerpt-\
+from-the-book-\
+of-alpha/" target="\
+_self">all the time</\
+a>. One girl even said\
+that she knew when I would\
+return her calls because I would\
+always wait the requisite 20 minutes\
+.</p>\
+<p>\
+Dispiritingly,  dogmatic game &#8212\
+; press this button,  pull\
+that lever &#8212; will\
+work as intended. You can\
+<img data-attachment-\
+id="665" data-\
+permalink="https://heartiste.\
+wordpress.com/2008/\
+06/19/i-\
+only-play-games-\
+with-girls-who-\
+deserve-it/hott/"\
+data-orig-file="\
+https://heartiste.files.\
+wordpress.com/2008/\
+06/hott.jpg"\
+data-orig-size="\
+450, 323" data-\
+comments-opened="1"\
+data-image-meta="{&\
+quot;aperture&quot;:&\
+quot;0&quot;,\
+&quot;credit&quot\
+;:&quot;&quot;, &\
+quot;camera&quot;:&\
+quot;&quot;, &quot\
+;caption&quot;:&quot\
+;&quot;, &quot;\
+created_timestamp&quot;:&quot;\
+0&quot;, &quot\
+;copyright&quot;:&quot\
+;&quot;, &quot;\
+focal_length&quot;:&quot;\
+0&quot;, &quot\
+;iso&quot;:&quot\
+;0&quot;, &\
+quot;shutter_speed&quot;:&\
+quot;0&quot;,\
+&quot;title&quot\
+;:&quot;&quot;}" data\
+-image-title="hott\
+" data-image-description\
+="&lt;p&gt\
+;hott&lt;/p\
+&gt;\
+" data-\
+medium-file="https://\
+heartiste.files.wordpress.\
+com/2008/06/\
+hott.jpg?w=\
+300&#038;h=\
+209" data-large-\
+file="https://heartiste.\
+files.wordpress.com/\
+2008/06/hott.\
+jpg?w=450"\
+class="alignright size-medium\
+wp-image-665"\
+src="https://heartiste.\
+files.wordpress.com/\
+2008/06/hott.\
+jpg?w=300&#\
+038;h=209"\
+alt="hott"   />never\
+truly BE YOURSELF with women because\
+almost all men being themselves will\
+regress to lounging on the couch\
+in their underwear as long as\
+their basic needs are met.\
+Literally,  you could put a\
+feeding tube in a guy&#\
+8217;s mouth,  a\
+drainage tube up his anus,\
+a playstation controller in his hand\
+,  and a girl&#8217\
+;s mouth on his cock\
+and he&#8217;ll\
+lay there like that until he\
+spontaneously self-combusts.<a\
+href="https://heartiste.\
+files.wordpress.com/\
+2008/06/hott.\
+jpg"></a></p>\
+\
+<p>And women too\
+. Look what happens to women\
+who have totally given up on\
+finding a man &#8212;\
+they blow up like whales,\
+wear flip flops all the time\
+,  and cut their hair short\
+. When you see a frumpy\
+,  charmless,  fat woman you\
+know she is BEING HERSELF.</\
+p>\
+<p>So\
+why do I overgame with some\
+girls and not others? It\
+&#8217;s not a\
+looks thing. Some of the\
+prettiest girls I&#8217;\
+ve been with were a breeze\
+to handle once in a relationship\
+,  even though during the first\
+crucial dates they were the toughest\
+to game. Hot girls tend\
+to frontload their gameplaying,  so\
+if you breach their beachhead it\
+&#8217;s a clear\
+march to center city.</p\
+>\
+<p>I think\
+it&#8217;s an\
+ego issue,  or maybe one\
+of intelligence. Very smart girls\
+are always on the lookout for\
+Machiavellian maneuvers in their men because\
+they do it themselves. The\
+world is our mirror. Combined\
+with a powerful but sensitive ego\
+,  a girl like this will\
+be hyperaware of manipulation and deathly\
+afraid of getting hurt. <\
+a href="https://heartiste\
+.wordpress.com/2008\
+/05/11/circles\
+/" target="_self">Stephane\
+of Ideagasms</a> calls\
+these types of women (and\
+                      men) Interrogators &#8212\
+; a subspecies of Energy Vampires\
+:</p>\
+<blockquote><\
+p>Interrogators are (initially\
+                     ) difficult to detect,\
+because<br />\
+they are\
+perfectionists; These people see the\
+life as a<br />\
+\
+competitive GAME and they are quite\
+masterful when it comes<br\
+/>\
+to manipulating others.  </\
+p>\
+<p>Their\
+philosophy?  &#8220;Life\
+is just a game &#8211\
+; You either play<br\
+/>\
+by the rules,  or\
+you&#8217;re a\
+loser.&#8221; They see\
+the world as<br />\
+\
+Win/Lose instead of Win\
+/Win.</p>\
+<\
+p>That&#8217;\
+s a great metaphor for explaining\
+what Interrogators<br />\
+do\
+to people,  because when you\
+spot an Interrogator and try<\
+br />\
+to gently point out\
+what he or she is doing\
+,  they too will<br\
+/>\
+pretend that they are innocent\
+and that this heavily<br\
+/>\
+ingrained and entirely OBVIOUS pattern\
+of behavior does not<br\
+/>\
+exist.</p>\
+<\
+p>Then they will turn\
+around and casually remark that there\
+is<br />\
+something wrong\
+with YOU. They&#8217\
+;ll go,  &#8220\
+;Why would you say<\
+br />\
+that? Why are\
+you so PARANOID,  huh?&#\
+8221; (Notice they are\
+       not<br />\
+really\
+       asking a question,  but rather,  making a statement<br />\
+about you.)</p>\
+<p>Or they will\
+accuse you of being &#8220\
+;too sensitive&#8221;&#\
+8230; as if<br\
+/>\
+*sensitivity* was a\
+bad thing!</p>\
+<\
+p>MANY of the top\
+&#8220;seduction community gurus\
+&#8221; are simply<\
+br />\
+INTERROGATORS. This is\
+why they &#8220;play\
+the game&#8221; and\
+have<br />\
+all sorts\
+of complicated &#8220;chess\
+moves&#8221; and strategies\
+for<br />\
+interacting with\
+women. They have a HIDDEN\
+AGENDA.</p>\
+<p\
+>Interrogators ask a lot of\
+rhetorical questions,  and often play\
+<br />\
+&#8220;\
+Devil&#8217;s advocate\
+&#8221;. But,  the\
+questions they ask are not<\
+br />\
+questions at all!\
+It is their attempt to break\
+down your<br />\
+reality\
+in the form of negative presuppositions\
+about you.</p></blockquote\
+>\
+<p>Overgaming can\
+be caustic to forming a relationship\
+with a girl you really like\
+. The best relationships are built\
+on a foundation of sincerity,\
+not mutually asssured deconstruction. It\
+&#8217;s a tragedy\
+when the couple really like each\
+other and the mutual gaming undermines\
+the potential for a deeper connection\
+. Game and ego-protection\
+will always be a necessary component\
+of any interaction you have with\
+quality women,  but it should\
+be relegated to a supplement after\
+a certain amount of bonding has\
+occurred. At some point,\
+you have to open your heart\
+and let the chips fall where\
+they may.</p>\
+<\
+p>So when I game\
+too much for too long,\
+it&#8217;s with\
+the girls who deserve it.\
+If I&#8217;m\
+getting shit tested all the time\
+,  or she&#8217;\
+s in <strong><a\
+href="https://heartiste.\
+wordpress.com/2007/\
+04/25/dont-\
+be-that-girl/"\
+target="_self">Aloof and\
+Indifferent</a></strong>\
+mode every other day,  or\
+I sense that she&#8217\
+;s hiding something,  I\
+will respond in kind. We\
+calibrate our actions and behavior to\
+match the other person&#8217\
+;s. Women,  being\
+the gatekeepers and mate choosers,\
+are responsible for how men strategize\
+to get in their pants and\
+their hearts. If a girl\
+makes it hard for a guy\
+to be sincere by playing Miss\
+Scheming Queen,  he will react\
+with more game. If she\
+&#8217;s letting him\
+know how much she loves him\
+,  he will be real with\
+her.</p>\
+<p\
+>You get what you give\
+.</p>\
+<p>\
+Make no mistake,  this is\
+not an anti-game screed\
+. Game is absolutely essential in\
+the beginning stages (See:\
+                      Mystery Method&#8217;\
+                      s A1 &#8211;\
+                      S3) for every women\
+you want to sex,  unless\
+your value is so much higher\
+than hers that you can do\
+nothing and she&#8217;\
+ll throw herself on your junk\
+. Relationship game is also important\
+to keep the embers burning.</\
+p>\
+<p>But\
+in time the doubt has to\
+ease and the soul has to\
+breathe. Anything less would be&#8230; uncivilized.</p>\
+'
+
+
+gm7 = epub.EpubHtml(title='builds charaacter to reject women',
+file_name='it_builds_character_to_reject_women.xhtml',
+lang='en')
+gm7.content='\
+<h2>It Builds Character To Reject Women</h2>\
+<p>If you are a man who has never rejected \
+a woman for sex or dating\
+,  you are doing something wrong\
+. You are,  in fact\
+,  depriving yourself of one of \
+life&#8217;s greatest \
+pleasures and privileges,  and avoiding \
+a true test of your masculine \
+mettle.</p>\
+<p\
+>As we all know by \
+now from the science,  from \
+common sense,  and from reading \
+my powerful words of genius,  \
+the default barter mechanism in the \
+sexual market is female choice,  \
+male display. This is a \
+natural consequence of the disparity between \
+the scarcity of eggs and the \
+surplus of sperm. But men \
+are not entirely helpless to actively \
+influence market prices; they choose \
+as well. If men did \
+not choose at all,  women \
+would not have evolved an instinct \
+for improving their looks through fashion\
+,  makeup,  and exercise. \
+If I had to put a \
+number on it,  I&#\
+8217;d say on average \
+women do 70% of the \
+choosing and men do 30% \
+of the choosing. At the \
+tails,  the alpha-iest \
+men do all the choosing and \
+have to beat off their female \
+suitors while the fattest,  ugliest \
+women must settle for whatever man \
+will take them. The general \
+trend,  though,  is upward \
+dating for most women and a \
+few men.</p>\
+<\
+p>The fact of this \
+mating dynamic explains why turning the \
+tables and exercising male choice is \
+such a powerful psychological game technique \
+for seducing the minds of women\
+. By behaving as if you \
+are actively choosing women,  and \
+even occasionally rejecting them,  you \
+mimic the natural actions of the \
+top 10% of men whose \
+default mating strategy is choosing from \
+an illimitable source of pussy and \
+wielding the merciless power of sexual \
+rejection.</p>\
+<p\
+><strong>Maxim #18\
+: The two fundamental propositions upon \
+which all game theory rests are \
+male choosiness and female abundance. \
+All alpha males have these two \
+mindsets in common.</strong></\
+p>\
+<p><strong\
+>Corollary to the above: \
+    Male choosiness and female abundance \
+    do not necessarily have to \
+    be true for the strategy \
+    of behaving as if they \
+    are true to be effective \
+    at seducing women.</strong\
+    ></p>\
+<p\
+>Try to put yourself in \
+women&#8217;s shoes\
+. When you are on a \
+date,  imagine you are a \
+woman. Think like she would \
+think. Feel like she would \
+feel. Is this girl right \
+for me? Are we compatible\
+? What are her values? \
+I&#8217;m just \
+not sure if she&#8217\
+;s the one; let\
+&#8217;s see what \
+else she has going for her\
+. I need to keep my \
+options open. I&#8217\
+;m not ready to make \
+a decision. I really need \
+to be wowed,  I wonder \
+if she can do that for \
+me. She seems kind of \
+nervous. Is she dull? \
+Am I out of her league\
+? Damn,  she just said \
+something stupid. Maybe she&#\
+8217;s not the one\
+.</p>\
+<p>\
+Keep thinking like this and soon \
+your outward behavior will reflect your \
+inward feelings. Suspend your disbeliefs \
+long enough until they have become \
+unshakeable beliefs. Once you have \
+mastered the mindset of women,  \
+you will have mastered women themselves\
+.</p>\
+<p><\
+strong>Maxim #19: \
+The alpha male thinks and acts \
+more like a woman than a \
+man in matters of seduction. \
+He understands his adversary&#8217\
+;s psychology,  and uses \
+it to shatter her defenses.</\
+strong></p>\
+<p\
+>The next time a woman \
+who does not meet your attractiveness \
+standards hits on you,  humor \
+her for a bit,  lead \
+her on,  then politely reject \
+her.</p>\
+<p\
+>&#8220;What are you \
+doing this Friday?&#8221;<\
+br />\
+&#8220;Oh\
+,  I should tell you I\
+&#8217;m seeing someone\
+.&#8221;</p>\
+<\
+p>Do this even if \
+you are hard up. Commanding \
+the power of female/alpha \
+male choosiness will enrich your soul \
+and fortify your ego. You\
+&#8217;ll feel bad \
+for the girl for maybe 30 \
+seconds,  but the value-\
+boosting afterglow will last for weeks\
+. This is all about long\
+-term thinking. Capture the \
+female essence of sexual choice and \
+make it a part of you\
+.</p>\
+<p>\
+Girls hitting on you is a \
+rare event for most men,  \
+so you&#8217;ll \
+need to be more active in \
+your policy of preferential sexual consumerism\
+. As long as you are \
+dating <a href="https\
+://heartiste.wordpress.com\
+/2007/11/14\
+/dont-stop-thinking\
+-about-the-next\
+-girl/" target="_blank\
+">two or more women simultaneously\
+</a>,  you should have \
+no qualms rejecting at least one \
+of them for not being up \
+to snuff. Choose one for \
+dismissal and stop calling her for \
+dates. It doesn&#8217\
+;t have to be the \
+least attractive chick; in fact\
+,  it&#8217;s \
+more character-building and alpha\
+-boosting to reject an attractive \
+girl for an odd facial tic \
+or bland personality. If she \
+doesn&#8217;t get \
+the hint,  be candid and \
+tell her she just isn&#\
+8217;t right for you\
+. Women,  especially 7s and \
+up,  rarely hear this,  \
+so it will tear at her \
+soul like the claws and teeth \
+of an army of demons. \
+If you can withstand the brief \
+flicker of guilt and loss of \
+sexual opportunity,  her pain of \
+rejection will actually feed your incipient \
+alpha animal spirit,  stengthening you\
+,  making you tougher,  more \
+appropriately detached,  and able to \
+clearly see and pursue your self\
+-interest. Through the action \
+of choosiness,  your self-\
+worth will skyrocket. And others\
+&#8217; evaluation of your \
+worth will similarly follow.</p\
+>\
+<p>If you \
+believe there are &#8220;\
+better&#8221; or more \
+&#8220;moral&#8221\
+; paths to alphaness,  know \
+this: Every alpha male is \
+intimately familiar with the ego-\
+stroking power of sexual choosiness. \
+They have all,  good and \
+bad,  enlightened and crass,  \
+rejected women in one way or \
+another and crushed their souls,  \
+often on the <a href\
+="https://heartiste.wordpress\
+.com/2008/06\
+/26/flimsy-excuses\
+-i-use-to\
+-get-girls-back\
+-to-my-place\
+/" target="_blank">flimsiest \
+pretexts</a>. Some are \
+kind enough to dress it up \
+in polite fictions; others are \
+id monsters who flaunt their sexual \
+despotism without regard for social convention \
+or righteous preening. But all \
+have lowered the boom. It \
+goes with the territory.</p\
+>\
+<p>The more \
+women you reject,  the more \
+women will sense your radiating power \
+to inflict pain and loss and \
+subsequently want you. Buttress your \
+inner game by being choosy,  and rejecting freely.</p>\
+'
+
+
+
+gm8 = epub.EpubHtml(title='how to inure yourself to beautiful women',
+file_name='how_to_inure_yourself_to_beautiful_women.xhtml',
+lang='en')
+gm8.content='\
+<h2>How To Inure Yourself To Beautiful Women<h2>\
+<p>A thinking sort of reader writes:</p>\
+<blockquote><p>The\
+hedonistic treadmill concept says you&#\
+8217;ll get reduced satisfaction\
+from expanded consumption as you adjust\
+to it. You won&#\
+8217;t appreciate a Ferrari\
+if you drive one everyday and\
+the same applies to a steak\
+dinner.</p>\
+<p\
+>When I&#8217;\
+m on a winning streak with\
+girls,  I feel they all\
+get less hot. I find\
+myself turning my head less often\
+. I see pictures of girls\
+that I thought were flawless and\
+I see flaws. I find\
+myself thinking about other areas of\
+my life. Conversely,  when\
+I&#8217;m not\
+longer with a girl,  and\
+I go into a slump,\
+I find my ex was hotter\
+than I remember.</p>\
+\
+<p>Girls can definitely\
+tell when a guy is not\
+impressed. I read football practice\
+is often harder than the real\
+game. I&#8217;\
+m not sure we&#8217\
+;ve invented a way to\
+expose normal guys to beautiful women\
+the same way that Tom Brady\
+and Brad Pitt are exposed.\
+Strippers,  porn,  movies,\
+etc don&#8217;t\
+work since they all work to\
+raise the woman on the pedestal\
+. <strong>[ed:\
+           correct. there&#8217\
+           ;s good exposure and\
+           self-limiting exposure.\
+           alpha males are exposed to\
+           women&#8217;s\
+           desire. johns and gawkers\
+           are exposed to women&#\
+           8217;s mercenary indifference\
+           .]</strong></p>\
+\
+<p>I&#8217\
+;m thinking a picture gallery\
+of women as they age,\
+or a picture gallery of models\
+without makeup might be a good\
+start.</p></blockquote>\
+\
+<p>Definitely something to\
+this. While filet mignon will\
+always taste better than ground chuck\
+,  and a hot girl will\
+always be a better lay than\
+an ugly girl,  the pleasure\
+that can be extracted from the\
+tastier choices will,  with enough\
+familiarity and dopamine receptor scorching,\
+succumb to diminishing returns. (\
+    Although it will never bottom\
+    out as low as the\
+    scant pleasure one receives from\
+    cheap cuts of meat or\
+    girls.)</p>\
+<\
+p>The blowback from dopamine\
+-blasted beauty immunity is that\
+all women,  even the ones\
+you aren&#8217;t\
+fucking,  start to seem less\
+desirable,  or at least less\
+worthy of sustained effort to earn\
+their interest. And this is\
+how ecologically self-perpetuating alpha\
+males are made:</p>\
+\
+<p><strong>Maxim\
+#12: The cumulative experience\
+with hot women imbues the womanizer\
+with a genuinely aloof aura that\
+attracts even more women to him\
+.</strong></p>\
+<\
+p><strong>Corollary to\
+Maxim #12: If you\
+don&#8217;t have\
+an adequate amount of aloofness-\
+inducing experience with hot women,\
+act like you do.</strong\
+></p>\
+<p>\
+Think about when you were,\
+or how you are now,\
+comfortably ensconced in a secure relationship\
+with a girl. Objectively,\
+she&#8217;s cute\
+. When you first saw her\
+,  your heart leapt upward in\
+sync with your cock.</p\
+>\
+<p>But damn\
+if you don&#8217;\
+t espy<br />\
+that\
+as the days tick by<\
+br />\
+your wandering eye<\
+br />\
+roves wide as the\
+sky.</p>\
+<p\
+>In graphical form,  this\
+is known as the Beauty Power\
+Law,  and it looks like\
+this:</p>\
+<p\
+><img data-attachment-\
+id="15435" data-\
+permalink="https://heartiste.\
+wordpress.com/2012/\
+10/17/how-\
+to-inure-yourself-\
+to-beautiful-women/\
+beautypowerlaw/" data-orig-\
+file="https://heartiste.\
+files.wordpress.com/\
+2012/10/beautypowerlaw.\
+png?w=500&#\
+038;h=375"\
+data-orig-size="\
+800, 600" data-\
+comments-opened="1"\
+data-image-meta="{&\
+quot;aperture&quot;:&\
+quot;0&quot;,\
+&quot;credit&quot\
+;:&quot;&quot;, &\
+quot;camera&quot;:&\
+quot;&quot;, &quot\
+;caption&quot;:&quot\
+;&quot;, &quot;\
+created_timestamp&quot;:&quot;\
+0&quot;, &quot\
+;copyright&quot;:&quot\
+;&quot;, &quot;\
+focal_length&quot;:&quot;\
+0&quot;, &quot\
+;iso&quot;:&quot\
+;0&quot;, &\
+quot;shutter_speed&quot;:&\
+quot;0&quot;,\
+&quot;title&quot\
+;:&quot;&quot;}" data\
+-image-title="beautypowerlaw\
+" data-image-description\
+="" data-medium-file\
+="https://heartiste.files\
+.wordpress.com/2012\
+/10/beautypowerlaw.png\
+?w=500&#038\
+;h=375?w\
+=300" data-large\
+-file="https://heartiste\
+.files.wordpress.com\
+/2012/10/beautypowerlaw\
+.png?w=500\
+&#038;h=375\
+?w=500" class\
+="alignnone size-full wp\
+-image-15435" title\
+="beautypowerlaw" alt="" src\
+="https://heartiste.files\
+.wordpress.com/2012\
+/10/beautypowerlaw.png\
+?w=500&#038\
+;h=375" height\
+="375" width="500\
+" srcset="https://heartiste\
+.files.wordpress.com\
+/2012/10/beautypowerlaw\
+.png?w=500\
+&amp;h=375\
+500w,  https://heartiste.\
+files.wordpress.com/\
+2012/10/beautypowerlaw.\
+png?w=150&\
+amp;h=113 150w\
+,  https://heartiste.files\
+.wordpress.com/2012\
+/10/beautypowerlaw.png\
+?w=300&amp\
+;h=225 300w,\
+https://heartiste.files.\
+wordpress.com/2012/\
+10/beautypowerlaw.png?\
+w=768&amp;\
+h=576 768w,  https\
+://heartiste.files.wordpress\
+.com/2012/10\
+/beautypowerlaw.png 800w"\
+sizes="(max-width:\
+    500px) 100vw,  500px\
+    " /></p>\
+<\
+p>Beauty immunity is real\
+,  and it affects every man\
+\
+,  relative to his beauty capture\
+starting point. That is,\
+a low value man will quickly\
+tire of low value women if\
+he manages long-term relationships\
+(or long-term consecutive\
+ hook-ups) with\
+those low value women he fears\
+he is fated to match.\
+He will still want hot chicks\
+,  but the additive experience with\
+unattractive chicks will create in him\
+an aloofness toward all unattractive chicks\
+that is similar in psychological composition\
+to the aloofness a high value\
+man will feel for the hot\
+chicks he routinely bangs and even\
+the ones he hasn&#8217\
+;t banged.</p>\
+\
+<p>THIS IS A\
+GOOD THING. That aloofness is\
+catnip to women. You may\
+as well prop a neon sign\
+over your head that says &#\
+8220;Preselected by women who\
+have come before you,  and\
+who are standing right next to\
+you.&#8221; Aloofness is\
+one of those male characteristics that\
+women are finely tuned to discover\
+,  isolate,  and hone in\
+on,  because it tells them\
+,  subconsciously of course,  that\
+THIS MAN,  this one right\
+here,  has a lot of\
+choice in women. ERGO,\
+this man,  this one right\
+here,  must be high value\
+.</p>\
+<p>\
+I can attest to the tangible\
+effects of the beauty immunity power\
+law. When I&#8217\
+;m in a solid relationship\
+,  or when I&#8217\
+;m on a hot streak\
+dating multiple concurrent or consecutive women\
+,  then all women in general\
+start to feel more approachable,\
+less insurmountable (heh),  and\
+,  tragically,  less tolerable.\
+The effect of familiarity with females\
+and their foggy furrows is a\
+steady glazing of my perception of\
+their beauty,  until they seem\
+as if their faces are an\
+indistinguishable mass of downy cotton balls\
+. Worse,  the tolerance,\
+even enthusiasm,  I would have\
+just talking and spending idle time\
+with women yields more frequently and\
+submissively to competing distractions,  like\
+reading alone,  hanging with buds\
+,  pursuing hobbies,  or elevating\
+my status for a potential trading\
+-up of lovers. Her\
+charming little tics I loved during\
+the first few months soon become\
+swarms of buzzing annoyances,  and\
+my mind begins the unstoppable drift\
+to ELSEWHERE.</p>\
+<\
+p>THIS IS A BAD\
+THING. That transcendental stirring rocketing\
+up from the groin and ricocheting\
+off the sternum when you first\
+set your post-pubertal eyes\
+on hot high school girls weakens\
+in proportion to your success bedding\
+them. The bloom on the\
+rose wilts with too much fertilizer\
+.</p>\
+<p>\
+But enough of that sentiment.\
+The fact remains that inuring yourself\
+to beautiful women,  and to\
+beauty itself,  will make you\
+a more lethal ladykiller.</p\
+>\
+<p>So how\
+do you expose yourself,  as\
+the reader suggested,  to beautiful\
+women such that they hold less\
+power over your faculties and their\
+flaws are more evident to your\
+senses?</p>\
+<p\
+>1. Bed a lot\
+of them.</p>\
+<\
+p>Guaranteed to work,\
+and that&#8217;s\
+why it&#8217;s\
+the most difficult solution to the\
+beauty immunity puzzle.</p>\
+<p>2. Train\
+your mind away from pedestalization of\
+female beauty.</p>\
+<\
+p>Remember <a href\
+="https://heartiste.wordpress\
+.com/the-sixteen\
+-commandments-of-poon\
+/" target="_blank">Poon\
+Commandment</a> X?</\
+p>\
+<blockquote><p\
+><strong>X. Ignore\
+her beauty</strong></p\
+>\
+<p>The man\
+who trains his mind to subdue\
+the reward centers of his brain\
+when reflecting upon a beautiful female\
+face will magically transform his interactions\
+with women. His apprehension and\
+self-consciousness will melt away\
+,  paving the path for more\
+honest and self-possessed interactions\
+with the objects of his desire\
+. This is one reason why\
+the greatest lotharios drown in more\
+love than they can handle —\
+through positive experiences with so many\
+beautiful women they lose their awe\
+of beauty and,  in turn\
+,  their powerlessness under its spell\
+. It will help you acquire\
+the right frame of mind to\
+stop using the words <em\
+>hot,  cute,  gorgeous\
+,  </em>or <\
+em>beautiful </em>\
+to describe girls who turn you\
+on. Instead,  say to\
+yourself “she’s interesting\
+” or “she might be\
+worth getting to know”. Never\
+compliment a girl on her looks\
+,  especially not a girl you\
+aren’t fucking. Turn\
+off that part of your brain\
+that wants to put them on\
+pedestals. Further advanced training to\
+reach this state of unawed Zen\
+transcendence is to sleep with many\
+MANY attractive women (try to\
+                       avoid sleeping with a lot\
+\
+                       of ugly women if you\
+                       don’t want to\
+                       regress). Soon,  a\
+Jedi lover you will be.</\
+p></blockquote>\
+<p\
+>Starting today,  stop flattering\
+women&#8217;s looks\
+,  whether out loud or in\
+your head.</p>\
+<\
+p>3. Get into\
+a line of work where you\
+are ordering beautiful women to do\
+your bidding.</p>\
+<\
+p>If you can&#\
+8217;t get sex with\
+hot babes,  the next best\
+thing is authority. Fashion photographers\
+are not known as casanovas for\
+nothing.</p>\
+<p\
+>4. Hang out with\
+hot girls when they&#8217\
+;re wasted and pissing themselves\
+and vomiting.</p>\
+<\
+p>This is a pretty\
+good cure for one-itis\
+. Don&#8217;t\
+worry about supply. America is\
+churning them out like cheap factory\
+products lately.</p>\
+<\
+p>5. Never stop macking.</p>\
+<p>The life of\
+the lady&#8217;s\
+man is always in forward motion\
+. The day you slow down\
+is the day you start misremembering\
+your ex as hotter than she\
+really was. By keeping women\
+forever in your orbit,  by\
+hitting on them day and night\
+and year after year,  with\
+intention or without,  you remind\
+yourself of the corporeal,  earthly\
+nature of women&#8217;\
+s greatest asset,  of their\
+insufferable and dispiriting interchangeability,  and\
+your heart is steeled for the\
+endless battle.</p>\
+'
+
+
+gm9 = epub.EpubHtml(title='your training to delight women',
+file_name='your_training_to_delight_women.xhmtl',
+lang='en')
+gm9.content='\
+<h2>Your Training To\
+Delight Women</h2>\
+<\
+p>Players and unaffiliated men\
+who labor to pass on the\
+Good Word of Game usually admonish\
+neophytes that borderline uncomfortable numbers of\
+approaches need to be made in\
+order to become proficient at pickup\
+. You&#8217;ve\
+got to get out there and\
+talk to more women than you\
+would normally do in the course\
+of a nondescript day.</p\
+>\
+<p>This message\
+is a good one. You\
+won&#8217;t get\
+good at the crimson arts until\
+you&#8217;ve put\
+in some real world practice interacting\
+with lots of different women.\
+The exact number is irrelevant;\
+whether it takes you ten or\
+one thousand approaches to improve doesn\
+&#8217;t change the\
+undeniable reality that very few men\
+have the ability to go from\
+video gaming malaise to WunderJuan on\
+their first approach.</p>\
+\
+<p>You could say\
+that the approach mentality,  at\
+least during the learning curve stage\
+,  is a core principle of\
+game.</p>\
+<p\
+>There&#8217;s\
+one other core game principle that\
+I don&#8217;t\
+see mentioned very much,  if\
+at all,  in the pickup\
+literature. In my view,\
+it&#8217;s just\
+as important a principle as approaching\
+girls enough times to trespass beyond\
+your comfort zone. That principle\
+is the &#8220;find\
+and foment her flaws&#8221\
+; theory.</p>\
+<\
+p>The idea is simple\
+. Every woman you meet,\
+from friend to love prospect to\
+the barest acquaintance,  and every\
+woman who crosses your field of\
+visual inspection,  will be subject\
+to your exceedingly judgmental eye.\
+You will search,  find and\
+declare to yourself her flaw or\
+flaws. If propriety and privacy\
+allows it,  you will verbalize\
+her flaw so that it may\
+become cemented in your wavering cortex\
+and banish all doubt of the\
+flaw&#8217;s authenticity\
+. It is a well-\
+kown fact among the big-\
+toothed motivational speaker circuit that saying\
+aloud slogans of self-encouragement\
+or life goals helps the chanter\
+sculpt corporeal heft to his dreams\
+.</p>\
+<p>\
+So,  for example,  you\
+see a woman in the mall\
+riding an escalator. Her sundress\
+flounces insouciantly from above you.\
+An incipient boner stirs. But\
+this time,  instead of allowing\
+your beta twerpitude the run of\
+your skullcase and straining to catch\
+imagined glimpses of panty,  you\
+silence the dork force and,\
+with proud stentorian innerauthority,  jot\
+a solid mental note of her\
+larger-than-ideal thighs\
+. Safe distance permitting,  you\
+might even rumble in a dampened\
+voice to yourself,  &#8220\
+;Hm,  thunder thighs.\
+Too much speckle.&#8221;</\
+p>\
+<p>You\
+will enact this devious scheme for\
+every attractive and not-so\
+-attractive woman who has the\
+misfortune of falling prey to your\
+daggered gaze. Only the obvious\
+sexual market losers of femaledom &#\
+8212; the grossly obese,\
+the crassly ugly,  the desiccated\
+old &#8212; will be\
+exempt,  for their flaws are\
+so prominently obscene they need no\
+reminding nor rooting.</p>\
+\
+<p>What is the\
+purpose of Principle #2?\
+To balance gender sheets?</p\
+>\
+<p>Certainly,\
+you could argue with strong evidence\
+that women are particularly unforgiving of\
+men&#8217;s flaws\
+,  in the private if not\
+in the public,  being as\
+how they are slaves to a\
+much more powerful hypergamous force that\
+excels at weeding out stellar-\
+lite suitors with extreme prejudice.\
+A little harsh judgment from you\
+is just giving women a taste\
+of the moldy bread they daily\
+give to men.</p>\
+\
+<p>But,  no\
+,  that&#8217;s\
+not the purpose,  as vengefully\
+titillating as that seems. The\
+purpose is purely practical. The\
+finding and fomenting of women&#\
+8217;s flaws conditions the\
+beta male mind to accept the\
+attainability of women,  and to\
+discard the reflexive sanctification of women\
+. No master seducer who ever\
+lived believed even one woman was\
+unattainable by him,  nor that\
+any woman was a flawless vessel\
+of purity. The seducer loves\
+women,  but his love is\
+vast enough to revel in women\
+&#8217;s flaws.\
+And that is why he wins\
+.</p>\
+<p>\
+The beta male who conditions himself\
+thus,  by his efforts to\
+discover the flaws in women kept\
+hidden to him by the shadow\
+of his turgid lust cast around\
+his vision,  will slowly feel\
+the power and the strength of\
+<a href="https://\
+heartiste.wordpress.com/\
+2012/03/08/\
+the-aloof-alpha-\
+attitude-explained/" target="\
+_blank">the Attitude</a\
+>,  that indomitable voice that rises\
+like the Great Scrotum from the\
+pubic patch and delivers with valedictorian\
+presumption the message that no woman\
+is out of reach or free\
+of exploitable insecurities,  the exploiting\
+of which by a savvy man\
+she herself would be ashamed to\
+admit thrills her to the clitbone\
+.</p>\
+<p>\
+Returning to escalator girl,  here\
+are some more examples of flawmobbing\
+.</p>\
+<p>&#\
+8211; skewed eyes<br\
+/>\
+&#8211; narrow hips\
+<br />\
+&#8211;\
+rumpled blouse<br />\
+&#\
+8211; misshapen boobs<br\
+/>\
+&#8211; nip/\
+tuck victim<br />\
+&#\
+8211; manhands<br />\
+\
+&#8211; roo pouch<\
+br />\
+&#8211; clown\
+feet<br />\
+&#8211\
+; incipient hump<br />\
+\
+&#8211; jug ears<\
+br />\
+&#8211; wasted\
+calves<br />\
+&#8211\
+; bow-legged<br\
+/>\
+&#8211; flabby arms\
+<br />\
+&#8211;\
+pigeon-toed<br />\
+\
+&#8211; broad shouldered<\
+br />\
+&#8211; excessive\
+peach fuzz<br />\
+&#\
+8211; asymmetric nostrils<br\
+/>\
+&#8211; ETC</\
+p>\
+<p>I\
+can already hear the gripers.\
+&#8220;But I just\
+saw the hottest chick ever and\
+she looked PERFECT! I couldn\
+&#8217;t find anything\
+wrong with her.&#8221;</\
+p>\
+<p>There\
+is always something wrong with a\
+girl,  no matter how beautiful\
+. You may have to dig\
+a little deeper,  but you\
+&#8217;ll find her\
+thermal exhaust port with a practiced\
+keen eye. Note that any of the above can easily apply\
+to the hottest girl you have\
+ever seen. That&#8217\
+;s the beauty of the\
+flawfinding mission: it unearths the\
+normally overlooked blemishes scattered among a\
+girl&#8217;s mien\
+that her general beauty tends to\
+obscure to men. If you\
+socialize with a girl and gain\
+insight into her personality,  you\
+have even more data from which\
+to devise withering,  silent judgments\
+.</p>\
+<p>\
+Once you have gotten reliable at\
+noticing and promoting women&#8217\
+;s flaws,  their beauty\
+will no longer hold such paralyzing\
+power over you. Conditioned to\
+emphasize a woman&#8217;\
+s worst and attenuate her best\
+,  you will become a cad\
+machine,  irresistible to the fairer\
+sex who will react shaken from\
+their stupor by your dispassionate demeanor\
+and feel the threat of your\
+pervasive critical eye with senses aflame\
+.</p>\
+<p><\
+strong>Maxim #30:\
+Ignore a woman&#8217;\
+s flaws at your peril.\
+They are the key to reconfiguring\
+your perception,  and thus her attainability.</strong></p>\
+'
+
+
+gm10 = epub.EpubHtml(title='screening girls',
+file_name='screening_girls.xhtml',
+lang='en')
+gm10.content='\
+<h2>Screening Girls</h2>\
+<p>Women choose,  \
+men are chosen. This is \
+the basic tenet of evolutionary mate \
+selection. So does this mean \
+there is nothing men can do \
+to put more power in their \
+own hands? Absolutely not. \
+Paradoxically,  the role of being \
+chooser has made women susceptible to \
+men acting as the chooser. \
+A man who chooses women,  \
+whether in reality or perception,  \
+signals he is high value to \
+a woman. This is why \
+schools of seduction teach the importance \
+of <a href="https\
+://heartiste.wordpress.com\
+/2008/04/30\
+/qualifying-her/" target\
+="_blank">&#8220;qualifying\
+&#8221;</a>. Girls \
+will say they don&#8217\
+;t want to be lined \
+up like cattle and chosen by \
+men,  but in practice they \
+secretly yearn for a man to \
+have standards and ruthlessly apply them\
+,  in the same way they \
+do to men. A woman \
+loves to feel special that her \
+man chose her over other options \
+he had&#8230; until \
+he dumps her for a hotter \
+chick.</p>\
+<p\
+><img class="alignleft size\
+-large wp-image-\
+1562" title="img_01421" \
+src="https://heartiste.\
+files.wordpress.com/\
+2008/10/img_01421.\
+jpg?w=500&#\
+038;h=375" \
+alt=""   />In light of \
+this fact of female nature,  \
+here are some screening tests you \
+could apply to women you are \
+dating. You don&#8217\
+;t have to believe in \
+all of your high standards,  \
+you just have to act like \
+you do. For instance,  \
+I don&#8217;t \
+really care if a woman <\
+span style="text-decoration\
+:line-through;">has \
+banged guys in different cities around \
+the world</span> likes \
+to travel,  but I qualify \
+her as if this was critically \
+important to my continuing interest in \
+her.</p>\
+<p\
+>&#8220;The last girl \
+I dated was very provincial. \
+I&#8217;m a \
+mentally active man who challenges himself\
+,  and I can&#8217\
+;t be with someone who \
+won&#8217;t join \
+me in my adventures. So \
+are you the adventurous type who \
+seeks new experiences?&#8221;</\
+p>\
+<p>She \
+will now be like putty in \
+your hands,  insisting she LOVES \
+to travel and enjoys learning about \
+new cultures. Segue into pussy \
+pounding.</p>\
+<p\
+>Fake your high standards until \
+you are banging enough quality pussy \
+that you have internalized your high \
+standards. At that point,  \
+not only will you be dumping \
+chicks for major infractions like lying \
+and dullness and weight gain,  \
+you&#8217;ll be \
+dumping them for minor things like \
+owning too many shoes.</p\
+>\
+<p><span style\
+="text-decoration:underline\
+;">Examples</span></p\
+>\
+<p>Screening her \
+for anti-marriage beliefs:</\
+p>\
+<p>You\
+: One thing that&#8217\
+;s important to me is \
+that the girl I&#8217\
+;m with doesn&#8217\
+;t feel pressured to conform \
+to societal expectations. She has \
+her own mind and values her \
+independence. She&#8217;\
+s cool with loving,  long \
+term relationships that don&#8217\
+;t need to be validated \
+by a Justice of the Peace\
+.</p>\
+<p>\
+Screening her for loathing of children\
+:</p>\
+<p>\
+You: When you see a \
+cute little kid snotting himself in \
+the mall and rubbing his germs \
+all over everything,  what do \
+you think? They&#8217\
+;re such a responsibility that \
+saps life of all its joy\
+,  would you agree?</p\
+>\
+<p>Screening her \
+for generosity:</p>\
+<\
+p>You: Do you \
+know how to give a good \
+backrub?</p>\
+<p\
+>Screening her for fidelity:</\
+p>\
+<p>You\
+: What do you feel about \
+guys who like to keep their \
+options open and date around until \
+they find that perfect match?</\
+p>\
+<p>(Note\
+    : This is reverse psychology\
+    . The more she hates \
+    on guys who date around\
+    ,  the likelier it is \
+    she is doing the same\
+    .)</p>\
+<p\
+>Screening her for wife and \
+mother potential:</p>\
+<\
+p>You: I really \
+like girls who have a crazy \
+streak and no hang-ups\
+. Have you ever let a \
+guy snort coke off your ass\
+?</p>\
+<p>\
+Screening her for sluttiness:</p\
+>\
+<p>You: \
+    On a scale from 1 \
+    to 10,  how would \
+    you rate your blowjob technique\
+    ?</p>\
+<p\
+>Screening her for femininity:</\
+p>\
+<p>You\
+: Have you ever,  or \
+are you now,  working for \
+a law firm in any capacity \
+or going to law school?</\
+p>\
+<p>Screening \
+her for romanticism:</p>\
+\
+<p>You: I \
+like girls who can have a \
+great time with me spending no \
+money just walking around the tidal \
+pool at midnight and staring at \
+the stars in the sky. \
+(Wait for her reaction. \
+ If she&#8217;\
+ s a money or status \
+ whore,  you&#8217\
+ ;ll see a quick \
+ flash of disgust cross her \
+ face before she settles on \
+ the appropriate answer.)</p\
+>\
+<p>Screening her \
+for willingness to please you:</\
+p>\
+<p>You\
+: I can only be with \
+a girl who likes to exercise\
+,  not one who sees it \
+as a chore.</p>\
+\
+<p>******</p>\
+<\
+p>These screening tests should \
+get you started. If you\
+&#8217;re looking to \
+just get laid,  you&#\
+8217;ll want to toss \
+softballs and screen her for things \
+she is eager to confirm &#\
+8212; like love of travel\
+. For girlfriend screenings,  you\
+&#8217;ll want to \
+bang her first,  then apply \
+more vigorous screens to weed out \
+those girls who would be a \
+waste of your resources.</p\
+>\
+<p>But the \
+best screening test I&#8217\
+;ve found BY FAR is \
+looking at a picture of her \
+mother &#8212; there&#\
+8217;s your future,  \
+buddy. Choose wisely.</p\
+>\
+'
+
+
+gm11 = epub.EpubHtml(title='top thinking about the next girl',
+file_name='next_girl.xhtml',
+lang='en')
+gm11.content='\
+<h2>Don''t Stop Thinking About The Next Girl</h2>\
+<p>A big mistake guys make when they start \
+dating a girl they really like \
+&#8212; the &#8220\
+;one&#8221; &#\
+8212; is neglecting to continue \
+going out and getting fresh leads\
+.  I used to do this\
+,  so I know the mental \
+processes that go through a guy\
+&#8217;s head when \
+he&#8217;s really \
+into a girl he&#8217\
+;s dating.  He channels \
+all his pickup energy into this \
+one girl,  figuring that if \
+he made it as far as \
+a first or a second date \
+he should focus like a laser \
+beam on her pants zipper.  \
+He spends the long days in \
+between seeing her analyzing his progress\
+,  picking apart the meaning behind \
+her actions (or inactions),  \
+and daydreaming about what a relationship \
+would be like with her.  \
+When he goes out,  he \
+gets lazy and tells himself there \
+is no urgency to collect new \
+numbers since he&#8217;\
+s already dating a quality chick \
+and most of the other girls \
+can&#8217;t compare \
+anyhow.</p>\
+<p\
+>This is a sexually lethal \
+frame of mind to put oneself \
+in.  When a guy completely \
+boxes himself in like this with \
+no options to fall back on\
+,  all it takes is a \
+change of heart by his golden \
+girl to crush his soul and \
+send him spiraling into morose self\
+-examination.  It&#8217\
+;s like investing your whole \
+wad in a biotech startup with \
+huge promise only to see it \
+crash to a sub-penny \
+stock after the CEO is convicted \
+of fraud.  You&#8217\
+;d have been a lot \
+better off diversifying your portfolio in \
+a range of pussy sectors.</\
+p>\
+<p>As \
+an example,  once,  during \
+the course of a month,  \
+I had four second dates in \
+a row fizzle out on me \
+leading to no sex.  I \
+made a critical error by jumping \
+from one girl to the next \
+&#8212; dating,  failing\
+,  getting a new lead,  \
+dating again,  failing again,  \
+etc.  My desperation and self\
+-doubt grew with each new \
+girl,  practically ensuring failure.</\
+p>\
+<p>The \
+way to beat this crippling dating \
+handicap is to follow the &#\
+8220;two in the kitty\
+&#8221; rule religiously.  \
+You should date a minimum of \
+two girls simultaneously until you have \
+locked in your preferred girl by \
+having sex with her at least \
+three times.  I have found \
+through trial and error that a \
+girl will bond to you after \
+the third bang.  Before that\
+,  it&#8217;s \
+a crapshoot and depends on the \
+girl&#8217;s innate \
+femininity.  Because modern girls have \
+taken on male characteristics (especially \
+                               DC girls who are more \
+                               masculine than girls from less \
+                               ambitious or overeducated towns) \
+and are sluttier than past generations\
+,  the first or second bang \
+won&#8217;t guarantee \
+emotional attachment.  By the third \
+bang,  however,  you will \
+notice a very perceptible shift in \
+the balance of power.  Suddenly\
+,  she will call and text \
+you first,  ask about your \
+weekend schedule,  tell you to \
+&#8220;give me a \
+call soon&#8221;,  start \
+doing favors for you,  cuddle \
+longer,  and generally betray signs \
+of nervousness when you make yourself \
+physically or emotionally scarce.</p\
+>\
+<p>That is \
+when you will have her in \
+the palm of your hand and \
+can steer the relationship in the \
+direction you want it to go\
+.</p>\
+<p>\
+A guy can achieve this if \
+he adheres to these fundamental principles\
+:</p>\
+<ol>\
+\
+<li>Other girls CAN \
+compare.  Girls are more interchangeable \
+than you&#8217;d \
+think.  Don&#8217;\
+t get sucked into &#8220\
+;oneitis&#8221;.</li\
+>\
+<li>If you \
+date one girl exclusively and she \
+really turns you on,  you \
+WILL give off a needy vibe \
+at some point during the pre\
+-sex seduction no matter how \
+much experience you have.  The \
+best players who have ice running \
+through their veins and cyborgian state \
+control get that way because they \
+date and fuck many girls concurrently\
+.</li>\
+<li>\
+A good date means nothing.  \
+The only thing that matters is \
+penis in vagina,  and even \
+then a feeling of security is \
+not assured until the penis has \
+penetrated the vagina on at least \
+three different occasions.  (Three \
+                             times in one night does \
+                             not count.)</li>\
+\
+<li>You will find \
+it easier to close the deal \
+with your number one girl if \
+you are banging a number two \
+and three girl.  A man \
+getting regular sex has an aura \
+that girls subconsciously register in their \
+hindbrains.  Don&#8217;\
+t ask me how this happens\
+,  but it does.  The \
+<strong>Aura</strong\
+> is very powerful,  like \
+the chemical hormones secreted by ants \
+and bees to get them to \
+cooperate as a social structure,  \
+and will be your <a \
+target="_blank" href="\
+http://en.wikipedia.\
+org/wiki/Valkyrie">\
+Valkyrie</a> in the \
+battle for pussy.</li>\
+\
+<li>Approach the game \
+while dating as ardently as you \
+do when you are dating no \
+one.  If you have a \
+date Tuesday,  go out Monday \
+and Wednesday and get more numbers\
+.  Even if you fail at \
+getting numbers,  just taking the \
+initiative of meeting new girls and \
+chatting them up will reduce the \
+neediness you feel with your date\
+.</li>\
+<li>\
+Never,  EVER,  feel guilty \
+for dating and banging many girls \
+simultaneously.  The mating marketplace is \
+a battlefield and the Genitalia Convention \
+rules of engagement clearly stipulate that \
+it&#8217;s open \
+season for fucking around until terms \
+of exclusivity are tendered.  This \
+is not your mother&#8217\
+;s dating environment.</li\
+>\
+<li>A hot \
+chick is MORE likely,  not \
+less,  to continue seeing you \
+if you tell her you are \
+&#8220;dating around&#\
+8221;.  A guy who knows \
+he has options and is in \
+fact exercising those options is extremely \
+attractive to a girl.</li\
+>\
+</ol>\
+<p\
+>Don&#8217;t \
+give a girl the chance to \
+pull the rug out from under \
+you.  Have another ten rugs \
+underneath that one and you will \
+glide through your interactions with women \
+like a shark through a school \
+of mackerel.</p>\
+'
+
+
+gs = epub.EpubHtml(title='body language',
+file_name='body_language.xhtml',
+lang='en')
+gs.content='\
+<h2>Body Language</h2>\
+<p>This is where\
+the majority of guys stumble during\
+the pickup.  The first impression\
+is made within seconds,  on\
+the walk over to the girl\
+,  before one word is spoken\
+.  The way a guy carries\
+himself,  moves his body,\
+his hands and arms,  positions\
+his feet,  stands,  maintains\
+eye contact,  and interacts non\
+-verbally with girls is half\
+his game.  You can spit\
+the words of Voltaire,  but\
+if your body is incongruent with\
+what you&#8217;re\
+saying,  you will get blown\
+out.</p>\
+<p\
+>Some of the common beta\
+body language mistakes I see guys\
+making:</p>\
+<ul\
+>\
+<li><strong>\
+Walking over to the girl too\
+quickly</strong></li>\
+\
+</ul>\
+<p>\
+When a guy sees a cute\
+chick he gets excited.  His\
+adrenaline pumps and his heart races\
+as he thinks about how best\
+to approach her.  This inner\
+turmoil reveals itself in his physical\
+composure.  He marches toward her\
+too fast,  propelled by his\
+unspoken insecurity to get the job\
+over with as soon as possible\
+.  Fast walkers are unattractive.\
+Focus on your walking speed.\
+Stroll over like a pimp taking\
+his time to admire the other\
+girls in the room along the\
+way.</p>\
+<ul\
+>\
+<li><strong>\
+Doing everything too fast</strong\
+></li>\
+</ul>\
+\
+<p>Related to the\
+above,  guys tend to gesticulate\
+too rapidly when they get nervous\
+,  reflexively jerking around their hands\
+,  arms,  and head.\
+Be aware of this and deliberately\
+slow down all your movements.\
+Take an extra two seconds to\
+reach for a beer.  Move\
+around her in languid,  measured\
+rhythms.  When she is speaking\
+,  slowly cock your head to\
+the side.  The key thing\
+is to avoid any sudden movements\
+.  That betrays anxiety.  It\
+helps to imagine your life is\
+a movie in slo-mo\
+.</p>\
+<ul>\
+\
+<li><strong>Being\
+too stiff</strong></li\
+>\
+</ul>\
+<p\
+>The opposite of the above\
+is when a guy stiffens up\
+from nerves.  Don&#8217\
+;t be a totem pole\
+.  Move your arms around,\
+swivel your body,  make hand\
+gestures while telling a story.\
+Watch Marlon Brando in The Godfather\
+.  Just do it all slowly\
+.</p>\
+<ul>\
+\
+<li><strong>Closed\
+body language</strong></li\
+>\
+</ul>\
+<p\
+>Guys who are confident that\
+nothing in life can touch them\
+have very open and smooth body\
+language.  Nervous guys who are\
+always afraid of fights,  of\
+being sucker punched,  of conflict\
+,  will defensively scrunch up their\
+body as if they were psychologically\
+warding off blows.  Guys who\
+fear nothing open their arms,\
+expose their chests,  and generally\
+project the look of someone who\
+never worries about being caught off\
+-guard.  In that vein\
+,  avoid shoving your hands in\
+your pockets,  crossing your arms\
+,  standing with a narrow stance\
+,  looking around the room with\
+darting eyes,  slouching,  or\
+grabbing one forearm with your hand\
+.</p>\
+<ul>\
+\
+<li><strong>Holding\
+drinks too high</strong></\
+li>\
+</ul>\
+<\
+p>Very common.  Don\
+&#8217;t do it\
+.  Look at old James Bond\
+films.  Sean Connery holds his\
+tumbler down by his waist,\
+not up by his nipples.</\
+p>\
+<ul>\
+<\
+li><strong>Adjusting himself\
+</strong></li>\
+</\
+ul>\
+<p>Any\
+primping should be done at home\
+before going out.  Don&#\
+8217;t tug at your\
+cuffs,  flatten your hair,\
+pick at your fingernails,  swipe\
+at your nose,  rub your\
+eyes,  brush off imaginary lint\
+,  or hoist your pants.\
+A relaxed alpha male does not\
+primp in the field.</p\
+>\
+<ul>\
+<li\
+><strong>Leaning in (\
+    pecking)</strong></li\
+>\
+</ul>\
+<p\
+>Another common mistake.  Nearly\
+every guy does this when starting\
+out.  It&#8217;\
+s called pecking because the motion\
+of jerking your head and body\
+forward to listen with rapt attention\
+to what a girl is saying\
+looks like a chicken pecking at\
+seed.  She is not so\
+important that you need to lean\
+in to catch every precious word\
+.  Lean back with your whole\
+body and let her lean into\
+you.  If she has something\
+to say she&#8217;\
+ll move in so you can\
+hear it.  The act of\
+bending to your will fires up\
+her loins.  The one exception\
+is in very noisy venues where\
+you have to lean in if\
+she is a soft talker.\
+It&#8217;s OK\
+to do this as long as\
+you lean in SLOWLY and lean\
+back during pauses.</p>\
+\
+<ul>\
+<li><\
+strong>Weak eye contact</\
+strong></li>\
+</ul\
+>\
+<p>Hold it\
+slightly longer than you feel comfortable\
+doing.  Dominating another guy with\
+steady eye contact can lead to\
+a fight.  Dominating a girl\
+with eye contact can lead to\
+sex.  Remember,  girls WANT\
+to feel dominated.  It turns\
+them on.  And making sure\
+she breaks eye contact first is\
+a great way to demonstrate dominance\
+.</p>\
+<ul>\
+\
+<li><strong>High\
+pitched,  incessant fast talking</\
+strong></li>\
+</ul\
+>\
+<p>A guy\
+who is seeking approval will talk\
+fast,  hoping to finish his\
+point before people become bored with\
+what he&#8217;s\
+saying.  His tone of voice\
+will rise as sentences are completed\
+.  A guy who is confident\
+that everyone will listen intently to\
+his brilliance will talk slowly in\
+a low or neutral pitch and\
+pause frequently.  Pausing is an\
+extremely powerful method of subcommunicating dominance\
+.  Think about a really effective\
+professor or manager.  They begin\
+speaking&#8230; PAUSE to\
+build anticipation&#8230; make\
+their point&#8230; PAUSE\
+to let it sink in&#\
+8230; conclude&#8230;\
+PAUSE again&#8230; for\
+effect.  The words don&#\
+8217;t matter as much\
+as how you say them.</\
+p>\
+<ul>\
+<\
+li><strong>Beta body\
+positioning</strong></li>\
+\
+</ul>\
+<p>\
+After the approach,  guys usually\
+remain standing at the point they\
+first entered the group to introduce\
+themselves.  This spot is often\
+on the outside of the social\
+circle,  back to the crowd\
+,  looking in at his target\
+.  That is a weak position\
+.  You want to move to\
+the power position as quickly as\
+possible.  The power position is\
+center of the group,  back\
+to the wall or the bar\
+,  facing the room as if\
+you were a king surveying your\
+kingdom and your subjects were gathered\
+round to entertain you.  A\
+trick for maneuvering to the power\
+position is to take a girl\
+&#8217;s hand,\
+lift it up so she reacts\
+by doing a spin move,\
+and spinning her away from the\
+bar.  You then steal her\
+spot or chair.  You can\
+even call attention to your bold\
+move:  &#8220;Oh\
+man,  I just stole your\
+seat!&#8221;</p>\
+\
+<ul>\
+<li><\
+strong>Poor stance</strong\
+></li>\
+</ul>\
+\
+<p>If you are\
+standing,  keep your feet apart\
+close to the width of your\
+shoulders.  An alpha monopolizes space\
+.  One foot should point forward\
+and the other should point outward\
+about 45 degrees.  Thrust your\
+pelvis out slightly.</p>\
+\
+<ul>\
+<li><\
+strong>Poor sitting</strong\
+></li>\
+</ul>\
+\
+<p>If you are\
+sitting,  don&#8217;\
+t cross your legs.  You\
+&#8217;re not an\
+old man.  Spread them out\
+as if you were naked and\
+you wanted the whole world to\
+behold your breathtaking package.</p\
+>\
+<ul>\
+<li\
+><strong>Showing his palms too frequently</strong></li>\
+</ul>\
+<p>This non-\
+verbal faux pas is a little\
+arcane,  but subconsciously girls notice\
+it.  Turning your hands up\
+is a sign of submission.\
+In the beginning,  when you\
+are building attraction by demonstrating your\
+alphaness you should keep your palms\
+down or turned inward.  Emphasize\
+points by raising and lowering your\
+hand,  palm down.  If\
+you look at video clips of\
+presidential candidates on the stump you\
+will see that the force of\
+their speaking is intensified by strong\
+hand movements.  Bill Clinton often\
+addressed the crowd with his palm\
+in,  fingers curled into a\
+fist,  and thumb pointing out\
+like a gun.  Later,\
+during the comfort stage of the\
+pickup after she is attracted,\
+you can show your palm to\
+display vulnerability.</p>\
+<\
+ul>\
+<li><strong\
+>Forgetting to touch the girl\
+</strong></li>\
+</\
+ul>\
+<p>This\
+one is huge.  Probably the\
+number one alpha trait is comfort\
+with touching other people.  A\
+guy totally gives away his betatude\
+if he is uncomfortable touching girls\
+.  Touching should start immediately,\
+literally within two seconds of the\
+approach.  During your introduction,\
+lightly touch your target and the\
+potential cockblock on the elbows simutaneously\
+.  Start inoffensively,  like on\
+the forearms or shoulders,  then\
+gradually move to touching more erogenous\
+zones,  like the upper back\
+,  upper arm,  or thigh\
+.  Avoid accidentally touching the bra\
+strap,  the hair,  or\
+the face too soon,  as\
+these spots will fire off an\
+instant recoil reaction in a girl\
+who isn&#8217;t\
+yet attracted to you.  When\
+you talk in her ear take\
+advantage of the moment to graze\
+her cheek with yours.  The\
+small of the lower back is\
+a highly charged zone,  so\
+move your hand down her back\
+as the pickup progresses.  Wrap\
+your arms around her waist when\
+you want to move her to\
+another location in the bar.\
+Anytime you say something funny,\
+anchor it with your touch.\
+When I have a good pickup\
+my hands RARELY break contact with\
+my target.</p>\
+<\
+ul>\
+<li><strong\
+>Not smiling or smiling at\
+the wrong times</strong></\
+li>\
+</ul>\
+<\
+p>Yep,  pretty basic\
+.  Always smile on the approach\
+.  Just don&#8217;\
+t overdo it.  Drop the\
+smile after your introduction.  Smiling\
+and laughing works best in measured\
+doses.  NEVER laugh at your\
+own jokes.  Don&#8217\
+;t laugh everytime she says\
+something funny.  Your attitude should\
+be <em>&#8220;\
+Oh she said something adorable again\
+.  How cute!&#8221;</\
+em>,  not <em>&#\
+8220;HA HA this girl\
+is the funniest!  She is\
+SO cool!  She is the\
+best!&#8221;</em>\
+Alternating your smiling with smirking,\
+frowning,  and a straight face\
+is the winning formula.</p\
+>\
+<ul>\
+<li\
+><strong>Animated facial gesturing\
+</strong></li>\
+</\
+ul>\
+<p>In\
+the early stages of the pickup\
+when you are bringing higher energy\
+than your target in order to\
+get attraction it&#8217;\
+s acceptable to accentuate your stories\
+with facial gestures.  Later on\
+,  though,  you want to\
+avoid these histrionics.  Constantly raising\
+your eyebrows,  nodding your head\
+,  widening your eyes,  smiling\
+broadly,  or twisting your mouth\
+into funny shapes indicates an approval\
+seeking mentality.  You are not\
+an approval seeker,  you are\
+an approval giver.</p>\
+\
+<ul>\
+<li><\
+strong>Moving out of the\
+way to accommodate others</strong\
+></li>\
+</ul>\
+\
+<p>Hold your ground\
+.  When a guy needs to\
+pass by,  make him move\
+around you.  You don&#\
+8217;t want to be\
+that guy who&#8217;\
+s always stepping out of the\
+way to avoid getting jostled by\
+the crowd.  When a girl\
+reaches for her drink,  make\
+her go over or around you\
+.</p>\
+<ul>\
+\
+<li><strong>Facing\
+the girl directly</strong></\
+li>\
+</ul>\
+<\
+p>Don&#8217;\
+t face your target directly until\
+after she has qualified herself to\
+you.  She does not deserve\
+your full attention when you first\
+meet her.  Keep your body\
+angled slightly away from her.\
+Later,  when she has earned\
+your interest,  turn to face\
+her completely.  This is the\
+signal to move into rapport.\
+Note:  If you are running\
+direct game you will face her right away.</p>\
+<p>Go forth,  and lubricate vaginas with the power of your presence.</p>\
+'
+
+gs2 = epub.EpubHtml(title='alpha body language',
+file_name='alpha_body_language.xhtml',
+lang='en')
+gs2.content='\
+<h2>Alpha Body Language\
+</h2>\
+<p>\
+In my view,  and in\
+the view of much of the\
+seduction community,  the single biggest\
+factor of early game success is\
+body language. Women react viscerally\
+to a man&#8217;\
+s strong body language before he\
+has said one word. The\
+way he walks toward her,\
+the way he smiles,  the\
+<a href="https://\
+heartiste.wordpress.com/\
+2008/10/15/\
+standing-like-an-\
+alpha/" target="_blank">\
+way he stands</a>.\
+It strikes me that the reason\
+this is so is because it\
+is harder to fake the subtle\
+indicators of alphaness with your body\
+than it is with your words\
+. Women have evolved to be\
+perceptive of a man&#8217\
+;s emotional state and body\
+language is the physical manifestation of\
+inner game,  so that&#\
+8217;s what women key\
+in on first.</p>\
+\
+<p>I have <\
+a href="https://heartiste\
+.wordpress.com/2009\
+/03/02/anti\
+-game/" target="_blank\
+">written some posts</a\
+> on how to spot <\
+a href="https://heartiste\
+.wordpress.com/2008\
+/10/02/what\
+-you-can-learn\
+-from-a-beta\
+/" target="_blank">beta\
+body language</a> and\
+how to mimic <a href\
+="https://heartiste.wordpress\
+.com/2008/08\
+/21/spot-the\
+-alpha/" target="_blank\
+">alpha body language</a\
+>. One of the most important\
+points I have made is that\
+it is imperative you avoid <\
+a href="https://heartiste\
+.wordpress.com/2007\
+/11/20/body\
+-language/" target="_blank\
+">jerky,  reactive movements</\
+a>. Well,  the science\
+is rolling in and,  unsurprisingly\
+to anyone who has lived a\
+day in his life and finds\
+corroborating evidence in what I write\
+,  the <a href="\
+http://www.cosmosmagazine.\
+com/news/2771/\
+wimps-have-faster-\
+reaction-time" target="\
+_blank">conclusions are vindicating</\
+a> my worldview.</p\
+>\
+<blockquote><p>\
+Wimps have rapid reaction times</\
+p>\
+<p>OREGON\
+,  U.S.: Unfit\
+or weak people react sooner to\
+sounds of approaching danger than strong\
+,  healthy people – which may\
+be an evolutionary adaptation to allow\
+them a larger margin of safety\
+,  says a new study.</\
+p>\
+<p>Test\
+subjects listened to a sophisticated sound\
+system that mimicked an approaching object\
+,  explained John Neuhoff,  an\
+evolutionary psychologist at the College of\
+Wooster in Ohio,  U.\
+S.,  and co-leader\
+of the study.</p>\
+\
+<p>The &#8216\
+;virtual object&#8217;\
+sounded like a motorcycle passing on\
+a highway,  approaching the subject\
+at 15 m/s and\
+then whizzing past them. The\
+subjects were asked to hit a\
+key when they thought the sound\
+was right in front of them\
+.</p>\
+<p>\
+Fitness was measured by two variables\
+: heart rate after a bout\
+of moderate cardiovascular exercise and muscular\
+power,  measured by the strength\
+of their hand grips. [&#\
+                      8230;]</p>\
+<\
+p><strong>&#8220;\
+It&#8217;s beneficial\
+[for the weaker] to\
+react sooner rather than later,\
+&#8221;</strong> said\
+Neuhoff. &#8220;The\
+cost of responding too early is\
+far less than the potentially fatal\
+cost of responding too late.&#\
+8221;</p></blockquote>\
+\
+<p>Corollary: It\
+&#8217;s beneficial for\
+the stronger to take their sweet\
+time reacting to events. Not\
+because it will lessen his chances\
+of getting killed (mauled or\
+                   bludgeoned in the ancestral environment\
+                   ),  but because women are\
+wired to associate a calm demeanor\
+and stoic repose with an alpha\
+male she wants to fuck.</\
+p>\
+<blockquote><p\
+>Women typically responded sooner than\
+men,  who on average are\
+physically stronger.</p></blockquote\
+>\
+<p>This is\
+evidence that beta males behave more\
+like women than men. No\
+wonder they get LJBFed.</p\
+>\
+<p><a href\
+="http://www.nature\
+.com/news/2009\
+/090602/full/news\
+.2009.537.html\
+" target="_blank">Here\
+is another study</a>\
+proving the efficacy of my body\
+language advice.</p>\
+<\
+blockquote><p>Women become\
+less choosy when they,  rather\
+than men,  move from table\
+to table. [&#8230;]</\
+           p>\
+<p>\
+           A study in Psychological Science\
+           points out that chivalric behaviour\
+           created by the speed-\
+           dating experience may be skewing\
+           the data.</p>\
+\
+           <p>Normally in\
+           speed dating,  men walk\
+           around a room and visit\
+           a succession of seated women\
+           for mini dates just a\
+           few minutes long. Later\
+           ,  the participants note down\
+           whom they would like to\
+           meet again. If there\
+           is a match,  the\
+           organizers help the people to\
+           get in touch. Psychologists\
+           have found that although men\
+           choose,  on average,\
+           half of the women present\
+           ,  women choose to see\
+           only a third of the\
+           men again.</p>\
+\
+           <p>This isn\
+           &#8217;t really\
+           a surprise. Among animals\
+           ,  females are usually the\
+           picky ones,  because they\
+           make the larger reproductive investment\
+           . However,  the new\
+           research,  by Eli Finkel\
+           and Paul Eastwick,  social\
+           psychologists at Northwestern University in\
+           Evanston,  Illinois,  demonstrates\
+           that tinkering with the speed\
+           -dating format alters human\
+           behaviour,  dramatically changing the\
+           outcome. [&#8230;]</\
+                     p>\
+<p>\
+                     The researchers established 15 speed\
+                     -dating events for 350\
+                     young adults. During eight\
+                     events,  men rotated around\
+                     the seated women,  and\
+                     during seven events,  women\
+                     moved between seated men.\
+                     When men rotated,  men\
+                     said yes 50% of\
+                     the time and women said\
+                     yes 43% of the\
+                     time. However,  when\
+                     women rotated,  the trend\
+                     for higher female selectivity vanished\
+,  with men saying yes 43% \
+of the time while women said yes 45% of the time.</p></blockquote>\
+<p>I have long contended that one of the reasons\
+                     <a href="https\
+                     ://heartiste.wordpress.\
+                     com/2008/05\
+                     /29/speed-\
+                     dating-sucks/" target\
+                     ="_blank">speed dating\
+                     sucks</a> (\
+                         besides the surfeit of cougars\
+                     ) has to do with\
+                     the retarded system organizers use\
+                     requiring men to be the\
+                     ones to switch tables while\
+                     the women remain seated.\
+                     This dynamic creates the impression\
+                     that the men are slabs\
+                     of meat in a butcher\
+                     &#8217;s display\
+                     case that women casually browse\
+                     for the choicest cuts.\
+                     It exacerbates an already lopsided\
+                     intrinsic mating market mechanism.</\
+                     p>\
+<blockquote><\
+                     p>The researchers think\
+                     the reason for this phenomenon\
+                     is related to embodiment —\
+                     <strong>the idea\
+                     that physical actions can alter\
+                     perception.</strong> Pulling\
+                     something closer makes the object\
+                     being pulled more appealing,\
+                     whereas pushing something away makes\
+the object less desirable.</p\
+>\
+<p>Finkel and\
+Eastwick argue that approaching someone makes\
+the mind want what it is\
+approaching,  because people are in\
+the habit of moving towards objects\
+that they want and moving away\
+from objects that they don&#\
+8217;t want.</p\
+></blockquote>\
+<p>\
+Alpha body language,  gentlemen.\
+Learn it. It works and\
+it&#8217;s a\
+lot easier to integrate into who\
+you are than is memorizing a\
+long-winded routine. The\
+above study proves that the ideal\
+alpha position is back against the\
+bar,  looking outward and surveying\
+your kingdom as girls approach from\
+all directions. The study also\
+reinforces the widely held PUA belief\
+that indirect approaches are more optimal\
+than direct approaches. Perhaps this\
+is why the over-the\
+-shoulder,  &#8220;\
+just passing through&#8221;\
+approach coupled with a time constraint\
+works so well. You are\
+mimicking in vibe and energy,\
+as best you can while in\
+motion,  the man sitting down\
+at a speed dating event while\
+rotating women walk up to his\
+table to earn the pleasure of\
+his company.</p>\
+<\
+p><span style="text\
+-decoration:underline;">Body\
+language tips</span></p\
+>\
+<p>When a\
+woman tries to get your attention\
+,  take a second longer to\
+swivel your head to reply.\
+The goal is to introduce a\
+palpable,  but not off-\
+putting,  tension to the interaction\
+. In other words,  make\
+her sweat.</p>\
+<\
+p>Keep your head cocked\
+upward slightly. This will accentuate\
+the heaviness of your brow ridge\
+and the heft of your chin\
+and jaw,  both indicators of\
+alpha testosterone levels. It also\
+imparts you with a haughtiness that\
+women find irresistible.</p>\
+\
+<p>Scratch your balls\
+in public once in a while\
+.</p>\
+<p>\
+If you say something stupid,\
+goofy or impolite (hey,\
+                   it happens) don&#\
+8217;t backpedal or get\
+flustered. Act as if nothing\
+is wrong. Embarrassment is for\
+the little people.</p>\
+\
+<p>Be scandalous.</\
+p>\
+<p>Rudely\
+glance around the room every so \
+often when a girl is talking \
+to you.</p>\
+<\
+p>Be inattentive. Betas \
+focus like a laser beam when \
+engaging a girl because she is \
+the reason for his existence. \
+Alphas exist for themselves.</p\
+>\
+<p><strong>\
+Maxim #17: Be narcissistic\
+. There is no greater divergence \
+than that between a woman&#\
+8217;s stated disapproval of \
+male narcissism and the rapidity with \
+which she jumps into bed with \
+a male narcissist.</strong></\
+p>\
+<p>Keep \
+a toothpick in your mouth if \
+you don&#8217;t \
+smoke.</p>\
+<p\
+>Be judgmental. Say &#\
+8220;Hm&#8221; \
+and &#8220;I see\
+&#8221; a lot when \
+a woman talks to you,  \
+arching your eyebrows and frowning skeptically\
+.</p>\
+<p>\
+If a girl says something genuinely \
+funny (rare,  like a \
+       lunar eclipse),  don&#\
+8217;t boisterously laugh in \
+appreciation. Snicker instead.</p\
+>\
+<p>Be territorial\
+. Spread those arms and legs \
+out.</p>\
+<p\
+>Learn to love the pregnant \
+pause. When a girl shit \
+tests you,  don&#8217\
+;t respond like a wind\
+-up beta. Give her \
+a blank,  serial killer stare \
+and wait&#8230; wait\
+&#8230;&#8230;. waiiiiit \
+for it&#8230;. ANSWER\
+! Wow,  that was hot\
+. I&#8217;m \
+positive I just made a female \
+reader squirm delightfully in her seat\
+.</p>\
+<p>\
+If you don&#8217;\
+t have a witty answer ready \
+for deployment,  silence beats stilted \
+conversation.</p>\
+<p\
+>Lead with your crotch.</\
+p>\
+<p>Don\
+&#8217;t ever fall \
+for the &#8220;tap \
+on the shoulder&#8221; \
+or the &#8220;something \
+on your tie&#8221; \
+gags.</p>\
+<p\
+>Be imperious. The world \
+is your harem.</p>\
+<p>Finally&#\
+8230; use the power \
+of your back. Turning \
+your back on people who \
+have displeased you is a \
+great way to get them \
+to qualify themselves. Girls \
+will reopen. Guys will vamoose.</p>\
+'
+
+
+gs3 = epub.EpubHtml(title='just say something',
+file_name='just_say_something.xhtml',
+lang='en')
+gs3.content='\
+<h2>Just Say Something</h2>\
+<p>You&#8217\
+;re standing in front of\
+a cute girl at the supermarket\
+check-out line. You\
+put the food on the conveyor\
+belt,  stealing glances at her\
+as she fiddles with her phone\
+. She looks up briefly at\
+you,  then looks back down\
+. You want to say something\
+,  anything halfway clever,  to\
+get her smiling and a conversation\
+rolling,  with the ultimate intention\
+of a phone number exchange,\
+or even,  dare you ponder\
+it!,  an insta-date\
+to the nearest coffee shop.</\
+p>\
+<p>But\
+the moment evaporates silently,  your\
+mouth paralyzed except for the &#\
+8220;I don&#8217\
+;t need a bag&#\
+8221; you say to the\
+cashier. Another wasted opportunity.\
+But you brush it off easily\
+as soon as you are out\
+the door,  figuring you have\
+years ahead of you and plenty\
+of chances to meet girls in\
+similar situations down the road.</\
+p>\
+<p>The\
+next day,  you fumble another\
+opportunity with a girl pumping gas\
+next to you at the gas\
+station. And again,  you\
+glibly excuse your inaction with the\
+comforting thought that years of opportunities\
+await you.</p>\
+<\
+p>The same scene in\
+different contexts is repeated&#8230\
+; until those years have passed\
+and the glib excuses don&#\
+8217;t come so easily\
+anymore. Regret weighs on you\
+like a stone hung around your\
+neck.</p>\
+<p\
+>***</p>\
+<p>\
+Does the above describe you?\
+If you are like most men\
+,  it does,  too often\
+for your liking. There are\
+many sticking points in game,\
+from meeting to sex to relationship\
+,  but the one sticking point\
+that nearly every man experiences,\
+and which holds him back more\
+than any other,  is the\
+inability to open his fucking mouth\
+and say something&#8230;\
+anything&#8230; to a\
+girl he finds attractive. This\
+is the Grand Hurdle,  the\
+obstacle that looms like an unscalable\
+wall between him and any new\
+girl.</p>\
+<p\
+>Conquer this mental barrier,\
+and you have improved your game\
+a thousandfold from where you were\
+before. Why do I say\
+this?</p>\
+<p\
+>Because every time you don\
+&#8217;t talk to\
+a girl is a failure.\
+A failure to at least give\
+yourself a shot at sex and\
+love with her. Think about\
+that for a second. Each\
+one of the thousands upon thousands\
+of good-looking girls who\
+have attracted your attention over the\
+years that you didn&#8217\
+;t talk to out of\
+fear and apprehension is your failure\
+.</p>\
+<p>\
+You have failed each and every\
+one of those times,  and\
+your instances of failure now add\
+up to the thousands,  perhaps\
+tens of thousands. Hundreds of\
+thousands if you live in a\
+non-obese oasis of America\
+.</p>\
+<p>\
+That,  my friends,  is\
+massive fail. No game technique\
+can obliterate more failure,  more\
+effectively,  than simply opening your\
+mouth and saying something to the\
+girl standing next to you.</\
+p>\
+<p>Let\
+the words flow. You must\
+abide the words.</p>\
+\
+<p>So powerful,\
+and yet such a simple concept\
+so universally rejected by the vast\
+majority of men. See that\
+cute girl in the aisle picking\
+through the apples? You&#\
+8217;re not the only\
+man with lockjaw. Thousands of\
+other men also stood stupefied as\
+that same girl browsed apples all\
+the other days of the year\
+. Sure,  there were a\
+couple of men here and there\
+who managed to say something to\
+her,  and now maybe one\
+(or two) of those\
+men are currently fucking her.\
+But for the most part,\
+your competition in the Just Say\
+Something sweepstakes is laughably weak.</\
+p>\
+<p>So\
+you shouldn&#8217;t\
+worry about formulating the perfect witty\
+opener,  or a great one\
+-liner that will instantly attract\
+her,  if that worry is\
+causing you to abandon any attempt\
+. You&#8217;re\
+better off saying something geeky than\
+saying nothing at all.</p\
+>\
+<p>Naturally,\
+you will want to work at\
+honing your JSS method so that\
+what you do say is maximized\
+toward piquing her interest. But\
+if you&#8217;re\
+tongue-tied,  mentally masturbating\
+about the cleverness quotient of the\
+opener you are mulling in your\
+head is worse than staying silent\
+. If the choice is between\
+sullen silence and blurting out whatever\
+nonsensical crap comes to you,\
+always go with the nonsensical crap\
+.</p>\
+<p>\
+In that spirit,  here are\
+some JSS openers you can use\
+in various scenarios. Some of\
+these are cheesy,  and that\
+&#8217;s the point\
+. The goal is to get\
+you talking in a natural,\
+unforced way to a girl without\
+dwelling too heavily on proper game\
+technique.</p>\
+<p\
+>I know many of you\
+men have stood in that supermarket\
+line in front of the cute\
+girl with your mouths glued shut\
+,  hoping for a flash of\
+inspiration which never came. Read\
+these,  and be inspired to\
+pull out your iPod earplugs.\
+These are your first step to\
+defeating the silence.</p>\
+\
+<p>Supermarket:</p\
+>\
+<p>&#8220;\
+I hear frozen blueberries are in\
+season this year.&#8221;</\
+p>\
+<p>&#8220\
+;That&#8217;s\
+an excellent ice cream choice.&#\
+8221;</p>\
+<p\
+>&#8220;I&#8217\
+;m going to read this\
+tabloid and be proud of it\
+.&#8221;</p>\
+<\
+p>&#8220;I sometimes\
+judge people by their food purchases\
+. Don&#8217;t\
+say you&#8217;ve\
+never done that.&#8221;</\
+p>\
+<p>Liquor\
+store:</p>\
+<p\
+>&#8220;Do you think\
+it&#8217;s possible\
+to buy single cans of beer\
+? I like to pretend I\
+&#8217;m not a\
+lush.&#8221;</p>\
+\
+<p>&#8220;That\
+&#8217;s a good\
+selection of bottom shelf liquor you\
+got there.&#8221;</p\
+>\
+<p>&#8220;\
+Where&#8217;s the\
+beer funnel?&#8221;</p\
+>\
+<p>Book store\
+:</p>\
+<p>&#\
+8220;Do you know where\
+the pop-up/color\
+by numbers book section is?&#\
+8221;</p>\
+<p\
+>&#8220;I can&#\
+8217;t believe this place\
+doesn&#8217;t serve\
+pizza.&#8221;</p>\
+\
+<p>Mall clothing store\
+:</p>\
+<p>&#\
+8220;You ever notice how\
+you always get more tired standing\
+in a mall store than anywhere\
+else?&#8221;</p>\
+\
+<p>&#8220;Is\
+purple the new black?&#8221\
+;</p>\
+<p>&#\
+8220;You look like the\
+kind of girl who knows a\
+lot about cufflinks.&#8221;</\
+p>\
+<p>Farmer\
+&#8217;s market:</\
+p>\
+<p>&#8220\
+;An apple always tastes better\
+outdoors.&#8221;</p>\
+\
+<p>&#8220;I\
+think my transformation to yuppie is\
+complete.&#8221;</p>\
+\
+<p>&#8220;Did\
+you try the fig butter?\
+No? Count your blessings.&#\
+8221;</p>\
+<p\
+>&#8220;The world would\
+be a better place if we\
+were all grass-fed.&#\
+8221;</p>\
+<p\
+>Pool hall:</p>\
+\
+<p>&#8220;Don\
+&#8217;t worry.\
+That was just the stick.&#\
+8221;</p>\
+<p\
+>&#8220;I drink until\
+I see twelve holes. That\
+&#8217;s how my\
+game gets better.&#8221;</\
+p>\
+<p>Sidewalk\
+,  waiting for crosswalk signal:</\
+p>\
+<p>Give\
+her the stink-eye.\
+&#8220;You look like\
+the jay-walking type.&#\
+8221;</p>\
+<p\
+>&#8220;Hi,  sidewalk\
+stranger.&#8221;</p>\
+\
+<p>Porta-potty\
+line:</p>\
+<p\
+>&#8220;Too late.\
+I loaded my diapers.&#8221\
+;</p>\
+<p>\
+Just kidding on that last one\
+.</p>\
+'
+
+
+
+gs4 = epub.EpubHtml(title='foot in the mouth',
+file_name='foot_in_the_mouth.xhtml',
+lang='en')
+gs4.content='\
+<h2>Game Is 50% Not Putting Foot In The Mouth</h2>\
+<p> I was chatting up a\
+    cute chick when I overheard\
+    another pickup in progress right\
+    next to me. The\
+    guy was projecting his voice\
+    loudly so I couldn&#\
+    8217;t help but\
+    hear just about every word\
+    he said to the smiling\
+    girl who was listening intently\
+    to him. I glanced\
+    over when I had a\
+    moment to myself to observe\
+    his success or failure.\
+    (While watching other men\
+     crash and burn is a\
+     visceral pleasure,  I also\
+     enjoy watching men succeed because\
+     ,  one,  I can\
+     always learn something new,\
+     and,  two,  I\
+     am still amazed how often\
+     men in successful pickups utilize\
+     game principles even when they\
+     don&#8217;t\
+     know they&#8217;\
+     re doing that.)</p\
+    >\
+<p>The\
+    guy was good-looking\
+    and high energy. His\
+    body language and voice tone\
+    were confident. At one\
+    point,  when he stepped\
+    away to get a beer\
+    ,  the girl&#8217\
+    ;s friend leaned in\
+and I heard her say &#\
+8220;Wow,  he&#\
+8217;s cute.&#8221\
+; From my vantage,  at\
+least until then,  this pickup\
+was his to lose.</p\
+>\
+<p>Which he\
+did. Back with beer in\
+hand,  they continued talking,\
+or rather,  he continued talking\
+and punctuating his words with finger\
+jabs into the air,  while\
+she listened. And listened.\
+And listened. Agonizing minutes ticked\
+by. The energy was suddenly\
+one-sided with his wild\
+,  and panicky,  abandon,\
+for he must have noticed her\
+demeanor changing from delight to impassive\
+politeness to confused annoyance. The\
+previous pickup momentum,  torqued in\
+large measure simply on the strength\
+of his looks and initial pose\
+of confidence,  dissipated with surprising\
+rapidity as his &#8220;\
+game&#8221; crumbled around\
+him in a heap of monkey\
+dancing,  gum flapping,  desperate\
+body posturing,  and cloying oversmiling\
+. He began leaning into her\
+in a vain effort to compel\
+her to commit to the waning\
+conversation,  but she was already\
+one foot out the door as\
+her eyes darted around searching for\
+a friend,  a lifeline,\
+to pull her away from this\
+once attractive man. His inner\
+beta had betrayed him.</p\
+>\
+<p>Finally,\
+denouement. A friend touched her\
+elbow and whispered something in her\
+ear. The guy figured out\
+from her body language she was\
+leaving soon,  so he suggested\
+they exchange numbers. Or he\
+might&#8217;ve suggested\
+he give her his number,\
+I couldn&#8217;t\
+pick up what he said at\
+that point very clearly. She\
+took her phone out and he\
+typed his number into it and\
+gave it back to her.\
+As she was leaving,  she\
+didn&#8217;t look\
+back at him. (A\
+              good test whether a girl\
+              will flake on you for\
+              a future date is if\
+              she looks back at you\
+              briefly after you have gotten\
+              her number and she is\
+              leaving the premises with her\
+              friends. No lookback =\
+              flake.) But he wasn\
+&#8217;t done yet\
+. Still smiling like a tard\
+getting tickled,  he shouted at\
+her departing footsteps: &#8220\
+;Hey,  you better memorize\
+my number!&#8221;</p\
+>\
+<p>Woofa.</\
+p>\
+<p>It\
+all went down in ten minutes\
+. Let this be a lesson\
+. Very good looks on a\
+man without any game will buy\
+him 30 seconds to ten minutes\
+of an attractive girl&#8217\
+;s attention,  after which\
+he will be unceremoniously (and\
+                            disappointedly) discarded just like\
+any regular run of the mill\
+schlub who doesn&#8217;\
+t understand the art of seduction\
+. Men need to stop projecting\
+their fascination with looks onto women\
+; personality and alphaness are what\
+electrify a woman&#8217;\
+s pleasure center. Good looks\
+can send initial sparks,  (\
+    and sparks is all it\
+    is) but the allure\
+wears quickly without compensatory game to\
+buttress it.</p>\
+<\
+p>I number closed my\
+girl. I did not tell\
+her I would memorize her number\
+.</p>\
+'
+
+gs5 = epub.EpubHtml(title='the sexual frame',
+                file_name='the_sexual_frame.xhtml',
+lang='en')
+gs5.content='\
+<h2>The Sexual Frame</h2>\
+<p>One of the traits of the beta is\
+that he is uncomfortable with animal\
+sexuality &#8212; his own\
+and especially that of the women\
+he craves.  He is loathe\
+to initiate contact,  late to\
+respond to flirtatious signals,  and\
+leery of acknowledging the raw sexual\
+nature of women.  His unease\
+with himself and with women&#\
+8217;s equally ravenous sexual\
+appetites compels him to constantly elevate\
+women onto pedestals and to befriend\
+them platonically before making his intentions\
+known,  if ever.  He\
+thinks that expressing his sexual nature\
+too soon or too boldly will\
+diminish them both.  He simply\
+cannot conceive a scenario where a\
+sexy girl will make love to\
+him on the first day they\
+meet.  This straightjacket of limiting\
+beliefs is why he fails.</\
+p>\
+<p>A\
+way to avoid these emotionally arid\
+pitfalls is to adopt a frame\
+of mind that is infused with\
+sexuality.  Everything begins in the\
+mind.  When I see an\
+attractive girl across the room and\
+start walking toward her I immediately\
+picture her naked and writhing under\
+my sheets,  sweating in ecstasy\
+.  When I am talking with\
+her and it is clear that\
+we click,  I imagine what\
+it would feel like to touch\
+her bare skin.  I am\
+kissing her before our lips have\
+committed to the kiss.  As\
+we delve deeper into conversation,\
+a part of me visualizes peeling\
+off her clothes and imagining transactions\
+&#8230; scenarios&#8230\
+; a dirty smutty world of\
+possibilities.</p>\
+<p\
+>This is how every man\
+should approach his interactions with women\
+he is turned on by &#\
+8212; unapologetically,  sensually,\
+instinctually.  Civilized norms should hold\
+no sway over your untamed thoughts\
+or the id that fuels them\
+.  They are yours to do\
+with as you please and to\
+set the tone of whatever follows\
+.  The advantage to having this\
+carnal mindset at all times lies\
+in the power it gives you\
+to draw women into your reality\
+.  When a woman is into\
+you she will sense your sexual\
+energy and mirror it.  Your\
+thoughts will become her thoughts.\
+Your desire hers.  Later after\
+sex when she is lying in\
+your arms and talking about what\
+led to this point you will\
+discover that she knew it was\
+going to happen when you knew\
+.</p>\
+<p>\
+Lead as a man in making\
+no excuses for your libertine nature\
+,  and she will follow.</\
+p>\
+'
+
+gs6 = epub.EpubHtml(title='qualifying her',
+file_name='qualifying_her.xhtml',
+lang ='en')
+gs6.content='\
+<h2>Qualifying\
+Her</h2>\
+<p\
+>What are two truisms of\
+seduction?</p>\
+<p\
+>That women want to feel\
+like they are valued for more\
+than their looks.</p>\
+\
+<p>and</p\
+>\
+<p>That women\
+want to earn a man&#\
+8217;s interest.</p\
+>\
+<p>This is\
+what the whole idea of qualifying\
+women is based upon. By\
+demonstrating to a woman that she\
+must meet your standards which go\
+beyond how she looks you indirectly\
+communicate that</p>\
+<\
+p>a. you have\
+discerning taste</p>\
+<\
+p>b. you are\
+a challenge to be won</\
+p>\
+<p>c\
+. you can be both a\
+and b because you have choice\
+in women.</p>\
+<\
+p>One way to demonstrate\
+you have standards is by asking\
+her questions designed to put her\
+on the defensive. These are\
+not open-ended &#8220\
+;getting to know you&#\
+8221; type questions like &#\
+8220;what&#8217;\
+s your favorite movie?&#8221\
+;. They&#8217;re\
+more incisive than that. The\
+answer you want from her is\
+implied in the question you ask\
+,  so she&#8217;\
+ll feel obligated to win your\
+approval by answering the right way\
+. Once the pickup ball starts\
+rolling in this direction,  the\
+power dynamic begins to shift away\
+from her and to you.</\
+p>\
+<p>Following\
+is a short list of effective\
+qualifying questions that will let the\
+girl know you are a choosy\
+man. Timing is everything.\
+Use them after you have gotten\
+indications that she is attracted to\
+you,  usually 10 to 15\
+minutes after you&#8217;\
+ve opened her if your game\
+was tight. She will feel\
+no reason to qualify herself to\
+you if she isn&#8217\
+;t already interested.</p\
+>\
+<ol>\
+<li\
+>Can you cook?</li\
+>\
+<li>Do you\
+give good backrubs?</li>\
+\
+<li>Are you a\
+good kisser?</li>\
+<\
+li>Do you do much\
+traveling?</li>\
+<li\
+>Are you rich?</li\
+>\
+<li>Are you\
+smart?</li>\
+<li\
+>Are you the jealous type\
+?</li>\
+<li>\
+Is there more to you than\
+just your looks?</li>\
+\
+<li>Are you low\
+,  medium,  or high maintenance\
+?</li>\
+<li>\
+Have you ever given a dollar\
+to a homeless guy when no\
+one else was watching?</li\
+>\
+</ol>\
+<p\
+>Don&#8217;t\
+be afraid to express some disappointment\
+if she doesn&#8217;\
+t answer your question in a\
+way that pleases you. Let\
+the disappointment show on your face\
+. Don&#8217;t\
+make a huge production out of\
+it; a deflated &#8220\
+;oh,  i see&#\
+8221; or &#8220;\
+that&#8217;s too\
+bad&#8221; will work\
+just fine. If she quickly\
+tries to correct the wrong impression\
+she left with you then you\
+&#8217;ll know she\
+sees you as someone worthy of\
+pleasing. She&#8217;\
+ll be in chase mode,\
+which is where girls WANT to\
+be despite what they may claim\
+to the contrary. (Older\
+                  washed-up women,\
+                  don&#8217;t\
+                  bother contradicting what I say\
+                  . You have forgotten what\
+                  it&#8217;s\
+                  like to be a young\
+                  woman.)</p>\
+<\
+p>Qualification questions can also\
+be framed in the form of\
+statements. Saying any of the\
+following in the course of a\
+conversation,  sometimes with a half\
+-serious grin to blunt the\
+impact,  subtly projects that you\
+are the one to impress,\
+not the other way around.</\
+p>\
+<ol>\
+<\
+li>You better still look\
+hot when you get older.</\
+li>\
+<li>I\
+&#8217;m not interested\
+in [XYZ].</li>\
+\
+<li>You get points\
+for that.</li>\
+<\
+li>I&#8217;\
+m gonna change the subject now\
+.</li>\
+<li>\
+I don&#8217;t\
+know if I can be with\
+a girl who likes to [\
+    XYZ].</li>\
+</\
+ol>\
+<p>In\
+my experience,  most men forget\
+to qualify the girls they date\
+. Their inner game is so\
+geared toward trying to impress her\
+that they never even think to\
+turn the tables and interview HER\
+for the job. When women\
+go on dates,  they are\
+interviewing the guys,  whether they\
+admit this or not. The\
+way to defeat her at her\
+own game is not to accept\
+her terms of engagement at all\
+. Instead,  flip the script\
+. Use her weapons of courtship\
+against her. When she tries\
+to qualify you,  brush off\
+her attempts like you would dismiss\
+a bratty little kid trying to\
+goad you into a dare.\
+The posture to adopt is amused\
+mastery of everyone around you.</\
+p>\
+<p>After\
+you&#8217;ve built\
+up a store of experience with\
+women,  you&#8217;\
+ll start to have real standards\
+that they must meet. Your\
+choosiness will no longer be an\
+artifact of game but a core\
+component of who you are as\
+a man. Having standards that\
+include more than how she looks\
+will make you very attractive to\
+women,  because it subconsciously telegraphs\
+that you are not so stricken\
+by beauty like an inexperienced man\
+that you would abandon your other\
+criteria. When you can walk\
+away from dates out of true\
+conviction rather than tactical advantage your\
+inner game will be like heart\
+of lion.</p>\
+'
+
+
+gs7 = epub.EpubHtml(title='DQ Bluff',
+ file_name='DQ_Bluff.xhtml',
+lang='en')
+gs7.content='\
+<h2>What To Do If A Girl Calls Your Disqualification Bluff?<h2>\
+<p>Disqualifications &#8212; false\
+or genuine &#8212; are\
+a powerful pickup tool. Pulling\
+the rug out from under a\
+girl who autonomically believes you desire\
+her is a lickety-split\
+way to raise your status vis\
+a vis her status,  and\
+thus delight her hypergamous reflex.\
+The fact is,  women are\
+constantly in a disqualification state of\
+mind: she glides through the\
+masses of maledom programmed to disqualify\
+as many suitors as possible,\
+and to settle upon the one\
+man who is the best of\
+all the men she can attract\
+with her looks and youth.</\
+p>\
+<p>Knowing\
+this,  the appropriation by the\
+pickup artist of the female prerogative\
+to disqualify is a classic example\
+of flipping the seduction script and\
+deviously moving the woman into the\
+chaser role,  where she is\
+more likely to perceive you as\
+higher status and sexually desirable.\
+Psych 101 and various books on\
+influencing friends and clients touches upon\
+this stuff,  but of course\
+the estimable textbooks don&#8217\
+;t follow the logic down\
+the crimson road of poon hunting\
+.</p>\
+<p>\
+There are four primary types of\
+disqualification. Briefly,  I will\
+describe them here,  before tackling\
+the subject of this post&#\
+8217;s title.</p\
+>\
+<p><strong>\
+1. Preemptive self-disqualification\
+</strong></p>\
+<\
+p>Introduced by Mystery,\
+this is a statement you make\
+to a girl that lets her\
+know,  in so many words\
+,  that you aren&#8217\
+;t a serious prospect.\
+You do this by disqualifying yourself\
+. Examples: &#8220;\
+I&#8217;m gay\
+&#8221;,  &#8220;\
+I&#8217;m in\
+a relationship&#8221;,  &#\
+8220;I&#8217;\
+m not interested in dating at\
+this point in my life&#\
+8221;,  &#8220;I\
+have the AIDS&#8221;,\
+&#8220;I poop myself\
+during scary scenes in movies&#\
+8221;,  &#8220;I\
+&#8217;m a male\
+feminist&#8221;.</p>\
+\
+<p>This type of\
+DQ (disqualification &#8212;\
+    I don&#8217;\
+    t feel like typing the\
+    whole word out because my\
+    pinky finger isn&#8217\
+    ;t working,  fuck\
+    you acronym haters) is\
+called &#8220;preemptive&#\
+8221; because it short circuits\
+a girl&#8217;s\
+hypergamous instinct by robbing her of\
+the opportunity to disqualify you first\
+. It essentially reverses the chaser\
+-chased dynamic,  and upturns\
+millions of years of evolutionarily molded\
+female expectation. All of this\
+works on the subconscious level.\
+In the heat and fury of\
+a real live social interaction,\
+these game tactics fly under a\
+girl&#8217;s conscious\
+radar,  barely perceived by anyone\
+but her omnipresent war room hamster\
+and the hotline the fevered critter\
+has to the gina general at\
+the front.</p>\
+<\
+p>The preemptive self-\
+DQ is intended to act as\
+a bitch shield runaround: a\
+girl is less likely to blow\
+you out if you make her\
+think you&#8217;re\
+not available to her in the\
+first place.</p>\
+<\
+p><strong>2.\
+Target disqualification</strong></p\
+>\
+<p>Self-\
+explanatory,  this is a tactic\
+whereby the man disqualifies the girl\
+from being a serious mating prospect\
+. Owing to the greater chance\
+that Target DQ can be perceived\
+by the woman as sour grapes\
+,  this is a more aggressive\
+,  and thus riskier,  form\
+of DQ,  its risk weighed\
+against a potentially more rewarding payoff\
+. Examples: &#8220;\
+You seem like you&#8217\
+;d make a great friend\
+&#8221;,  &#8220;\
+You&#8217;re not\
+really my type&#8221;,\
+&#8220;You&#8217\
+;re a good girl,\
+I&#8217;m nothing\
+but trouble&#8230; we\
+would never work&#8221;,\
+&#8220;I&#8217\
+;m glad you&#8217\
+;re off the market&#\
+8221; [just assume she\
+       &#8217;s off\
+       the market],  &#8220\
+;Phew,  so nice to\
+talk to a girl who isn\
+&#8217;t trying to\
+flirt with me&#8221;,\
+&#8220;Since your vagina\
+is cemented shut by a rare\
+disease,  I can talk to\
+you like you&#8217;\
+re one of the guys&#\
+8221;,  &#8220;You\
+&#8217;re the first\
+lesbian I&#8217;ve\
+met in this town&#8221\
+;.</p>\
+<p>\
+The Target DQ is less about\
+lowering a woman&#8217;\
+s bitch shield than it is\
+about instigating a woman to qualify\
+<em>herself</em\
+> to <em>you\
+</em>. It&#8217\
+;s a more proactive DQ\
+compared to the PSDQ above,\
+serving as it does as an\
+immediate status differential cue to the\
+woman that she has to do\
+something to correct the imbalance to\
+the natural order of things.\
+This &#8220;something&#\
+8221; usually involves convincing you\
+,  the incorrigible player,  that\
+she is hot and sexy and\
+goodtogo. PSDQs are female disqualification\
+&#8212; aka rejection &#\
+8212; avoiders or neutralizers,\
+while TDQs are meant to coax\
+women into self-qualifying.</\
+p>\
+<p><strong\
+>3. Handicap Principle self\
+-disqualification</strong></p\
+>\
+<p>This is\
+a sub-genre of <\
+a href="https://heartiste\
+.wordpress.com/2009\
+/01/29/vulnerability\
+-game/" target="_blank\
+">vulnerability game</a>,\
+and promoted by Charisma Arts (\
+    A Wayne Elise aka Juggler\
+    production). Basically,  you\
+bring up some faux embarrassing thing\
+about yourself &#8212; some\
+minor personality flaw that you blow\
+up into significance &#8212;\
+and reveal it to the girl\
+. The theory behind the Handicap\
+Principle is that women perceive men\
+who are comfortable &#8220;\
+handicapping&#8221; themselves &#\
+8212; either through bright plumage\
+(peacocking) or through admission\
+of beta characteristics &#8212;\
+as alpha males,  because who\
+else but an alpha male would\
+be strong and powerful enough to\
+shoulder a weak beta flaw without\
+suffering any hit to his overall\
+status?</p>\
+<p\
+>Be careful with the Handicap\
+Principle. First,  it&#\
+8217;s a theory,\
+an elegant one to be sure\
+,  but one that remains,\
+as far as I know,\
+largely unproven by evolutionary biologists.\
+The degree to which HP might\
+apply to humans is unknown.\
+At some great enough level of\
+flaw possession,  the Handicap Principle\
+must surely break down,  and\
+we see evidence for this in\
+the many stories of alpha males\
+<a href="https://\
+heartiste.wordpress.com/\
+2011/01/18/\
+beta-valentine/" target="\
+_blank">who became beta in\
+relationships</a> and then\
+lost their women&#8217;\
+s love. Personally,  I\
+think the Handicap Principle is easily\
+confused with the theory of sexual\
+selection,  but that is a\
+topic for a future post.</\
+p>\
+<p>Nonetheless\
+,  it is true that women\
+coo for the alpha male who\
+unloads a perfectly timed admission of\
+(cute) self-abnegation\
+. Examples: &#8220;\
+Oh man,  I&#8217\
+;m so bad at figuring\
+out if women are flirting with\
+me or not&#8221;,\
+&#8220;I don&#\
+8217;t dance,  I\
+&#8217;ve got two\
+left feet&#8221;,  &#\
+8220;Ever since an unfortunate\
+childhood trauma,  I&#8217\
+;ve had a fear of\
+puppies&#8221;,  &#8220\
+;Black people scare me&#\
+8221;.</p>\
+<p\
+>The trick is to admit\
+your &#8220;flaws&#\
+8221; with utmost confidence and\
+unconcern. Don&#8217;\
+t say them as if you\
+&#8217;re waiting to\
+judge her reaction. They should\
+be spoken off-the-\
+cuff,  almost as if you\
+&#8217;re unaware that\
+there is a girl standing there\
+listening to you. NEVER admit\
+to a real beta flaw that\
+would repulse most women; i\
+.e. &#8220;\
+I go limp when a woman\
+makes more money than I do\
+&#8221;.</p>\
+<\
+p><strong>4.\
+Beta bait disqualification</strong></\
+p>\
+<p>Another\
+Juggler specialty,  the idea behind\
+the BBDQ is to disqualify yourself\
+as a sucker for women&#\
+8217;s flirtations. This\
+is a minor school of DQ\
+that you probably won&#8217\
+;t use or need very\
+often,  but when you do use it,  its power is undeniable. Women\
+will very frequently try to &#8220;tease out&#8221; beta males\
+by complimenting men and judging them on their reactions.\
+Does the man express a\
+little too much appreciation for her compliment? BETA.\
+Does he seize upon her\
+compliment as a springboard to ask her out? BETA. Does he say &#\
+8220;Wow,  no girl has ever said something so kind to me before\
+!&#8221;? BETA.</p>\
+<p>But if a woman compliments\
+you,  and your reaction is to ignore it,  downplay it,  or even\
+disagree with her (without veering into self-deprecation territory),\
+she will think\
+ALPHA. Examples: &#8220;Thanks,  but this actually isn&#8217\
+;t my favorite shirt&#8221;,  &#8220;You like these shoes\
+? You&#8217;re easy to please&#8221;,  &#8220;\
+Yes,  that bulge is my penis. Now you&#8217;ve made\
+me self-conscious&#8221;.</p>\
+<p>The BBDQ is\
+both a self-disqualification and a target disqualification.\
+You deny the woman&#\
+8217;s positive assessment of you,  while simultaneously denying\
+her power over your\
+emotions. It is a very subtle art form that,  when mastered,  is\
+chick crack to women&#8217;s status discernment modules. A successful BBDQ\
+is only superficially a signal of modesty; underneath the\
+calculated modesty is a heat\
+-seeking missile aimed straight at a woman&#8217;s id heart that\
+explodes in a fireball of lust for your total lack of interest in winning her\
+approval.</p>\
+<p>***</p>\
+<p>DQs are one\
+of the most difficult game techniques for noobs to grasp.\
+They are tangentially related\
+to negs,  and like the neg,  they are often abused and misused by\
+beginners. Their power is also their danger; because they work so well,\
+men new to the game have a tendency to throw them out at awkward moments\
+,  and with too much expectant fervor. They then come across as creeps and\
+try-hards,  and wind up providing fodder to bitches to later log into\
+the social media borg to mock the hapless betas who tried to run game on\
+them.</p>\
+<p>(Leave it to a woman to mock a\
+    man for trying. You don&#8217;t hear too many men\
+    mocking fat chicks who make a real effort to lose weight by going to\
+    the gym and eating right. But then,  in some respects,  men\
+    simply have more compassion and empathy than do women\
+    for the opposite sex.\
+    But I ingest.)</p>\
+<p>The keys to getting your\
+DQ money&#8217;s worth are timing,  context and delivery. Too\
+soon &#8211;&gt; weird. Too late &#8211;&gt;\
+spiteful. Too unrelated &#8212; &gt; try-hard. Too\
+forced &#8211;&gt; creepy. Too self-deprecating &#8211;&\
+gt; beta. Too nasty &#8211;&gt; sour grapes.</p\
+>\
+<p>But even when you have timing,  context and delivery down\
+pat,  you will sometimes get your DQ called out by a woman.</p\
+>\
+<p>You: &#8220;I&#8217;m not\
+looking for anyone right now.&#8221;</p>\
+<p>Girl:\
+    &#8220;Good,  because neither am I.&#8221;</p>\
+\
+<p>***</p>\
+<p>You: &#8220;You&#\
+8217;re a good girl,  I&#8217;m trouble&#8230\
+; we would never work out.&#8221;</p>\
+<p>Girl\
+: &#8220;Yeah,  I guess I am a good girl.&#8221\
+;</p>\
+<p>***</p>\
+<p>You: &#8220\
+;I&#8217;ve got a weird fear of puppies. Goes back\
+to a childhood incident.&#8221;</p>\
+<p>Girl: &#\
+8220;That&#8217;s fucked up.&#8221;</p>\
+<\
+p>***</p>\
+<p>You: &#8220;Thanks,  but\
+this isn&#8217;t my favorite shirt.&#8221;</p>\
+<\
+p>Girl: &#8220;Yeah,  now that I look at it\
+closely,  it&#8217;s not a very good shirt.&#8221;</\
+p>\
+<p>Don&#8217;t worry. These kinds of\
+reactions,  as plausible as they\
+are in writing,  and as\
+much as cunts\
+will cackle that\
+they will respond like this to\
+players whenever one of them tries\
+\
+to hit on their skanky carcasses\
+,  are blessedly rare. Most\
+girls will be\
+too high on\
+their torqued emotions to call out\
+a player&#8217;s\
+\
+DQ bluff so directly. The\
+hamster is simply not that rational\
+; hence,\
+why he&#\
+8217;s called the rationalization\
+hamster,  devoted to creating rationale\
+\
+out of nothing at all.</\
+p>\
+<p>But\
+DQ bluff-\
+calling does happen\
+,  and more often to newbs\
+than to experienced PUAs. When\
+\
+a newb gets his DQ bluff\
+called,  the result can be\
+hilarity (not\
+            to mention the\
+        newb&#8217;s\
+          demanding his money back from\
+          some\ overpriced pickup seminar he\
+          attended). A great illustration\
+of a newb&#8217\
+;\
+s DQ bluff being called out\
+was provided by Juggler in <\
+a href\
+="https://heartiste\
+.wordpress.com/2012\
+/07/09/\
+wayne\
+-elise-pacing-and\
+-conversational-context/" target\
+="_blank\
+">this post</\
+a>.</p>\
+<blockquote\
+><p>ASPIRING NOOB\
+:\
+    “I could. But\
+    I’m not going\
+    to. I’\
+m\
+an all out there kinda guy\
+. I’m going to\
+this fab\
+party later. If\
+you’re lucky I might\
+invite you.”</p>\
+\
+\
+<p>GIRL: “\
+No thanks.”</p>\
+<\
+p>“Aww\
+. You’\
+re playing hard to get.\
+That’s so cute.”</\
+\
+p>\
+<p>“Whatever\
+.”</p>\
+<p>“\
+I hear an\
+accent. Where\
+are you from?”</p>\
+\
+<p>“Nowhere.”</p\
+>\
+<p>“Ha.\
+Nowhere. That’s funny\
+. Can I\
+buy you a\
+drink?”</p>\
+<p\
+>“Yes. I’ll\
+\
+take a piña colada but don\
+’t even think about dropping\
+a roofie in\
+there. I\
+’m not going to hook\
+up with you.”</p>\
+\
+\
+<p>“Whoever said\
+anything about hooking up? You\
+’re more of\
+the kinda\
+girl I see as a friend\
+.”</p>\
+<p>“\
+Good\
+.”</p>\
+<p\
+>“Good. So what’\
+s your name?”</\
+p></\
+blockquote>\
+<p>If\
+a girl isn&#8217;\
+t\
+already invested in the conversation\
+with you,  a DQ is\
+less likely to have\
+the intended\
+effect. If you walk up\
+to a girl cold and start\
+spouting\
+off about how you just\
+want to be friends with her\
+and you aren&#\
+8217;\
+t available for dating,  what\
+kind of reaction do you think\
+you\
+&#8217;ll get\
+? Do you imagine girls will\
+start qualifying themselves to\
+you on\
+the spot? No,  you\
+have to first reel her in\
+and\
+dangle the promise of your\
+interest before unloading the soul-\
+sucking DQ.</p\
+>\
+<\
+p>Many PUAs,  like\
+Tyler Durden,  recommend a preemptive\
+approach\
+to DQing; that is\
+,  you train yourself to sense\
+when girls are about\
+to disqualify\
+you,  and disqualify them before\
+they get a chance. Often\
+,\
+this occurs during the late\
+comfort stage of the seduction,\
+when the girl is\
+beginning to\
+feel pangs of guilt about the\
+release of her inner slut which\
+looms\
+on the horizon. Other\
+PUAs,  like Mystery,  advocate\
+active DQs early in the attraction\
+phase,  as a direct method\
+for building attraction. Still others\
+say to avoid them entirely,\
+as the risk of delving into\
+&#8220;sour grapism&#\
+8221; territory is too great\
+to assume.</p>\
+<\
+p>I will say this\
+about DQs:</p>\
+<\
+p>They are supposed to\
+sound spontaneous. The best DQs\
+are unexpected and off-the\
+-cuff. If it sounds\
+like a line,  it will\
+backfire. If it sounds like\
+you thought about it beforehand,\
+it will backfire. Body language\
+and facial expression are important conveyors\
+of indifference and spontaneity.</p\
+>\
+<p>Never DQ\
+from a position of weakness.\
+If you are working overtime to\
+keep a girl&#8217;\
+s attention,  a DQ will\
+only lower your value even more\
+. Remember,  DQs are FALSE\
+disqualifications. When you DQ as\
+a last resort to keep a\
+girl around,  it is no\
+longer false; it is a\
+real disqualification.</p>\
+<\
+p>If a girl calls\
+out your DQ,  my best\
+advice is to ignore it and\
+change the subject,  OR readily\
+agree with her in return.\
+A pinpoint DQ destroyer,  while\
+rare,  is not to be\
+trifled with. You want to\
+avoid at all costs the impression\
+of being flustered or annoyed or\
+dispirited by her agreement with your\
+DQ. Just roll with it\
+,  as if you&#8217\
+;re glad she agreed with\
+you,  and reassess if she\
+&#8217;s worth your\
+continued effort to bed.</p\
+>\
+<p>The upside\
+to a failed DQ is that\
+,  later,  if the girl\
+is into you and starts to\
+return your interest,  you can\
+remind her of the claim she\
+made earlier about not wanting this\
+to go anywhere. A pullback\
+at a moment when the girl\
+MOST WANTS TO PULL INTO YOU\
+is like sticking TNT up her\
+hamster&#8217;s anus\
+. You are beginning down the\
+road of building your own slave\
+harem.</p>\
+<p\
+>Preemptive DQs &#8212;\
+the type of DQ that occurs\
+before you have built adequate interest\
+in the girl (think Mystery\
+             Method-style) &#\
+8212; can work great IF\
+you don&#8217;t\
+linger on them waiting for a\
+reaction. You drop the DQ\
+,  ignore whatever reply she gives\
+in return,  and plow.\
+The goal is subconscious infiltration,\
+leading to script flipping.</p\
+>\
+<p>Mystery-\
+style preemptive DQs work best on\
+hot girls. Since hot girls\
+are the most likely to assume\
+every man wants them (justifiably\
+                      ),  a quick correction to\
+the contrary can temporarily scramble their\
+status differential discernment algorithms.</p\
+>\
+<p>Be careful\
+about DQing 6s and 7s.\
+You can easily blow a girl\
+out of the water and render\
+yourself unattainable to them.</p\
+>\
+<p>If you\
+&#8217;re going to\
+agree with a girl&#8217\
+;s DQ nuke,  don\
+&#8217;t make a\
+production out of it. For\
+example:</p>\
+<p\
+><span style="text-\
+decoration:underline;">WRONG WAY\
+TO AGREE WITH GIRL&#8217\
+;S DQ NUKE</span\
+></p>\
+<p>\
+Girl: &#8220;Good\
+. I just want to be\
+friends too.&#8221;</p\
+>\
+<p>You:\
+    &#8220;Yeah,\
+    yeah,  friends. That\
+    &#8217;s what\
+    I want to.&#8221\
+    ; [pained expression belies\
+       your words]</p>\
+\
+<p><span style="\
+text-decoration:underline;">\
+RIGHT WAY TO AGREE WITH GIRL\
+&#8217;S DQ NUKE\
+</span></p>\
+<\
+p>Girl: &#8220\
+;Good. I just want\
+to be friends too.&#8221\
+;</p>\
+<p>\
+You: &#8220;Cool\
+. So&#8230; you\
+see that guy over there?\
+I think he wants you.\
+That&#8217;s the\
+way to do it. Stare\
+hard.&#8221;</p>\
+\
+<p>In Juggler&#\
+8217;s example above,\
+when the NOOB says &#8220\
+;If you&#8217;\
+re lucky I might invite you\
+&#8221;,  he&#8217\
+;s expecting the girl to\
+reply something along the lines of\
+&#8220;Wow,  you\
+must think you&#8217;\
+re special&#8221;,  a\
+shit test to which the NOOB\
+thinks he is well-trained\
+to parry. But instead,\
+she deflates him totally with the\
+cold &#8220;No thanks\
+&#8221;. The NOOB is\
+now left flailing,  hurling more\
+DQs at her in hopes one\
+will stick.</p>\
+<\
+p>The best defense against\
+the deflating DQ nuke is to\
+simply avoid putting yourself in the\
+position where such nukes are likely\
+to happen. If you pace\
+yourself,  the likelihood of triggering\
+a DQ nuke goes way down\
+. Should one happen to you\
+,  one that is particularly disheartening\
+,  you may consider bailing.</\
+p>\
+<p>You\
+: &#8220;If you\
+&#8217;re lucky I\
+might invite you.&#8221;</\
+p>\
+<p>Girl\
+: &#8220;No thanks\
+.&#8221;</p>\
+<\
+p>You: &#8220\
+;Ok. See ya.&#\
+8221;</p>\
+<p\
+>A good player knows when\
+to cut his losses.</p\
+>\
+<p>However,\
+if you see an opening and\
+want to continue working on her\
+,  <strong>AGREE AND\
+REDIRECT</strong>.</p>\
+\
+<p>You: &#\
+8220;If you&#8217\
+;re lucky I might invite\
+you.&#8221;</p>\
+\
+<p>Girl: &#\
+8220;No thanks.&#8221\
+;</p>\
+<p>\
+You: &#8220;Yeah\
+,  come to think of it\
+,  it&#8217;s\
+probably better you don&#8217\
+;t come. My ex\
+might start a fight with you\
+.&#8221;</p>\
+<\
+p>OR</p>\
+\
+<p>You: &#\
+8220;Well,  I suppose\
+now I can make room for my Mom to come with me.&#8221;</p>\
+<p>OR</p>\
+<p>You: [fake look of indignation] &#8220;Invite&#8230; REVOKED.&#8221;</p>\
+<p>OR</p>\
+<p>You: &#8220;Great,  now who am I gonna set up my friend with?&#8221;</p>\
+<p>OR</p>\
+<p>You: &#\
+8220;Damn,  I guess\
+I&#8217;ll have\
+to buy my own drinks.&#\
+8221;</p>\
+<p\
+>This has been an introductory\
+course in DQs and sidestepping DQ\
+nukes. The subject material is\
+advanced,  so I encourage the\
+commenters to flesh it out for\
+the 1 billion readers who are hanging on your every word.</p>\
+'
+
+gs8 = epub.EpubHtml(title='a-hole game part i',
+file_name='a-hole_game_part_i.xhtml',
+lang='en')
+gs8.content='\
+<h2>A-Hole Game Part I</h2>\
+s week I will discuss Asshole\
+Game. There is no sugarcoating\
+it; being an asshole works\
+on women,  all women,\
+most of the time. Any\
+man who has lived a day\
+in his life and isn&#\
+8217;t self-deluded\
+by equalist ideology or chick flic\
+romanticism knows this is true,\
+even those PUA &#8220;\
+love gurus&#8221; who\
+unctuously sermonize that what women really\
+want are &#8220;strong\
+confident men&#8221; minus\
+the asshole part. Save your\
+holier-than-thou moralizing\
+and desperate attempts to discredit asshole\
+game by falsely claiming it only\
+appeals to low self esteem girls\
+. We&#8217;re\
+going to discuss what works,\
+not what <em>should\
+</em> work.</p\
+>\
+<p>I&#\
+8217;ve written before about\
+how effective <a href="\
+https://heartiste.wordpress.\
+com/2008/03/\
+21/when-a-\
+girl-needs-an-\
+asshole/" target="_blank">\
+asshole game</a> is\
+at attracting and <a href\
+="https://heartiste.wordpress\
+.com/2008/04\
+/15/keeping-your\
+-woman-in-line\
+/" target="_blank">keeping\
+your women in line</a\
+>. If you&#8217;\
+ve been in a rut,\
+or you&#8217;re\
+having troubles with your girlfriend (\
+    almost always instigated by the\
+    girl),  acting like an\
+asshole is the quickest and most\
+efficient way to set things straight\
+. I was talking about this\
+with a couple friends recently and\
+they agreed that no matter how\
+often they see asshole game work\
+,  they still can&#8217\
+;t accept the reality of\
+it. I hear this said\
+all the time from friends who\
+have witnessed me using asshole game\
+on a girl: &#8220\
+;I can&#8217;\
+t believe that works.&#8221\
+; No surprise. No man\
+truly wants to believe that soul\
+of a woman was created below\
+.</p>\
+<p>\
+I&#8217;m going\
+to briefly describe a scenario from\
+my own life when I was\
+an asshole with a girl,\
+and what effect it had on\
+her. Use my lessons in\
+your own life and be amazed\
+at the results it gets you\
+. (No,  seriously.)\
+In the comments,  feel free\
+to offer your own asshole suggestions\
+for how you would have handled\
+the situation I present.</p\
+>\
+<p>I was\
+six months into a relationship with\
+a pretty au pair (standard\
+                  MO: ten years younger\
+                  ). She lived outside the\
+city. I was already telling\
+her to &#8220;see\
+me on a Tuesday night,\
+because this weekend is tough for\
+me. And you need to\
+research getting your green card.&#\
+8221; I said this because\
+secretly I was in hunter mode\
+and wanted the weekend nights to\
+myself for preying on fresh meat\
+. My friends thought I was\
+crazy. &#8220;She\
+&#8217;s the perfect\
+girlfriend. Why would you fuck\
+that up?&#8221; &#\
+8220;She&#8217;\
+s going to know you&#\
+8217;re out at the\
+clubs hitting on girls. She\
+&#8217;ll leave you\
+.&#8221; That&#8217\
+;s all I ever heard\
+from them.</p>\
+<\
+p>One of those weekend\
+nights I was at a music\
+club with friends,  chatting with\
+some goth chicks standing around us\
+. Late in the night,\
+my au pair girlfriend showed up\
+at the club,  unexpectedly.\
+She had had her host family\
+drop her off in front of\
+the club at 1 am.\
+I never told her where I\
+would be at,  let alone\
+that I was even going out\
+that night. She simply guessed\
+and nailed it. I didn\
+&#8217;t see her\
+come in. My friends looked\
+over my shoulder with raised eyebrows\
+as my GF sidled up behind\
+me and put her arms around\
+my waist.</p>\
+<\
+p>*ASSHOLE ALERT*</p\
+>\
+<p>I turned\
+around and looked at her without\
+smiling,  the disappointment etched onto\
+my face. I remember the\
+thoughts going through my head:\
+    &#8220;Oh man\
+    ,  I won&#8217\
+    ;t be able to\
+    hit on any girls now\
+    that she&#8217;\
+    s here.&#8221;\
+    I muttered &#8220;\
+    Hey&#8221; and\
+    with a hint of annoyance\
+    asked her how she got\
+    there. I told her\
+    to get herself a drink\
+    . She never left my\
+    side for the rest of\
+    the night while I constantly\
+    glanced around the room.\
+    Her eyes blazed with a\
+    mixture of love and worry\
+    .</p>\
+<p>We stayed together for another year. It went\
+on like this for a while\
+: Me keeping a distance to\
+surreptitiously hit on new women,\
+her chasing after me. The\
+sex never faltered. It was\
+always hot and her pussy dripped\
+like a faucet right up until\
+the end.</p>\
+<\
+p>There are genuine assholes\
+who are loved,  and there\
+are spiteful assholes who get nowhere\
+. The difference is crucial.</\
+p>\
+<p>Uncaring\
+asshole = success with women.</\
+p>\
+<p>Caring\
+asshole = failure with women.</\
+p>\
+<p>When\
+women say they don&#8217\
+;t fall for assholes,\
+they are thinking of the second\
+kind. A caring asshole comes\
+from a place of bitterness and\
+spite. His assholery is reactive\
+rather than proactive. He is\
+poor at calibrating which women will\
+be responsive to his dick attitude\
+. Caring assholes are crassly insulting\
+and transparently invested in the outcome\
+of their game.</p>\
+\
+<p>Uncaring assholes are\
+assholes as a consequence of their\
+indifference. It is the aloofness\
+of the man she loves that\
+drives women crazy with obsession*,\
+and that aloofness is manifest as\
+asshole behavior. An uncaring asshole\
+demonstrates clearly in his body language\
+and tone of voice,  not\
+to mention his dearth of words\
+,  that he could take her\
+or leave her. In the\
+scenario above,  my asshole behavior\
+mirrored my feelings perfectly &#8212\
+; I really did not want\
+her there by my side that\
+night.</p>\
+<p\
+>*Why do women love assholes\
+? Quickie answer: Sexy Sons\
+hypothesis.</p>\
+'
+
+
+gs9 = epub.EpubHtml(title='a-hole game part ii',
+ file_name='a-hole_game_part_ii.xhtml',
+lang='en')
+gs9.content='\
+<h2>A-Hole Game Part II</h2>\
+<p><span style="text-decoration:underline;">\
+Asshole game with 25 year old \
+foreign girlfriend</span></p\
+>\
+<p>Her: \
+    I love Indian culture. \
+    The dancing,  the colorful \
+    dresses,  the religion&#\
+    8230;</p>\
+<\
+p>Me: You love \
+Bollywood? There&#8217;\
+s no accounting for taste.</\
+p>\
+<p>Her\
+: [getting seriously agitated] \
+Shut up! The Indian culture \
+is beautiful.</p>\
+<\
+p>Me: Hey,  \
+there&#8217;s an \
+Indian guy who lives down the \
+street. Go knock yourself out\
+. You can get some of \
+his culture long and hard.</\
+p>\
+<p>Her\
+: You&#8217;re \
+an ignorant American. A child\
+. What do you know.</\
+p>\
+<p>Me\
+: I know you&#8217\
+;re being annoying.</p\
+>\
+<p>Later &#\
+8212; pussy dripping sex.</\
+p>\
+<p><span \
+style="text-decoration:\
+    underline;">Asshole game with \
+    bartender chick</span></\
+    p>\
+<p>\
+Me: [looking at her \
+     new hairstyle with a grimace\
+     ] What did you do \
+to your hair!?</p>\
+\
+<p>Her: I \
+got bangs! Jesus,  fuck \
+you.</p>\
+<p\
+>Me: It doesn&#\
+8217;t work for me\
+.</p>\
+<p>\
+Three months later &#8212; \
+pussy dripping sex. And free \
+drinks.</p>\
+<p\
+><span style="text-\
+decoration:underline;">Asshole game \
+with heavily tattooed chick in indie \
+club</span></p>\
+\
+<p>Me: Hi\
+.</p>\
+<p>\
+Her: [sighing] Just \
+to let you know up front\
+,  I&#8217;m \
+not interested.</p>\
+<\
+p>Me: So you\
+&#8217;re not going \
+to introduce me to your cute \
+friend?</p>\
+<p\
+>Later &#8212; no \
+sex,  but pride as a \
+man.</p>\
+<p\
+><span style="text-\
+decoration:underline;">Asshole game \
+with girl trying to break up \
+with me in Starbucks</span\
+></p>\
+<p>\
+Her: I really think this \
+isn&#8217;t going \
+to work. I don&#\
+8217;t want to do \
+this anymore. Look at us\
+.</p>\
+<p>\
+Me: [slouching for maximum \
+     aloofness effect] I can \
+read your face. You&#\
+8217;re a bad liar\
+. But if this is what \
+you want then go ahead. \
+I gotta admit you&#8217\
+;re not easy to be \
+in a relationship with. You\
+&#8217;re a fucking \
+pain in the ass.</p\
+>\
+<p>Her: \
+    What&#8217;s \
+    that supposed to mean?!?</\
+    p>\
+<p>Later &#8212; six more \
+months of pussy dripping sex.</\
+p>\
+<p>***</p\
+>\
+<p>Note: \
+    Never smile when running asshole \
+    game. It&#8217\
+    ;ll look like you\
+    &#8217;re backpedaling\
+    .</p>\
+'
+
+
+gs10 = epub.EpubHtml(title='a-hole game part iii',
+ file_name='a-hole_game_part_iii.xhtml',
+lang='en')
+gs9.content='\
+<h2>A-Hole Game Part III</h2>\
+<p><em>Previously\
+: <a href="https\
+://heartiste.wordpress.com\
+/2009/01/12\
+/a-hole-game\
+-day-1/" target\
+="_blank">Asshole Game: \
+    Day 1</a> \
+    and <a href="\
+    https://heartiste.wordpress\
+    .com/2009/\
+    01/13/a\
+    -hole-game-\
+    day-2/" target\
+    ="_blank">Asshole Game\
+    : Day 2</a\
+    ></em></p>\
+\
+<p>Uncaring asshole game \
+will revitalize a flagging relationship and \
+help keep the love strong.</\
+p>\
+<p>One \
+weeknight around 1 AM I got \
+a frantic call from my girlfriend\
+. She wailed that she had \
+gotten into an accident and needed \
+help. Looking over at my \
+clock and realizing it was six \
+hours until I had to get \
+up for work,  I sighed \
+heavily and asked her if the \
+accident was serious. She cried\
+. <em>&#8220;\
+Whaat?? I don&#8217\
+;t know,  yes it\
+&#8217;s serious! \
+I don&#8217;t \
+know what to do!&#8221\
+;</em> I told her \
+to calm down and explain what \
+happened. Between her sobs I \
+could piece together the events. \
+She had driven back from a \
+job and was parallel parking on \
+a street in her neighborhood close \
+to her home,  which was \
+about a twenty minute walk from \
+my place. In the process \
+of parking,  she had hit \
+the SUV in front of her\
+. Her car,  presumably,  \
+was sticking out into the street \
+a bit.</p>\
+<\
+p>A parallel parking &#\
+8220;accident&#8221;? \
+There was no way I was \
+rousing myself from my comfortable slumber \
+and traipsing out there in the \
+middle of the night to console \
+her for a minor fender bump\
+. How bad can a girl \
+fuck up parallel parking? I \
+thought for a second. My \
+girlfriend was a skittish,  uncoordinated \
+driver. Stereotypically female behind the \
+wheel. Yeah,  if anyone \
+could turn a parallel park job \
+into a five car pileup it \
+would be her. Then I \
+thought about where she was parked\
+. Her neighborhood was sketchy (\
+    i.e not enough \
+    SWPLs had moved in yet\
+). If I were a girl\
+,  I wouldn&#8217;\
+t walk around there at 1 \
+AM. I thought some more\
+.</p>\
+<p>&#\
+8220;Look,  just leave \
+your car there and go home\
+. It&#8217;s \
+late. Get some sleep. \
+I have to work tomorrow. \
+We&#8217;ll check \
+out your car in the morning\
+. Whatever happened,  it can\
+&#8217;t be that \
+bad,  so stop freaking out \
+about it. You just bumped \
+a fender.&#8221;</p\
+>\
+<p><em>&#\
+8220;I can&#8217\
+;t just leave it!&#\
+8221;</em> She was \
+really crying now. <em\
+>&#8220;You have to \
+come! Please,  take a \
+look. It&#8217;\
+s bad. I don&#\
+8217;t like standing out \
+here. It&#8217;\
+s dark and there are weirdos \
+walking around. Just help me\
+!&#8221;</em></p\
+>\
+<p>Fucking Christ\
+. &#8220;Don&#\
+8217;t make a big \
+fucking production out of this! \
+You bumped your car,  it\
+&#8217;s not a \
+huge deal to get worked up \
+over. Calm down and just \
+walk home. I&#8217\
+;ll be there in the \
+morning.&#8221;</p>\
+\
+<p><em>&#8220\
+;Please come,  pleeeeeease!!!&#\
+8221;</em></p>\
+\
+<p>Annoyed that my \
+sleep was interrupted,  and irritated \
+with my girlfriend for spazzing out \
+over nothing,  I drove to \
+the scene of the tardishness. \
+She was pacing next to her \
+car,  arms crossed,  tears \
+running down her face. I \
+examined the car. Holy shit\
+. There was a giant gouge \
+in the right front panel where \
+she had turned the car too \
+early as she was backing up \
+into the empty parking spot. \
+I couldn&#8217;t \
+believe someone could cause that much \
+damage from parallel parking,  not \
+even a hysterical girl.</p\
+>\
+<p>&#8220;\
+What the hell did you do\
+?!&#8221;</p>\
+<\
+p>She explained that once \
+her car bumped into the SUV \
+up front,  instead of doing \
+the logical thing and pulling out \
+to try again,  she had \
+freaked out and kept her foot \
+on the gas pedal,  trying \
+to force her tiny Toyota into \
+the spot. Result: A \
+deep resale value-killing indentation \
+from her car grinding into the \
+bumper of the SUV. I \
+get exasperated with stupidity,  so \
+I gave her the cold,  \
+hard stare of contempt.</p\
+>\
+<p>&#8220;\
+Give me the keys.&#8221\
+;</p>\
+<p>\
+I pulled her car forward and \
+parked it in the empty spot \
+without incident.</p>\
+<\
+p><em>&#8220;\
+I wanted you to come help\
+. I was scared out here\
+.&#8221;</em></p\
+>\
+<p>I pointed \
+at her house across the street\
+. &#8220;You could\
+&#8217;ve pulled your \
+car out and parked like a \
+normal human being,  and then \
+gone home instead of dragging me \
+out here for nothing. Don\
+&#8217;t play these \
+little drama acts with me.&#\
+8221;</p>\
+<p\
+>She looked down at the \
+ground. The streetlight reflected off \
+her tear streaked face. <\
+em>&#8220;What will \
+we do about the car now\
+?&#8221;</em></p\
+>\
+<p>&#8220;\
+I don&#8217;t \
+know. We&#8217;\
+ll talk about it tomorrow.&#\
+8221; I didn&#8217\
+;t offer her to come \
+back to my place. &#\
+8220;Try not to think \
+about it and go to sleep\
+.&#8221;</p>\
+<\
+p>The next evening she \
+was at my place,  apologetic \
+but also hurt that I didn\
+&#8217;t rush to \
+her side like a white knight\
+. I barely paid her feelings \
+any heed. Her pain simply \
+didn&#8217;t register\
+. That night,  we watched \
+porn and I did her in \
+the ass for the first time\
+. She welcomed my meaty intrusion\
+.</p>\
+<p>\
+When I told a good friend \
+what had happened,  the words \
+he used to describe me were \
+&#8220;Grade A schmuck\
+. Complete asshole.&#8221; \
+Then he wondered why she was \
+still with me and said I \
+didn&#8217;t deserve \
+her.</p>\
+<p\
+>She and I stayed together \
+for another year. The sex \
+was always available and her pussy \
+moist. She never had a \
+&#8220;headache&#8221\
+;. She accepted my facials with \
+clocklike regularity. In hindsight,  \
+she fit the description of a \
+Neurotic Waif perfectly,  with elements of the Eternal Ingenue.</p>\
+<p>The best Asshole \
+Game is when the assholery comes \
+naturally and effortlessly. What I \
+did was not good by most \
+people&#8217;s definition \
+of the good,  but there\
+&#8217;s no denying \
+it worked. After that incident\
+,  she was in love with \
+me more than ever.</p>\
+'
+
+
+gs11 = epub.EpubHtml(title='being the right kind of asshole',
+file_name='being_the_right_kind_of_asshole.xhtml',
+lang='en')
+gs11.content='\
+<h2>Being The Right Kind Of Asshole</h2>\
+<p>Occasionally,  an \
+oh-so-sincere skeptical \
+reader will insist that being the \
+jerk women love doesn&#8217\
+;t work,  because he\
+/she/it saw some \
+guy calling a girl a bitch \
+once,  and that guy didn\
+&#8217;t get laid\
+.</p>\
+<p>\
+The height of counter-argument \
+prowess!</p>\
+<p\
+>As this blogasmic beacon of \
+bounteous love has <a href\
+="https://heartiste.wordpress\
+.com/2011/12\
+/22/caring-vs\
+-uncaring-assholery/" target\
+="_blank">written before</\
+a>,  there is a critical \
+distinction between being a &#8220\
+;caring asshole&#8221; \
+that signals to women you are \
+desperate for their vaginas,  and \
+being an aloof &#8220;\
+uncaring asshole&#8221; that \
+signals to women you could do \
+without their vaginas,  which ironically \
+makes their vaginas feel strong love\
+.</p>\
+<p>(\
+    I will leave aside for \
+    another post examination of putative \
+    examples to the contrary,  \
+    such as those supreme assholes \
+    like Chris Brown and Mexican \
+    drug lords who,  full \
+    of care,  beat their \
+    women to pulps yet still \
+    enjoy the undying love of \
+    their attractive targets of affliction\
+    .)</p>\
+<p\
+>If you are having trouble \
+dissecting the meaning of being an \
+uncaring asshole,  think upon the \
+personality quirks that define a man \
+who has inherited (or honed\
+                   ) the suite of Dark \
+Triad traits. He is closest \
+to the manifestation of the ideal \
+uncaring asshole.</p>\
+<\
+p>Reader Ripp writes:</\
+p>\
+<blockquote><p\
+><em>“The Dark Triad \
+are the component parts of the \
+one overarching attitude that most defines \
+and forges the successful womanizer: \
+    overconfidence.”</em></p\
+    >\
+<p>Agreed\
+,  academically. To qualify overconfidence\
+:</p>\
+<p>\
+The art of exhibiting these qualities \
+is commonly misrepresented by being a \
+deliberate asshole; a ‘caring \
+asshole’. Irrational overconfidence,  or \
+‘cockyness’,  doesn’t \
+hit the mark.</p>\
+\
+<p>Calculated arrogance,  \
+effectively demonstrated pre-selection,  \
+a refined non-reactive attitude \
+to shit testing and a mysterious \
+self-serving aloofness comprises the \
+“attitude” described above.</\
+p>\
+<p>Uncalibrated \
+“overconfidence” is try hard\
+. Yielding true overconfidence at the \
+correct moments hits the mark:</\
+p>\
+<p>“Listen\
+. I don’t know \
+you…and you need to \
+understand. I’m one \
+charming mother fucker.”</p></\
+blockquote>\
+<p>This \
+reader has a point. If \
+you have to shout your overconfidence \
+from the rooftops,  you have \
+shown the exact opposite: a \
+lack of self-confidence.</\
+p>\
+<p>But \
+most Dark Triad Dudes are <\
+a href="https://heartiste\
+.wordpress.com/2012\
+/01/18/overconfidence\
+-is-the-heart\
+-of-game/" target\
+="_blank"><em>irrationally\
+</em> overconfident</a\
+>,  if by irrational we mean \
+that there is very little objective \
+evidence that would buttress a case \
+for their degree of self-\
+regard. The reason they do \
+well with women is because women \
+don&#8217;t <\
+em>subconsciously</em> \
+care as much for objective measures \
+verifying a man&#8217;\
+s overconfidence as they care for \
+the overconfident attitude itself. And\
+,  remember,  when we&#\
+8217;re talking about sparking \
+vaginal tingles,  it&#8217\
+;s a woman&#8217\
+;s subconscious you want to \
+massage,  not her conscious awareness\
+. The subconscious is orders of \
+magnitude more powerful than the conscious\
+,  in which the latter pretty \
+much acts as a highly advanced \
+rationalization machine permitting expression of the \
+desires of the subconscious.</p\
+>\
+<p>Again&#\
+8230; it&#8217;\
+s the <a href="\
+https://heartiste.wordpress.\
+com/2012/03/\
+08/the-aloof-\
+alpha-attitude-explained/" \
+target="_blank">ALPHA ATTITUDE\
+</a> chicks dig. \
+You have the attitude,  and \
+you can pretty much roll with \
+any undersized or overstuffed portfolio of \
+objective accomplishments. If you don\
+&#8217;t have the \
+attitude,  you will be dismayed \
+to find that your <em\
+>curriculum vitae</em> \
+is not helping you get laid \
+as much as the numbers you \
+crunched told you it would help\
+.</p>\
+<p>\
+Naturally,  it&#8217;\
+s better to have both aligned \
+&#8212; you&#8217\
+;ll find it easier to \
+maintain congruence if your objective status \
+matches your signaling status &#8212\
+; but if you had to \
+choose one,  choose signaling status\
+. It&#8217;s \
+way simpler to achieve,  and \
+more fun to apply!</p\
+>\
+<p>I&#\
+8217;ll give you a \
+quick glimpse at a minute in \
+the life of a caring asshole\
+,  so that you can better \
+appreciate why he fails with women \
+while his equal but different douchehead \
+cousin cleans up with the ladies\
+.</p>\
+<p>\
+Girl: &#8220;I \
+don&#8217;t give \
+my number to guys I just \
+met.&#8221;</p>\
+\
+<p>Asshole who cares \
+too much: &#8220;\
+Well,  fuck you,  nobody \
+asked for it.&#8221;</\
+p>\
+<p>Girl\
+: &#8220;You just \
+did.&#8221;</p>\
+\
+<p>Asshole who cares \
+too much: &#8220;\
+I was kidding. I would \
+never go out with a bitch \
+like you.&#8221;</p\
+>\
+<p>There&#\
+8217;s no denying this \
+guy is an asshole,  and \
+there&#8217;s no \
+denying he would be a miserable \
+failure with women (although,  \
+                    it has to be said\
+                    ,  he&#8217;\
+                    d still do better than \
+                    the typical mincing betabot). \
+So where did his assholery go \
+wrong? For that,  we \
+need to contrast him with his \
+uncaring asshole bro.</p>\
+\
+<p>Girl: &#\
+8220;I don&#8217\
+;t give my number to \
+guys I just met.&#8221\
+;</p>\
+<p>\
+Asshole who cares thiiiiiiis much: \
+    &#8220;My heart \
+    will go on.&#8221\
+    ;</p>\
+<p\
+>Girl: &#8220;Well,  you did seem like \
+you wanted it.&#8221;</\
+p>\
+<p>Asshole \
+who cares thiiiiiiis much: &#\
+8220;That was before I \
+got distracted by your sister.&#\
+8221;</p>\
+<p\
+>In every technical aspect,  \
+and according to every feminist by\
+-law,  this guy would \
+qualify as an asshole. And\
+,  yet,  there&#8217\
+;s just something about him\
+&#8230;.</p>\
+<\
+p>wait&#8230; \
+phew&#8230; I channeled \
+some woman&#8217;s \
+hamster there for a minute. \
+Strange experience.</p>\
+<\
+p>The second guy knows \
+about charm and delivery,  and \
+executes with purpose. That purpose \
+being,  to reflect,  &#\
+8220;Goddamn,  I am \
+a sexy beast. A stylish \
+sniper of love. Excuse me \
+whilst I make 1080p love to \
+myself.&#8221;</p>\
+\
+<p>He is as \
+far from your typical niceguy as \
+he is from your hothead asshole \
+above who calls women bitches at \
+the drop of a hat. \
+But an asshole he is,  \
+and the right kind of asshole\
+,  the kind that women,  \
+the world over,  will always \
+and forevermore fall head over haunches \
+for despite their squid-inking \
+claims to the contrary.</p>\
+'
+
+
+gs12 = epub.EpubHtml(title='direct game essentials',
+ file_name='direct_game_essentials.xhtml',
+lang='en')
+gs12.content='\
+<h2>Direct Game Essentials</h2>\
+<p>A reader wants\
+to know if high octane direct\
+game will get a guy laid\
+consistently.</p>\
+<blockquote\
+><p>I stumbled <\
+a href="http://www\
+.pick-up-artist\
+-forum.com/thinking\
+-with-your-dick\
+-vt126171.html" target\
+="_blank">onto this post\
+</a> during my normal\
+stroll through the pick up artist\
+forums.</p>\
+<p\
+>He claims to basically be\
+completely direct with his game.\
+I&#8217;ve never\
+heard of people being THAT direct\
+. Telling a girl she&#\
+8217;s sexy like that\
+,  seems a bit awkward and\
+douchey.</p>\
+<p\
+>I&#8217;m\
+mailing you because I&#8217\
+;m curious what do you\
+think? Could being so direct\
+get great results?</p></\
+blockquote>\
+<p>I\
+won&#8217;t get\
+into a long-winded discussion\
+of the eternal question of direct\
+vs. indirect game here.\
+I&#8217;ll save\
+that for future posts. But\
+I will tell you that there\
+are a handful of prerequisites &#\
+8212; essentials &#8212;\
+that you should abide if you\
+want to see any sort of\
+repeatable success with direct game.</\
+p>\
+<p>1\
+. Don&#8217;t\
+be shitfaced.</p>\
+<\
+p>Yes,  the guy\
+in the field report linked by\
+the reader was intoxicated,  and\
+he managed a groping make-\
+out and a number close.\
+But most men,  most of\
+the time,  are going to\
+get blown out if they approach\
+chicks sloppy drunk while sputtering how\
+&#8220;sexxxxxyyy&#8221\
+; they are. It&#\
+8217;s simply too easy\
+for a girl to brush off\
+a man&#8217;s\
+direct come-on if he\
+&#8217;s reeking of\
+liquor and slurring his words.\
+Exception: if she&#8217\
+;s equally drunk. (\
+    Not to say a little\
+    liquid courage won&#8217\
+    ;t help. Just\
+    don&#8217;t\
+    drink past the point of\
+    self-awareness.)</p\
+>\
+<p>2.\
+Don&#8217;t target\
+the obnoxious attention whores.</p\
+>\
+<p>These kinds\
+of girls are *expecting*\
+direct solicitations,  just so they\
+can relish the shoot down.\
+Counterintuitively,  it&#8217;\
+s often the more reserved,\
+conservatively dressed girls who are showing\
+a little more skin than they\
+usually do who will crumble like\
+feta cheese under the onslaught of\
+a sexual direct approach. It\
+is a myth that only skanks\
+are DTF. Good girls will\
+jump into the sack just as\
+fast with the right guy spitting\
+the right game.</p>\
+\
+<p>3. Look\
+for signs of ovulation in your\
+targets.</p>\
+<p\
+>You should pay more attention\
+to body language than to what\
+she&#8217;s saying\
+. Ovulating girls are the ripest\
+picks for one night stands,\
+and you&#8217;ll\
+notice by how flushed she is\
+when talking to you,  how\
+many times she crosses her legs\
+or shifts her weight from one\
+foot to the other,  and\
+how often she licks her lips\
+or tugs at her hair whether\
+her egg has embarked on its\
+journey. Science has shown that\
+ovulating girls tend to show more\
+cleavage and thigh,  so keep\
+an eye out for miniskirts and\
+low cut tops.</p>\
+\
+<p>4. Start\
+direct,  then switch to indirect\
+,  then back to direct.</\
+p>\
+<p>Read\
+the linked field report. You\
+&#8217;ll notice the\
+guy opens with &#8220;\
+You&#8217;re sexy\
+as fuck&#8221; (\
+which,  btw,  is NOT\
+an invitation to fuck a la\
+<a href="https://\
+heartiste.wordpress.com/\
+2009/06/19/\
+i-tried-the-\
+apocalypse-opener/" target="\
+_blank">the apocalypse opener</\
+a>),  then downshifts to nonsexual\
+rapport and teases her about her\
+dancing skill,  and then upshifts\
+to a direct sexual solicitation when\
+body contact between the two of\
+them is at its maximum.\
+This direct-indirect-direct\
+system sustains the direct sexual approach\
+by introducing the variables of male\
+unpredictability and outcome independence,  two\
+things which all girls love in\
+men.</p>\
+<p\
+>5. It&#8217\
+;s obvious,  but bears\
+repeating: overconfidence is king in\
+direct game.</p>\
+<\
+p>Any hint &#8212\
+; I mean ANY CRUMB of\
+a hint &#8212; that\
+your sexually aggressive come-on\
+is a farce,  or was\
+pursued with less than full sincerity\
+,  and she will blow you\
+out. You have to be\
+doubtless in your desirability,  fearless\
+in your attack,  and dauntless\
+in your commitment to victory.\
+She smells the faintest whiff of\
+self-doubt,  hesitancy or\
+smarmy backpedaling,  and you will\
+be pissily rejected.</p>\
+\
+<p>6. Avoid\
+romantic flattery.</p>\
+<\
+p>&#8220;You&#\
+8217;re sexy as fuck\
+&#8221; sounds like a\
+cocky compliment from a guy who\
+just wants to jackhammer your pussy\
+. &#8220;I have\
+to say you&#8217;\
+re really beautiful&#8221;\
+sounds like a sycophantic plea from\
+a beta who already dreams about\
+long walks on the beach with\
+you. Which guy do you\
+think a girl is more likely\
+to want to fuck one hour\
+after meeting? You can pull\
+off the latter with alpha body\
+language,  but you&#8217\
+;re better served maximizing congruency\
+between what you say and how\
+much command you say it with\
+.</p>\
+<p>\
+7. Be prepared to lead\
+,  every second.</p>\
+\
+<p>A guy who\
+leads a girl everywhere and all\
+the time prevents her from rethinking\
+her desire to sleep with him\
+. A body in motion tends\
+to stay sexually available unless acted\
+upon by a fat cockblock.\
+Never ask. Tell her what\
+you two are doing,  and\
+don&#8217;t wait\
+for a decision-making caucus\
+to develop. Bar,  dance\
+floor,  another bar,  another\
+bar,  alleyway,  doorstep.\
+No rest for the horny.</\
+p>\
+<p>8\
+. Don&#8217;t\
+<a href="https://\
+heartiste.wordpress.com/\
+2010/07/26/\
+overgaming/" target="_blank">\
+overgame</a>.</p>\
+\
+<p>Direct game pares\
+down the seduction process to its\
+bare bones. If you start\
+flying off on tangents like &#\
+8220;the cube&#8221\
+; or storytelling,  the raw\
+sexual energy of the direct pickup\
+will dissipate. A girl relinquishing\
+herself to a sexually aggressive man\
+expects it to feel like a\
+power has taken hold over her\
+conscious faculties and she has no\
+defense to his wiles. This\
+is an accelerated zone of seduction\
+where the normal rules get truncated\
+.</p>\
+<p>***</\
+p>\
+<p>The relevant question\
+to everyone reading here is,\
+of course: Will I have\
+more success on a more consistent\
+basis with direct game,  or\
+with indirect game?</p>\
+\
+<p>Unfortunately,  I\
+can&#8217;t answer\
+this reasonable question with conviction one\
+way or the other. My\
+own personal style is indirect,\
+though I have dabbled with direct\
+game,  to mixed results.\
+Most of the seduction community practices\
+indirect game,  so if popularity\
+is a measure of a game\
+strategy&#8217;s effectiveness\
+,  then you&#8217;\
+d have to give the nod\
+to indirect game. (Direct\
+                   gamers would counter that indirect\
+                   is popular with most men\
+                   because it takes more balls\
+                   to pull off direct game\
+                   . They have a point\
+                   .)</p>\
+<p\
+>There are other variables that\
+need addressing before we can settle\
+this matter one way or the\
+other.</p>\
+<p\
+>&#8211; Are very good\
+-looking or muscular men better\
+off running direct or indirect game\
+? The answer to this is\
+not obvious.</p>\
+<\
+p>&#8211; What about\
+significantly older men or uglier men\
+or shorter men? Indirect game\
+may limit the number of blowouts\
+experienced by these men. Conversely\
+,  direct game may offer them\
+a channel in which to rapidly\
+demonstrate their overconfidence,  thus bypassing\
+the reflexive blowout. Again,\
+the answer is not obvious.</\
+p>\
+<p>&#8211\
+; Are there contexts in which\
+direct and indirect game have inherent\
+advantages? My experience is that\
+girls respond better to indirect during\
+the day and direct at night\
+in clubs,  but I don\
+&#8217;t have a\
+wealth of direct day game data\
+to test this hypothesis.</p\
+>\
+<p>&#8211;\
+Do some kinds of girls respond\
+better to direct? Indirect?\
+Unsurprisingly,  a man I once\
+knew who specializes in cougars (\
+    it&#8217;s\
+    not a difficult specialization)\
+says that older women melt for\
+his direct game. Ovulating coke\
+whores with <a href="\
+https://heartiste.wordpress.\
+com/2011/11/\
+30/does-game-\
+work-less-well-\
+on-masculine-women/"\
+target="_blank">low digit\
+ratios</a> probably swoon\
+for direct game,  as well\
+.</p>\
+<p>\
+Finally,  this dichotomy of direct\
+versus indirect may have outlived its\
+usefulness. Thinking on my pickups\
+,  it occurs to me that\
+many of them were mash-\
+ups of direct and indirect game\
+. I use the best of\
+both. Then there&#8217\
+;s the definitional issue:\
+    direct game comes in many\
+    forms. &#8220;\
+    You&#8217;re\
+    sexy as fuck&#8221\
+    ; is certainly direct,\
+    but it&#8217;\
+    s not an invitation to\
+    fuck. There&#8217\
+    ;s plausible deniability of\
+    intention in that exclamation.\
+    &#8220;I want\
+    to take you home and\
+    fuck you&#8221;&#\
+    8230; now,  that\
+    &#8217;s a\
+    direct come-on which\
+    leaves no room for hamster\
+    -fueling misinterpretation.</p>\
+<p>And this gets to the heart\
+of the direct-indirect debate\
+: namely,  INTENTION. Direct\
+game is the art of communicating\
+your intention to fuck,  sooner\
+and stronger rather than later and\
+weaker. Indirect game is the\
+art of transparently concealing your intention\
+to fuck in a cloak of\
+plausible,  yet tissue-thin\
+,  deniability. Either way,\
+with direct or indirect,  a\
+girl whose social IQ is above\
+room temperature and below genius-\
+level autism is going to know\
+you are talking to her because\
+you eventually want to ravage her\
+naked body. Your job,\
+should you choose to accept it\
+,  is to determine who among\
+the pretty constellation of hot babes wants their\
+seduction straight up smashmouth\
+style,  and who among them\
+wants to experience the sublime thrill\
+of fraught flirtation.</p>\
+'
+
+
+gs13 = epub.EpubHtml(title='generalizing your way into her panties',
+ file_name='generalizing_your_way_into_her_panties.xhtml',
+lang='en')
+gs13.content='\
+<h2>Generalizing Your Way Into Her Panties</h2>\
+<p>Reader JB emailed \
+me with a valuable observation about \
+the effectiveness of using generalizations as \
+a game tactic. He read \
+my post <a href="\
+https://heartiste.wordpress.\
+com/2008/03/\
+27/dread/" target="\
+_blank">&#8220;Dread&#\
+8221;</a> where I \
+explain the best ways to train \
+your girlfriend so that you maximize \
+love output and minimize shit test \
+incitement:</p>\
+<blockquote\
+><p>Ignore her calls \
+for a week. When you \
+eventually answer and she reads you \
+the riot act,  act as \
+if nothing was wrong and accuse \
+her of sabotaging a perfectly good \
+relationship,  <em>&#8220\
+;just like all the other \
+women in this stupid city. \
+I thought you were different&#\
+8221;.</em> Hang up \
+on her angrily.</p></\
+blockquote>\
+<p>JB \
+wrote:</p>\
+<blockquote\
+><p>When I read \
+this I fucking almost spit up \
+my mouthful of coffee. Funny \
+because it&#8217;s \
+true. Have you written anything \
+about the powerful effect generalization has \
+on the female psyche? I \
+have used the &#8216;\
+you&#8217;re just \
+like every other girl in this \
+city&#8217; one and \
+BANG!<br />\
+No matter \
+who the girl,  no matter \
+the age&#8230;she \
+stops cold and finds herself waiting \
+for what I&#8217;\
+m going to say next.</\
+p>\
+<p>Good \
+stuff,  keep it up.</\
+p></blockquote>\
+<p\
+>Yes,  it&#8217\
+;s true. Throwing a \
+generalization in the face of a \
+girl you are gaming by accusing \
+her of being &#8220;\
+just like all the rest&#\
+8221; is a powerful qualification \
+tactic. It will send her \
+into paroxysms of indignation and self\
+-doubt as she works hard \
+to regain your approval.</p\
+>\
+<p><strong>\
+Maxim #33: NO girl \
+wants to be thought she isn\
+&#8217;t a special \
+little snowflake.</strong></p\
+>\
+<p>Use this \
+thermal exhaust port of female psychology \
+to your advantage. But be \
+careful how you deploy the generalization \
+bomb &#8212; its mindfuck \
+megatonnage can blow up chicks&#\
+8217; heads like scanners. \
+There are two ways to laser\
+-guide a generalization straight into \
+the beaver bunker.</p>\
+\
+<ol>\
+<li><\
+strong>Exasperation.</strong> \
+See the example above. Can \
+be useful in pickup as well \
+as relationship management &#8212; \
+for instance,  after she&#\
+8217;s started acting up \
+and attempted to find your soft \
+underbelly. In pickup parlance,  \
+this would be during the M2F \
+attraction phase. Watch as she \
+spins her wheels trying to prove \
+her uniqueness.</li>\
+<\
+li><strong>Reverse psychology\
+.</strong> Right before you \
+run a routine with her,  \
+like palm reading or astrological compatibility\
+,  tell her she&#8217\
+;s probably like all the \
+other girls in [insert city\
+                ] and wouldn&#8217\
+;t appreciate the deep and \
+profound knowledge you are about to \
+drop on her. If she \
+says &#8220;What do \
+you mean I&#8217;\
+m like all the rest?!&#\
+8221;,  you reply &#8220\
+;Tell me I&#8217\
+;m wrong.&#8221;</\
+li>\
+</ol>\
+<\
+p>I don&#8217\
+;t just dispense advice,  \
+I explain *why* the \
+advice works,  stripping away the \
+mystery and spirituality squid ink with \
+the sandblaster of biomechanics,  so \
+you can see for yourself the \
+predictability of the human attraction algorithm\
+.</p>\
+<p>\
+As I wrote in response to \
+Clio in the comments section of \
+<a href="https://\
+heartiste.wordpress.com/\
+2008/09/29/\
+supermodels-are-not-\
+hot/" target="_blank">\
+this post</a>:</p\
+>\
+<blockquote><p>\
+here is what i think motivates \
+the female will to believe that \
+makeup is effective at hiding flaws \
+from the precision guided instrument of \
+men’s visual intake port\
+:</p>\
+<p>\
+the fear of the immutable.</\
+p>\
+<p>if \
+you’ll notice,  women \
+are the most outraged by the \
+idea of evolutionary psychology and unchangeable \
+genetic fate. that physical beauty \
+should be so unalterable and at \
+the same time so critical to \
+a woman’s prospects for \
+snagging an alpha male of her \
+own sends shivers down her spine\
+. if true,  it means \
+they cannot do much to improve \
+their value on the open market\
+. no educational attainment,  no \
+carreer success,  no makeup,  \
+no exercise [to a point\
+            ],  no hob nobbing with \
+the right people — nothing much \
+matters but for the face they \
+were given when mommy’s \
+egg was fertilized by daddy’\
+s swimmers.</p>\
+<\
+p>yet,  this is \
+precisely how the sexual market works\
+. and so,  as the \
+gears of the pretty lie machine \
+clank and sputter to dispense more \
+of its life-affirming self\
+-delusions,  the “social \
+conditioning” brigade strikes out at \
+the descending shroud of hopeless darkness\
+.</p></blockquote>\
+<\
+p>Generalizations offend women in \
+a way they do not offend \
+men because they breach the perimeter \
+ego defense and strike right at \
+a woman&#8217;s \
+core self-conception &#8212\
+; her belief in herself as \
+Princess On A Cloud Carried Aloft \
+By Admiring Suitors. If it\
+&#8217;s true that \
+her genes account for nearly all \
+her success or failure with the \
+men she wants,  then there \
+isn&#8217;t much \
+she can do to improve her \
+chances to fulfill her deepest desires\
+. If it&#8217;\
+s true (and it is\
+    ) that men value beauty \
+above all else,  then it \
+is logically inescapable that she is\
+,  to an unsettling degree,  \
+interchangeable with any women who are \
+at or above her level of \
+physical attractiveness.</p>\
+<\
+p>Women do not want \
+to confront the unpleasant reality of \
+upwardly immutable female sexual market value\
+. (They can certainly go \
+down in market value by \
+bloating up or suffering a \
+facial disfigurement.) Similarly,  \
+they do not want to admit \
+they aren&#8217;t \
+special. So they fight against \
+it. They hide behind pretty \
+little platitudes and try to correct \
+your misperceptions to the contrary. \
+Deep in the primitive ancestral part of her reptilian brain she fears\
+,  justifiably,  that if she \
+isn&#8217;t a \
+unique creature in your eyes,  \
+you may be likely to leave \
+her if a hotter woman blips \
+your radar. FOR INNATE EVOLUTIONARILY \
+MODULATED REASONS,  SHE WANTS TO \
+KNOW YOU SEE MORE IN HER \
+THAN HER BEAUTY. You should \
+leverage this female instinct to your \
+benefit.</p>\
+<p\
+>&#8220;So what else \
+do you have going for you \
+besides your beauty?&#8221;</\
+p>\
+<p>If \
+you are the one special suitor \
+who wrings her princess cloud dry \
+and sends her plummeting to earth \
+with a well-timed generalization \
+that belies her uniqueness,  she \
+will suddenly find,  in violation \
+of the courtship script she was \
+so used to following,  an \
+inexplicable urge to seek *your\
+* approval,  and demonstrate for \
+*you* how different she \
+is from other women and how \
+you just *have to* \
+see that.</p>\
+<\
+p>Then,  my friend,  you will be in the driver&#8217;s seat. Zoom zoom.</p>\
+'
+
+
+gs14 = epub.EpubHtml(title='are you seeing anyone',
+file_name='are_you_seeing_anyone.xhtml',
+lang='en')
+gs14.content='\
+<h2>Are You Seeing Anyone</h2>\
+<p>A reader emails:</p>\
+<blockquote><p>Really\
+loved the &#8220;<a\
+href="https://heartiste.\
+wordpress.com/2010/\
+05/26/two-\
+words-women-love-\
+to-hear/" target="\
+_blank">it&#8217;\
+s complicated</a>&#8221\
+; post,  and have found\
+lots of versatile use for it\
+in my life. Thinking about\
+it though,  I think it\
+&#8217;s most effective\
+with women new to you as\
+opposed to women you have history\
+with. I also don&#\
+8217;t think it should\
+be used as a text response\
+. Some of my ex&#\
+8217;s will hit me\
+up out of the blue via\
+text,  usually playful messages,\
+but sometimes with the direct inquiry\
+&#8220;are you seeing\
+anyone?&#8221; that only\
+a woman (or clueless beta\
+         orbiter) would ask.\
+While &#8220;it&#\
+8217;s complicated&#8221\
+; would now be my default\
+response to a new girl at\
+a bar if she asked the\
+same,  I think it sounds\
+too defensive and pandering to an\
+ex,  as though you&#\
+8217;re trying to hide\
+something from someone who already knows\
+you very well. <strong\
+>[Ed: Agreed.] </\
+strong>I also think it\
+doesn&#8217;t have\
+the same effectiveness if used as\
+a text reply to anyone.</\
+p>\
+<p>I\
+went with this exchange recently:</\
+p>\
+<p>aspirational\
+ex-girlfriend: Are you\
+seeing anyone?<br />\
+(\
+    next morning) me:\
+    you workin for tmz now\
+    ?</p></blockquote>\
+\
+<p>Good answer.\
+Cocky and funny,  jes like\
+da ladeez like it. She\
+also appreciates the haphazard attention to\
+punctuation.</p>\
+<p\
+>&#8220;Are you seeing\
+anyone?&#8221; is a\
+common enough question from interested women\
+that the proper handling of it\
+deserves its own post. (\
+    Rumor has it there are\
+    a lot of sniveling gameless\
+    betas who ask women this\
+    question when they first meet\
+    them. Pitiable creatures.)</\
+p>\
+<p>If\
+an ex-girlfriend,  former\
+fuckbuddy or platonic female friend who\
+you think wants to revisit the\
+good times with you,  (\
+    or who simply wants to\
+    segue from friendship to sex\
+),  asks if you are seeing\
+anyone,  and you have decided\
+that &#8220;it&#\
+8217;s complicated&#8221\
+; is not the best response\
+,  there are alternatives at your\
+disposal.</p>\
+<p\
+>1. Sincerity</p\
+>\
+<p>&#8220;\
+I&#8217;ve been\
+dating someone for a bit,\
+but I can&#8217;\
+t say for sure she is\
+the one.&#8221;</p\
+>\
+<p>2.\
+Lying</p>\
+<p\
+>&#8220;No.&#8221\
+;*</p>\
+<p>\
+3. Evasion/Reframing</\
+p>\
+<p>See\
+: the reader&#8217;\
+s reply above. Few women\
+will follow-up an expertly\
+delivered evasion with cunty lawyerly argumentation\
+. This is because women who\
+ask such questions don&#8217\
+;t really want to know\
+the unvarnished answer. The question\
+is asked only to give them\
+plausible deniability should they find themselves\
+bedding a taken man.</p\
+>\
+<p>4.\
+Circumspection</p>\
+<p\
+>&#8220;I&#8217\
+;m dating around.&#8221\
+;</p>\
+<p>\
+This is my favorite answer,\
+regardless of its accuracy. First\
+,  it shuts down further inquiry\
+. Second,  it leaves things\
+open to interpretation.</p>\
+\
+<p>5. Challenge\
+</p>\
+<p>&#\
+8220;I&#8217;\
+m not tied down yet.&#\
+8221;</p>\
+<p\
+>6. Agree &amp\
+; Amplify</p>\
+<\
+p>&#8220;One?&#\
+8221;</p>\
+<p\
+>7. Aloofness</p\
+>\
+<p>&#8220;\
+Nothing serious.&#8221;</p\
+>\
+<p>Also a\
+personal favorite. Girls like to\
+think the guys they desire have\
+no worries about meeting and banging\
+women,  or about settling down\
+.</p>\
+<p>*&#\
+8221;No&#8221;\
+is not the ideal reply.\
+Because of the power of preselection\
+,  you run a better chance\
+of losing her interest if she\
+thinks you are completely single than\
+you do if she thinks you\
+are getting pussy regularly. So\
+even if you aren&#8217\
+;t seeing anyone,  you\
+should massage your answer so that\
+ambiguity is introduced to the dialectic\
+. Women aren&#8217;\
+t put off a man&#\
+8217;s scent if he\
+is seeing someone; if anything\
+,  they become more like a\
+bloodhound on his trail. The\
+only exception is when the man\
+sings odes of love and devotion\
+to his woman. Competitor women\
+will generally** back off if\
+they see that the man they\
+want is truly,  deeply in\
+love with someone else.</p\
+>\
+<p>**Before the\
+fairy dust,  pie in the\
+sky,  swoon brigade gets all\
+gushy at this optimistic outlook on\
+the female gender,  let me\
+remind the studio audience that I\
+have observed,  and experienced,\
+plenty of exceptions to this rule\
+.</p>\
+<p><\
+span style="text-decoration\
+:underline;">Replies that you\
+should avoid:</span></p\
+>\
+<p>&#8220;\
+Define &#8216;seeing&#\
+8217;.&#8221;</p>\
+\
+<p>Too goofy.\
+Chicks don&#8217;t\
+dig the goof.</p>\
+\
+<p>&#8220;Not\
+sure.&#8221;</p>\
+\
+<p>Too indecisive.\
+Chicks don&#8217;t\
+dig vacillators.</p>\
+<\
+p>&#8220;Well,\
+I&#8217;m fucking\
+someone,  if that&#8217\
+;s what you mean.&#\
+8221;</p>\
+<p\
+>Too visual and sexual.\
+Chicks don&#8217;t\
+dig braggarts.</p>\
+<\
+p>&#8220;I&#\
+8217;m married.&#8221\
+;</p>\
+<p>\
+Too final. Chicks need a\
+window of opportunity.</p>\
+\
+<p>&#8220;Aren\
+&#8217;t you the\
+nosy one?&#8221;</p\
+>\
+<p>Too slippery\
+and awkward. What are you\
+hiding?</p>\
+<p\
+>&#8220;Wouldn&#8217\
+;t you like to know\
+.&#8221;</p>\
+<\
+p>Too abrasive. If\
+she&#8217;s an\
+ex who knows you well,\
+this albeit funny line will close\
+off further exploration.</p>\
+\
+<p>&#8220;Why\
+do you ask?&#8221;</\
+p>\
+<p>Too\
+defensive. Also,  why would\
+you step on her hamster right\
+as its revving up for a\
+glorious rationalization to sleep with you\
+?</p>\
+<p>\
+Commenters are available during business hours\
+to help you with further suggestions\
+.</p>\
+'
+
+
+
+gs15 = epub.EpubHtml(title='fine art of teasing',
+file_name='fine_art_of_teasing.xhtml',
+lang='en')
+gs15.content =' <h2>Fine Art Of Teasing</h2>\
+<p>An important facet of game &#\
+    8212; whether for relationships\
+    ,  flings or pickups &#\
+    8212; is fluency with\
+    the art of teasing.\
+    Teasing is such a turn\
+    -on for women it\
+    &#8217;s a\
+    wonder it isn&#8217\
+    ;t taught by marriage\
+    counselors. (Actually,\
+                 it&#8217;s\
+                 not a wonder. As\
+                 the divorce statistics show us\
+                 ,  marriage counselors have no\
+                 fucking clue what works.)</\
+    p>\
+<p>\
+    Here&#8217;s\
+    an example of what I\
+    mean by teasing:</p\
+    >\
+<p>ME\
+    : Don&#8217;\
+    t worry. If I\
+    got famous I wouldn&#8217;t drop you like a hot potato.</p>\
+<p>HER: Gee,  thanks. That&#8217;s so sweet.</p>\
+<p>ME: I&#8217;d wait a couple months.</p>\
+<p>HER: Jerk! *playful punch*</p>\
+<p>You should be teasing your girlfriend\
+or wife like this nearly every\
+day of her life. Women\
+LOVE LOVE LOVE men who don\
+&#8217;t take them\
+seriously. And what better way\
+to convey an aloof disregard for\
+her pride than through teasing?</\
+p>\
+<p>I\
+&#8217;d like to\
+examine the phenomenon of teasing a\
+little more closely. Why,\
+exactly,  does it so effectively\
+light up a woman&#8217\
+;s arousal bean? After\
+all,  teasing is not flattery\
+or compliments. It&#8217\
+;s nearer the opposite:\
+    teasing is a form of\
+    put-down. Compare\
+    and contrast the below with the teasing example above:</p>\
+<p>ME: If I got famous\
+I&#8217;d trade\
+up from you to a hotter\
+babe in about two month&#\
+8217;s time.</p\
+>\
+<p>HER:\
+    Whaaat?! [angry,\
+              hurt]</p>\
+<\
+p>This example is no\
+different in substance than the teasing\
+example above,  yet the latter\
+provokes anger and withdrawal while the\
+former provokes tingles. The key\
+difference between the two interactions lies\
+in the concept of <strong\
+>butthurtness</strong>.</p\
+>\
+<p><strong>\
+butthurtness</strong>; <em\
+>noun</em><br\
+/>\
+an emotional state of being\
+characterized by spite,  bitterness and\
+/or insecurity; highly toxic\
+to female attraction.</p>\
+\
+<p>Teasing is the\
+art of delivering ugly truths in\
+a charismatic style that inoculates the\
+teaser against an accusation or perception\
+of butthurtness.</p>\
+<\
+p>The truth value of\
+whatever you are teasing a girl\
+about is immaterial; it&#\
+8217;s *how*\
+you say it that matters.\
+It may very well be true\
+that should you become famous you\
+would dump your girlfriend for a\
+hotter girl,  or that her\
+sense of humor sucks,  but\
+that&#8217;s irrelevant\
+to the way in which such\
+information is conveyed to her.\
+If you can say it with\
+a smirk,  and couch your\
+jerkish thoughts in the veneer of\
+playful fun,  she will register\
+your demeanor as being one that\
+an alpha male possesses. And\
+this daily revelation will engorge her\
+labia.</p>\
+<p\
+>If you don&#8217\
+;t know how to tease\
+,  then your jerkish blurts will\
+be perceived by her as those\
+held by a nasty beta secretly\
+afraid she might leave him.</\
+p>\
+<p>Teasing\
+is a vital game tactic that\
+serves the dual functions of 1\
+) making relationships and dates less\
+boring,  and 2) subtly\
+reminding the girl that you have\
+options and aren&#8217;\
+t afraid to risk her disapproval\
+,  which is the hallmark of\
+the desirable alpha male swimming in\
+a sea of snatch.</p\
+>\
+<p>All of\
+this &#8212; women&#\
+8217;s love for jerks\
+who know how to tease &#\
+8212; ultimately reduces to the\
+sexy son hypothesis,  which has\
+been explained in <a href\
+="https://heartiste.wordpress\
+.com/2009/01\
+/12/a-hole\
+-game-day-1\
+/" target="_blank">previous\
+posts</a>.</p>\
+'
+
+
+gs16 = epub.EpubHtml(title='the clas clown puts her in the mood',
+file_name='the_class_clown_puts_her_in_the_mood.xhtml',
+lang='en')
+gs16.content='\
+<h2>The Class Clown Puts Her In The Mood</h2>\
+<p>&#8230;for laughing. </p>\
+<p>I&#8217;m not a fan of goofball\
+humor to attract girls.   She\
+&#8217;ll laugh her\
+way straight into a platonic friendship\
+with you.  This is especially\
+true during the critical first few\
+minutes of meeting her when you\
+are trying to get her to\
+ponder the possibility of sleeping with\
+you.  Droll,  clever humor\
+,  dispensed sparingly,  is more\
+effective.  Playful humor,  or\
+teasing,  turns girls on as\
+well.  Acting like a clown\
+and constantly joking sends a subliminal\
+message to the sex centers of\
+her brain &#8212; <\
+strong><em>He&#\
+8217;s trying too hard\
+.  He must be desperate for\
+female attention.</em></strong\
+></p>\
+<p>\
+Self-deprecating humor is the\
+worst kind.  Only men possessing\
+the traits that women love can\
+afford to knock themselves down in\
+a humorous fashion.  It&#\
+8217;s similar to the\
+way wealthy men make sure their\
+philanthropy is reported in the press\
+; it&#8217;s\
+a status display that is very\
+attractive to women because it shows\
+he is financially secure enough to\
+absorb a hit to his resources\
+.  For most men,  though\
+,  self-deprecation is beta\
+.</p>\
+<p>\
+Cheesy humor has its place.\
+It can often work quite well\
+as an opener under the right\
+circumstances.  It won&#8217\
+;t work in clubs,\
+where loud music and physical jostling\
+compete for a girl&#8217\
+;s attention,  and where\
+she is already smiling and expecting\
+to be hit on.  There\
+,  your humor will strike her\
+as a lame come-on\
+.  But out on the street\
+,  or in a store,\
+during the daytime,  weird humor\
+can win you an audition with\
+her.  She&#8217;\
+s not expecting to be approached\
+,  she&#8217;s\
+probably in a hurry somewhere,\
+so an offbeat line will put\
+a smile on her face.\
+Distracting a girl from her orderly\
+existence is the first step to\
+fornication.  Some lines I have\
+used:</p>\
+<blockquote\
+><p><em>I\
+*love* the way you\
+pour ice cubes into a glass\
+.  </em>[spoken to\
+         a female bartender]</p\
+>\
+<p><em>\
+You jaywalk with a certain grace\
+.  </em>[girl had\
+         crossed intersection and was standing\
+         next to me]</p\
+>\
+<p><em>\
+Is there a groom magazine?\
+I can&#8217;t\
+get enough of weddings!</em\
+>  [to girl reading Bridal\
+    Magazine in bookstore.  she\
+    was single]</p>\
+\
+<p><em>Did\
+you just undress me with your\
+eyes?  I feel violated.</\
+em>  [to seamstress measuring\
+      a suit for me]</\
+p>\
+<p><em\
+>My puppy ran away with\
+the poolboy.  Will you give\
+me a new one?  You\
+don&#8217;t want\
+to see me cry.</em\
+>  [to Adopt-A\
+    -Pet girl showing shelter\
+    animals on sidewalk]</p\
+>\
+<p><em>\
+Rearrange these five straws into something\
+round. </em> [\
+    straws are lined up side\
+    by side]  <em\
+>But you can only move\
+two of them.</em>\
+[waitress makes attempt and fails\
+ ]  <em>Here\
+,  let me show you.</\
+em>  [I move two\
+      straws and make the word\
+TIT]</p>\
+<\
+p><em>Slow down\
+!  You deserve a chance to\
+check me out.</em>\
+[to girl walking quickly towards\
+ me]</p></blockquote\
+>\
+<p>I know\
+the girls reading this right now\
+are thinking &#8220;if\
+a guy said that to me\
+,  I would laugh at him\
+,  not with him&#8221\
+; but reading about pick up\
+lines on a blog is not\
+the same as hearing it in\
+real time when it&#8217\
+;s totally unexpected.  Nevertheless\
+,  you don&#8217;\
+t want to be a stand\
+-up comedian.  Those guys\
+are entertainers,  not seducers.\
+I wouldn&#8217;t\
+use dorky humor as a general\
+purpose opener.  It has limited\
+application.  The classic openers &#\
+8212; asking for her opinion\
+on female-friendly topics,\
+situational observations,  flirty cockiness &#\
+8212; are staples.  They\
+&#8217;ll work in\
+almost any scenario.</p>\
+\
+<p>If you are\
+a woman with a great sense\
+of humor (you do exist\
+          ,  somewhere) I suggest\
+you hide it during the first\
+few dates with a guy.\
+Most men are intimidated by women\
+they&#8217;re dating\
+who are funnier than them.\
+And intimidated guys don&#8217;t satisfy sexually.</p>\
+'
+
+gs17 = epub.EpubHtml(title='the devious takeaway',
+file_name='the_devious_takeaway.xhtml',
+lang='en')
+gs17.content='\
+<h2>The Devious Takeaway</h2>\
+<p>Note: what\
+I&#8217;m about\
+to write here is not meant\
+for game newbies. Utilize at\
+your own risk.</p>\
+\
+<p>Takeaways are a\
+very valuable psychological ploy contributing to\
+a player&#8217;s\
+seduction prowess. You can read\
+a <a href="http\
+://www.fastseduction.com\
+/cgi-bin/fswiki\
+.cgi?Takeaway" target\
+="_blank">definition of takeaways\
+here</a>. In short\
+,  a takeaway is the act\
+of feigning disinterest in a woman\
+for the purpose of increasing her\
+attraction for you,  and thus\
+your likelihood of bedding her.\
+This fake disinterest can be as\
+simple as a backturn,  or\
+an unannounced abrupt exit from a\
+conversation. Takeaways are the Swiss\
+Army knives of seduction,  as\
+they can be used at almost\
+any point during the pickup,\
+with equal effectiveness. For instance\
+,  a takeaway can set the\
+right tempo early on by making\
+a girl chase you for conversation\
+instead of the other way around\
+,  or a takeaway can be\
+employed during foreplay to get a\
+girl to drop her last minute\
+resistance to sex.</p>\
+\
+<p>Takeaways are a\
+very powerful game tactic,  for\
+the reason that they are a\
+high risk gamble. (Generally\
+                   ,  and as with most\
+                   things in life,  the\
+                   riskier the game tactic,\
+                   the higher the reward.)\
+The risk comes in the fact\
+that a girl may very well\
+call your takeaway bluff.</p\
+>\
+<p>PLAYER:\
+    You&#8217;re\
+    really cool and all.\
+    Maybe we should just be\
+    friends.</p>\
+<\
+p>GIRL: Ok.</\
+p>\
+<p>But\
+when a takeaway works,  and\
+the girl bites,  you will\
+be amazed at how quickly the\
+status dynamics of the courtship will\
+change. Flipping the script,\
+properly executed,  can make gaming\
+a girl seem like outrunning a\
+morbidly obese American woman. You\
+can practically walk to the finish\
+line.</p>\
+<p\
+>Here&#8217;s\
+an especially devious takeaway that I\
+&#8217;ve used many\
+times to great effect. Use\
+this on later dates just before\
+the momentum is carrying you both\
+to sexual closure,  and only\
+use on girls who are engaging\
+in stalling tactics. In other\
+words,  use on &#8220\
+;good girls&#8221;.\
+(There is a minor subclass\
+ of bad girls who will\
+ also respond well to this\
+ takeaway,  which I will\
+ explain below.) Basically,\
+what you will be doing is\
+stealing the woman&#8217;\
+s prerogative to delay coital finality\
+in the interest of &#8220\
+;wanting everything to feel right\
+&#8221;.</p>\
+<\
+p>UNWITTING GIRL: I\
+&#8217;m having a\
+really good time.</p>\
+\
+<p>DEVIOUS YOU:\
+    Me too. I&#\
+    8217;d like to\
+    have a drink with you\
+    back at my place,\
+    but&#8230;</p\
+    >\
+<p>UNWITTING\
+GIRL: What?</p>\
+\
+<p>DEVIOUS YOU:\
+    I dunno. I&#\
+    8217;m trying to\
+    turn over a new leaf\
+    . I think it means\
+    a lot more when things\
+    aren&#8217;t\
+    rushed. Maybe wait a\
+    little. You&#8217\
+    ;re the kind of\
+    girl I want to take\
+    it slow with. Call\
+    me crazy,  but that\
+    &#8217;s how\
+    I see it now.</\
+    p>\
+<p>\
+Now after this,  most likely\
+she will say &#8220;\
+Aw that&#8217;s\
+so nice&#8221; and\
+agree with you. Then you\
+will be left asking yourself,\
+&#8220;Hey,  I\
+thought this was supposed to work\
+as advertised? She just called\
+my bluff!&#8221; Settle\
+down,  Anakin. This takeaway\
+works it&#8217;s\
+magic on a delayed cycle.\
+Continue the date as usual,\
+and invite her over to your\
+place anyhow. You won&#\
+8217;t need an excuse\
+because you&#8217;ve\
+already told her nothing will happen\
+. What you&#8217;\
+ll notice instead is an increase\
+in her compliance that you would\
+not normally have gotten. Though\
+you &#8220;confessed&#\
+8221; only hours earlier,\
+in so many words,  that\
+you wanted to wait for sex\
+,  she will find herself inexplicably\
+moving things faster in the direction\
+of your hidden agenda. The\
+phony virtue takeaway has preemptively disarmed\
+her anti-slut defense.\
+She will rationalize that you are\
+not forcing her to do anything\
+because you&#8217;re\
+&#8220;not that kind\
+of guy&#8221;,  and\
+your road to sex will suffer fewer impediments.</p>\
+<p>Why did I\
+write above that this takeaway is\
+not meant for newbs? Because\
+you need to be banging other\
+girls before attempting such a high\
+risk maneuver. If you are\
+hard-up,  your mind\
+,  body,  and emotions will\
+be incongruent with your spoken words\
+. She will sense something is\
+off about your claimed phony virtue\
+,  and she will not only\
+call your bluff,  but also\
+lose respect for your now-\
+waning masculinity for trying an end\
+-run around her sexual reticence\
+*and* your own sexual\
+desire.</p>\
+<p\
+>In addition,  some newbs\
+may mistakenly use this takeaway on\
+girls who are already good to\
+go. That&#8217;\
+s called overkill. If she\
+genuinely wants it,  you won\
+&#8217;t need any\
+more mental games. All you\
+&#8217;ll need at\
+that point is the balls to\
+lead her where she wants to\
+be.</p>\
+<p\
+>As I mentioned above,\
+the subclass of girls this takeaway\
+would work on are the badgirl\
+sluts who are practically dragging you\
+to the bedroom. Be careful\
+of the overtly sexual girls;\
+oftentimes their lewdness and blunt physical\
+sexuality are a ruse designed to\
+entrap less alpha men who lack\
+control over their horniness. If\
+you bite too soon or too\
+eagerly,  she may lose her\
+desire. If you do manage\
+to bed a badgirl slut on\
+the first date,  she is\
+more likely than the typical girl\
+&#8212; thanks to the\
+male-like contours of her\
+brain &#8212; to lose\
+interest the next morning. For\
+these girls,  the phony virtue\
+takeaway is perfect for (re\
+                         )establishing that she is\
+the one chasing you,  and\
+not the other way around.\
+Plus,  by stroking her egotistic\
+need to not be noticed for\
+her sluttiness,  it will make\
+her feel more special than she\
+really is. Phony virtue game\
+,  delivered as sincerely as your\
+acting skills can summon,  can\
+turn a one night stand with a slut into a three month fling.</p>\
+'
+
+gs18 = epub.EpubHtml(title='storytelling',
+file_name='storytelling.xhtml',
+lang='en')
+gs18.content='\
+<h2>Storytelling AKA Fibbing</h2>\
+<p>In the course\
+of your conversation with a woman\
+you want to tell a story\
+about yourself that flips those female\
+attraction switches which Mystery so incisively\
+described as &#8220;pre\
+-selection by women,  leader\
+of men,  and protector of\
+loved ones&#8221;. But\
+,  honestly,  how many men\
+have those kinds of rip roaring\
+yarns to tell which powerfully hit\
+all those girl buttons? If\
+you&#8217;re like\
+most men,  you likely have\
+not led the life of an\
+international man of mystery.</p\
+>\
+<p>And of\
+those men who *do*\
+have stories like that to tell\
+,  how many of them are\
+able to relay their stories for\
+maximum impact? I&#8217\
+;ve known quite a few\
+Marines who spent time overseas in\
+the middle of some crazy shit\
+inexplicably tell their tales in such\
+a way as to render them\
+boring and ineffectual. You have\
+to learn to sell yourself.\
+Sometimes even top notch goods sit\
+moldy on the shelves for lack\
+of marketing and salesmanship.</p\
+>\
+<p>This is\
+where having a story (or\
+                      a routine,  in old\
+                      school parlance) memorized and\
+ready for deployment is critical to\
+a man&#8217;s\
+success bedding women. There is\
+nothing inherently beta or creepy about\
+memorizing stories from your life to\
+use over and over with different\
+women. Alpha males,  indeed\
+,  are the biggest violators of\
+the supposed sanctity of extemporaneous jiving\
+. If you&#8217;\
+ve ever hung out at upper\
+class parties and the like you\
+&#8217;ll notice the\
+top dogs returning to the same\
+well again and again,  telling\
+their stories in exquisite detail and\
+precise manner,  using almost the\
+same words and cadence each time\
+,  because they have learned how\
+to tell their best stories to\
+ensure smiles and squeals of delight\
+from their rapt audience. So\
+go ahead and commit to memory\
+one or two great stories that\
+feature you in a starring role\
+. Like a good Boy Scout\
+,  you should always be prepared\
+.</p>\
+<p>\
+So what does the man without\
+a great story do? Well\
+,  my friend,  this is\
+where knowledge of the fine art\
+of fibbing will take you far\
+. I&#8217;ll\
+illustrate with an example from my\
+own life. Let&#8217\
+;s say you have just\
+asked a girl a beaver baiting\
+question like &#8220;If\
+you could wake up tomorrow and\
+be anywhere in the world,\
+where would it be?&#8221\
+; She gets excited by this\
+question and answers. This allows\
+you to segue into a DHV\
+story like the one from my\
+life below.</p>\
+<\
+p><span style="text\
+-decoration:underline;">THE\
+TRUE STORY</span></p\
+>\
+<p>One of\
+my vacations was at a tropical\
+paradise. Sun,  sand,\
+waves,  fruity cocktails. After\
+an uneventful plane ride,  I\
+rented a scooter and rode to\
+the villa I was staying at\
+. I paid a taxi to\
+take my luggage to the same\
+spot. Upon settling in and\
+admiring the ocean view for fifteen\
+minutes,  I slathered on suntan\
+lotion and trundled to a small\
+beach alcove known for its nude\
+sunbathers,  hoping to peep at\
+boobies and snatch. Once there\
+,  a couple of fat Europeans\
+obstructed my view with their bloated\
+nakedness. It turned me off\
+. I moved down the beach\
+away from them and read &#\
+8220;A Portrait of the\
+Artist as a Young Man&#\
+8221;. Not the whole book\
+,  just the first few pages\
+. I&#8217;m\
+a <span style="text\
+-decoration:line-through\
+;">slow</span> absorbent\
+reader. Then I went in\
+the water and bobbed like a\
+buoy. At 4pm,  I\
+walked to the tiki stand and\
+bought a sandwich. On the\
+walk back to the villa,\
+I took a photo of three\
+locals unloading crates from a red\
+and yellow dingy docked at a\
+tiny,  empty beach. I\
+watched them for a bit,\
+when one of the gentlemen bounded\
+up the craggy hillside and stopped\
+directly in front of me.\
+He barked at me to &#\
+8220;stop taking snaps of\
+my boat,  mon.&#8221\
+; Momentarily stunned,  I looked\
+at him like he was an\
+alien. Finally,  I said\
+&#8220;Why? It\
+&#8217;s legal.&#\
+8221; He repeated himself,\
+and threatened to steal my camera\
+. I said &#8220;\
+Yeah,  sure,  whatever&#\
+8221; and walked off.\
+Back at the villa,  the\
+concierge told me there was a\
+drug running problem in these parts\
+of the island,  and that\
+I was lucky not to get\
+knifed. Relieved by my good\
+fortune,  I lounged at the\
+pool until I fell asleep.</p>\
+<p>The next day\
+,  I went scuba diving.\
+I was part of an instructional\
+group,  since I never scuba\
+dived before. When I first\
+plunged in the water I freaked\
+out for a few seconds before\
+gaining my composure and relaxing enough\
+to breathe properly through the mouthpiece\
+. A barracuda swam by me\
+. It wasn&#8217;\
+t very big or threatening.\
+I could have petted it.\
+Later in the afternoon I lounged\
+at the beach again and ate\
+another sandwich. The sandwich was\
+delicious.</p>\
+<p\
+>Day three. I decided\
+snorkeling was more fun than scuba\
+diving,  so I rented some\
+snorkeling gear and floated on top\
+of the azure waters for a\
+few hours watching small iridescent fish\
+swim around. I got a\
+sunburn on my back. I\
+went to a club that night\
+and hit on two French girls\
+. One was interested,  but\
+she had a kid and an\
+expensive coke habit.</p>\
+\
+<p>Day four.\
+More sunbathing. Oh yeah,\
+and I went into town to\
+browse the electronics shops and the\
+ridiculously overpriced French fashion boutiques.\
+I bought some liquor. Back\
+at the villa I made a\
+plate of brie cheese,  baguettes\
+,  and red wine. The\
+cheese made me gassy.</p\
+>\
+<p>Day five\
+. I went on a deep\
+sea fishing boat to see how\
+it was done. The waves\
+were huge. I got seasick\
+. My face turned green and\
+I chucked over the side of\
+the boat. The tall skinny\
+black man operating the boat laughed\
+at me. So did the\
+little kid sitting next to me\
+.</p>\
+<p>\
+Day six. Having had my\
+fill of sunbathing,  I caught\
+a ferry to a nearby island\
+known for its excellent and invigorating\
+hiking. The island was a\
+dormant volcano that shot straight up\
+out of the ocean. The\
+hike was exhausting. 3,\
+000 feet up took me all\
+day. I saw a lot\
+of green tropical plants along the\
+way,  and a couple of\
+small lizards. I asked someone\
+if the lizards were biters.\
+They weren&#8217;t\
+. I was disappointed. On\
+the way down,  I stopped\
+at a small store and bought\
+a trinket made of amber from\
+an old,  fat black woman\
+.</p>\
+<p>\
+Day seven. I went back\
+to the same tiki stand,\
+because why mess with success?\
+They had tasty sandwiches. On\
+the plane ride home,  I\
+jammed in earphones and listened to\
+music.</p>\
+<p\
+>***</p>\
+<p>\
+Now this isn&#8217;\
+t a horrible story,  but\
+it&#8217;s not\
+exactly a panty-dropper,\
+is it?</p>\
+<\
+p><span style="text\
+-decoration:underline;">THE\
+FUDGED STORY INTENDED TO INCITE MAXIMUM\
+GINA TINGLE</span></p\
+>\
+<p>[Addressing girl\
+    ]: Your ideal vacation spot\
+reminds me of the time I\
+went to [tropical island]\
+and wound up with an adventure\
+I hadn&#8217;t\
+bargained for. I was chatting\
+with some French girls at this\
+supposedly exclusive nude beach &#8212\
+; and by the way,\
+conversations take on a whole new\
+feel when everyone is naked &#\
+8212; when a big fat\
+German dude plopped down right next\
+to us. He was blocking\
+out our sun like an eclipse\
+,  so we decided to leave\
+. Since they were staying at\
+the same villa I was at\
+,  I escorted them home.\
+On the way,  I stopped\
+to take a pic of this\
+interesting boat docked at a quiet\
+beach alcove. Suddenly,  one\
+of the dudes unloading boxes from\
+the boat bounded up the hillside\
+and yelled at me to &#\
+8220;stop taking snaps of\
+my boat,  mon!&#8221\
+; I said,  &#8220\
+;What&#8217;s\
+it to you&#8221;\
+and he lunged at me and\
+pushed a knife to my throat\
+. The two French girls gasped\
+. This was pretty scary.\
+Thinking quickly,  I told him\
+that wasn&#8217;t\
+a good idea because a bunch\
+of people were walking towards us\
+right at that moment. When\
+he turned around to look,\
+I grabbed one of the girl\
+&#8217;s hands and\
+dashed around him to safety just\
+a few hundred yards away.\
+He didn&#8217;t\
+chase us. I told the\
+cops about the incident,  but\
+as far as I know nothing\
+was done. There&#8217\
+;s a drug running problem\
+at that island,  and I\
+got caught in the middle of\
+it.</p>\
+<p\
+>The unexpected adventure didn&#\
+8217;t end there.\
+I went scuba diving the next\
+day and a shark that had\
+to be ten feet long swam\
+by me like a torpedo.\
+The locals told me the sharks\
+in those waters are harmless and\
+won&#8217;t bother\
+humans,  but when you&#\
+8217;ve seen them up\
+close like that you don&#\
+8217;t really believe all\
+that bullshit. It was thrilling\
+,  sure,  but I think\
+I prefer watching sharks on TV\
+.</p>\
+<p>\
+I needed a break from all\
+this unwanted excitement,  so after\
+an evening of red wine and\
+French cheese while relaxing in the\
+hot tub,  I planned a\
+hiking trip to a remote volcanic\
+island that could be reached by\
+ferry. On the hike up\
+the mountain through thick rainforest and\
+heavy fog,  I stumbled across\
+an old rickety shack with a\
+sign outside that offered psychic services\
+. Curious,  I stepped inside\
+and was greeted by an old\
+black woman with an incredible accent\
+. I don&#8217;\
+t believe in psychic stuff,\
+but I decided to let her\
+read my fortune. Whatever it\
+was,  it wasn&#8217\
+;t good. She stood\
+up and said the session was\
+over. Then she handed me\
+an amber medallion and said it\
+was a soulstone,  which I\
+should only give to a woman\
+I will be with for the\
+remainder of my life,  because\
+the woman who receives it will\
+then have a piece of my\
+soul. I still have the\
+stone.</p>\
+<p\
+>Have you ever gone deep\
+sea fishing? If you do\
+,  take anti-seasickness pills\
+. The waves were rocking the\
+boat to the left and right\
+. This boy sitting next to\
+me was leaning over the railing\
+trying to touch the flying fish\
+when he got sick and started\
+to slip over the side.\
+I grabbed the kid before he\
+fell into the ocean and told\
+him to be careful. You\
+&#8217;ve gotta wonder\
+where this kid&#8217;\
+s parents were just letting him\
+take a deep sea fishing excursion\
+by himself.</p>\
+<\
+p>After all that,\
+I think I would have been\
+better off just hanging out at\
+Ocean City. But it wasn\
+&#8217;t all bad\
+. I picked up some French\
+while I was down there.</\
+p>\
+<p>***</p\
+>\
+<p>Pre-\
+selected by women? Nude French\
+girls. Check.<br />\
+\
+Protector of loved ones? Helped\
+French girls escape drug lord.\
+Check.<br />\
+Leader of\
+men? Rescued boy from drowning\
+. Check.</p>\
+<\
+p>Much improved.</p\
+>\
+<p>Don&#\
+8217;t feel bad about\
+fibbing. You are doing the\
+exact same thing a woman does\
+when she attempts to present her\
+mating market value in the best\
+possible light through the use of\
+makeup and coy mannerisms. Seduction\
+is an intricate weave of truth\
+and fiction,  and women would\
+have it no other way.</\
+p>\
+'
+
+
+gs19 = epub.EpubHtml(title='contrast is king',
+file_name='contrast_is_king.xhtml',
+lang='en')
+gs19.content='\
+<h2>Contrast Is King</h2>\
+<p>Was sent\
+this photo,  with the following\
+message:</p>\
+<p\
+>&#8220;First I saw\
+the two barking rats,  then\
+I saw the guy walking them\
+. Talk about an odd pairing\
+! The dude had tattoos on\
+his skull,  and looked tough\
+. Not like the herb or\
+homo I thought he would be\
+. And there he is,\
+with two runty toy dogs.\
+One of the dogs walked like\
+it had a cucumber up its\
+ass.&#8221;</p>\
+\
+<p><img data-\
+attachment-id="5658"\
+data-permalink="https://\
+heartiste.wordpress.com/\
+2010/05/12/\
+contrast-is-king/\
+img_2590/" data-orig-\
+file="https://heartiste.\
+files.wordpress.com/\
+2010/05/img_2590.\
+jpg?w=500&#\
+038;h=500"\
+data-orig-size="\
+1139, 1140" data-\
+comments-opened="1"\
+data-image-meta="{&\
+quot;aperture&quot;:&\
+quot;3.5&\
+quot;, &quot;credit\
+&quot;:&quot;&quot\
+;, &quot;camera&\
+quot;:&quot;Canon PowerShot\
+SD600&quot;, &quot\
+;caption&quot;:&quot\
+;&quot;, &quot;\
+created_timestamp&quot;:&quot;\
+1273261207&quot;, &quot\
+;copyright&quot;:&quot\
+;&quot;, &quot;\
+focal_length&quot;:&quot;\
+10.093&quot;,\
+&quot;iso&quot\
+;:&quot;3&quot\
+;, &quot;shutter_speed&\
+quot;:&quot;0.\
+01&quot;, &quot\
+;title&quot;:&quot\
+;&quot;}" data-image\
+-title="2590" data\
+-image-description="" data\
+-medium-file="https\
+://heartiste.files.wordpress\
+.com/2010/05\
+/img_2590.jpg?w\
+=500&#038;h\
+=500?w=300\
+" data-large-file\
+="https://heartiste.files\
+.wordpress.com/2010\
+/05/img_2590.jpg\
+?w=500&#038\
+;h=500?w\
+=500" class="alignnone\
+size-full wp-image\
+-5658" title="gay\
+toys" alt="" src="\
+https://heartiste.files.\
+wordpress.com/2010/\
+05/img_2590.jpg?\
+w=500&#038;\
+h=500" width="\
+500" height="500"\
+srcset="https://heartiste.\
+files.wordpress.com/\
+2010/05/img_2590.\
+jpg?w=500&\
+amp;h=500 500w\
+,  https://heartiste.files\
+.wordpress.com/2010\
+/05/img_2590.jpg\
+?w=1000&amp\
+;h=1000 1000w,\
+https://heartiste.files.\
+wordpress.com/2010/\
+05/img_2590.jpg?\
+w=150&amp;\
+h=150 150w,  https\
+://heartiste.files.wordpress\
+.com/2010/05\
+/img_2590.jpg?w\
+=300&amp;h\
+=300 300w,  https://\
+heartiste.files.wordpress.\
+com/2010/05/\
+img_2590.jpg?w=\
+768&amp;h=\
+769 768w" sizes="(max\
+                  -width: 500px)\
+100vw,  500px" /></p\
+>\
+<p>This is\
+an excellent example of someone defying\
+expectations. Does anyone doubt this\
+dude gets laid like gangbusters?\
+I bet his idea of a\
+brothel is the local dog park\
+. And he pays in cloyingly\
+cute toy poodle dollars.</p\
+>\
+<p>I&#\
+8217;ve written before about\
+how important contrast is to your\
+game. Contrast,  like its\
+social dynamics cousins <a href\
+="https://heartiste.wordpress\
+.com/2009/01\
+/29/vulnerability-game\
+/" target="_blank">vulnerability\
+game</a> and <\
+a href="https://heartiste\
+.wordpress.com/2009\
+/03/21/alpha\
+-move-of-the\
+-day/" target="_blank\
+">being unpredictable</a>,\
+is a status signal of alphaness\
+. When women see a man\
+defy convention,  or wantonly fuck\
+around with societal expectation,  they\
+think &#8220;Oh,\
+he must be an alpha,\
+because only an alpha could risk\
+stepping out of line like that\
+.&#8221; Or when they\
+hear a man reveal a potentially\
+status damaging vulnerability at odds with\
+his image of strength,  they\
+think &#8220;He must\
+be really alpha to confess his\
+fear of parrots.&#8221;</\
+p>\
+<p>No\
+,  seriously,  that&#8217\
+;s the way women think\
+. Subconsciously,  at least.</\
+p>\
+<p>Contrast\
+game is also a variety of\
+handicap game,  a powerful technique\
+for subcommunicating genetic superiority. Like\
+bright,  heavy plumage on a\
+peacock,  tattoos signal that a\
+man is so genetically fit (\
+    and symmetrical) that he\
+can afford the risk to his\
+health and looks that <a\
+href="http://www.\
+scientificamerican.com/article.\
+cfm?id=survival-\
+of-the-tattooed"\
+target="_blank">getting inked\
+with needles will mean for him\
+</a>. Skull tattoo dude\
+in the above photo actually has\
+a double handicap whammy advertising his\
+alpha genetic fitness &#8212;\
+he&#8217;s enduring\
+both the disfigurement of tattoos *\
+and* the public humiliation of\
+walking two gay ass pooches.\
+(I bet he&#8217\
+ ;s telling the other\
+ dude to be careful where\
+ he steps.)</p>\
+\
+<p>How powerful a\
+psychological mindfuck is contrast? Two\
+words:</p>\
+<p\
+>Susan Boyle.</p>\
+\
+<p>That ugly broad\
+got on stage and,  in\
+the teeth of a hostile,\
+pitying audience,  sang the shit\
+out of &#8220;I\
+Dreamed A Dream&#8221;.\
+Result? Standing ovation,  tears\
+flowing like a river,  and\
+eight million copies of her debut\
+album sold in the first six\
+weeks. For a more recent\
+example of the contrast phenomenon,\
+check out <a href="\
+http://www.zimbio.\
+com/Janey+Cutler/\
+articles/-BupDlV2HBH/Janey+\
+Cutler+Next+Susan+\
+Boyle+VIDEO" target="\
+_blank">this video of Janey\
+Cutler</a>,  the 80\
+year old singer who elicits the\
+same reaction from an audience expecting\
+something entirely different.</p>\
+\
+<p>That,  my\
+friends,  is the awesome power\
+of contrast. Now imagine what\
+it can do for your notch\
+count.</p>\
+<p\
+>So,  you ask,\
+how do I translate this theme\
+of contrast into practical game advice\
+? I can offer a few\
+suggestions.</p>\
+<ul\
+>\
+<li>If you\
+&#8217;re meeting a\
+girl for a dinner after work\
+,  and you&#8217;\
+re in a business suit,\
+take her to your favorite dive\
+bar or hipster joint after the\
+dinner. She&#8217;\
+ll be pleasantly surprised that a\
+professional such as yourself feels just\
+at home in a dump as\
+in a fancy restaurant. (\
+    Note: You really shouldn\
+    &#8217;t be\
+    taking girls you haven&#\
+    8217;t fucked to\
+    fancy restaurants.)</li>\
+\
+<li>Does she think\
+your political views are antiquated?\
+Good. Now take her out\
+to a progressive-oriented art\
+show filled with pseudointellectual revolutionary crackpots\
+. She&#8217;ll\
+start to wonder what else about\
+you she doesn&#8217;\
+t know.</li>\
+<\
+li>Speak streetwise,  but\
+occasionally drop a big word in\
+your conversation. Intellectual dominance is\
+to smart chicks like physical dominance\
+is to prole chicks.</li\
+>\
+<li>If you\
+&#8217;re a very\
+masculine man,  peacock with a\
+feminine accessory,  like an ornate\
+bracelet or an earring. If\
+you&#8217;re naturally\
+foppish,  try wearing masculine accessories\
+,  like a big honking watch\
+or combat boots.</li>\
+\
+<li>Approach a girl\
+like a typical beta,  asking\
+her innocuous questions about how she\
+likes living in the city.\
+Once you have lulled her into\
+an anhedonic stupor,  hit her\
+with a neg. Consider her\
+look of surprise a step closer\
+to intimacy.</li>\
+<\
+li>Did you meet a\
+girl online and tell her about\
+your starched shirt job? Then\
+show up to the date wearing\
+something boldly stylish. Her mind\
+will race with thoughts of a\
+secret life you&#8217;\
+re hiding from her.</li\
+>\
+<li>Similarly,\
+if you&#8217;re\
+a suit-wearing type of\
+guy,  a well-placed\
+tattoo on the inner forearm can\
+do wonders to stir excitement.\
+Just manufacture an excuse to roll\
+up your sleeves,  and watch\
+her eyes light up.</li\
+>\
+<li>Regale her\
+with adventure stories that are completely\
+at odds with her image of\
+you. For instance,  if\
+you&#8217;re an\
+accountant,  mention the time you\
+spent in the Congo with the\
+little-known aid group Accountants\
+Without Borders,  and how you\
+budgeted the goats for the local\
+village.</li>\
+<li\
+>Talk about how you voted\
+for George Bush,  then give\
+a buck to a homeless bum\
+you happen to pass by while\
+walking with her. (Alternatively\
+                   ,  you could reverse this\
+                   sequence if you want to\
+                   crush the girl&#8217\
+                   ;s hopes. After\
+                   sucking up to her no\
+                   -doubt SWPLian worldview,\
+                   offhandedly announce after sex how\
+                   you recently joined the NRA\
+                   &#8220;to get\
+                   some shootin&#8217;\
+                   practice for the big game\
+                   animals you like to hunt\
+                   &#8221;.)</li>\
+\
+                   </ul>\
+<p\
+                   >Contrast is the reason\
+                   why ugly guys can sometimes\
+                   do better with women than\
+                   handsome guys. A handsome\
+                   man is expected to have\
+                   his act together in all\
+                   other ways; in comparison\
+                   ,  nothing much is expected\
+                   of ugly men. So\
+                   an ugly man who spits\
+                   tight game will pleasantly surprise\
+                   a woman while a good\
+                   looking man with game will\
+                   simply confirm what she already\
+                   believed to be true.\
+                   And when it comes to\
+                   making an impression on women\
+                   ,  which man do you\
+                   think she&#8217;\
+                   ll remember more? That\
+                   &#8217;s right\
+        ,  the man who surprised\
+                her out of her lazy\
+                   thinking.</p>\
+                                    <\
+                   p>All humans want\
+                   to be fascinated. Kurt\
+                   Cobain had it right &#\
+                   8212; here we are\
+                   now,  entertain us.\
+                   Men are entertained by tits\
+                   ,  ass and face.\
+                   Women are entertained by male\
+                   charisma and psychosocial savviness.\
+They want to be kept on\
+their toes,  forever wondering what\
+kind of man you are.\
+Defying a woman&#8217;\
+s expectations is the equivalent of\
+a big-boobed woman taking\
+off her sweater and shoving her\
+cleavage in a man&#8217\
+;s face. Her fond\
+memory of you will linger well\
+into the next day.</p\
+>\
+'
+
+
+gs20 = epub.EpubHtml(title='Mixing Signals To Dazzle Women',
+file_name='mixing_signals_to_dazzle_women.xhtml',
+lang='en')
+gs20.content='\
+<h2>Mixing Signals To Dazzle Women</h2>\
+<p>Mixing your signals\
+&#8212; aka obfuscating your\
+intentions &#8212; is a\
+powerful holistic technique to arouse interest\
+in women,  the class of\
+beings who strangely desire more that\
+which gives the least interest in\
+satisfying their desires.</p>\
+\
+<p>The status signals\
+(and,  really,  are\
+ there any other kind of\
+ signals that matter in the\
+ least bit when a man\
+ is interacting with a woman\
+ ?) that men display can\
+be broadly categorized into <strong\
+>body language</strong>\
+and <strong>verbal communication\
+</strong>.</p>\
+<\
+p>Body language comprises a\
+host of nonverbal mannerisms and displays\
+,  from the way a man\
+walks,  to his dress,\
+his facial expressions,  to how\
+he moves his limbs,  and\
+even to <a href="\
+https://heartiste.wordpress.\
+com/2008/10/\
+15/standing-like-\
+an-alpha/" target="\
+_blank">how he stands</\
+a> or holds a glass\
+. Verbal communication is the words\
+that come out of a man\
+&#8217;s mouth,\
+and the way in which he\
+says them,  in hopes of\
+creating a desirous spark in an\
+attractive woman.</p>\
+<\
+p>Most men focus on\
+the words they say,  because\
+the impact of a man&#\
+8217;s body language on\
+women&#8217;s senses\
+is both poorly understood and intangible\
+relative to the impact that he\
+thinks his words carry. Body\
+language is therefore relegated to acting\
+in concert with subconscious feelings of\
+self-worth; for this\
+reason,  body language can be\
+a man&#8217;s\
+worst enemy if he is unaware\
+how his mannerisms betray his hidden\
+emotional state.</p>\
+<\
+p>Verbal communication is thus\
+overrated and body language underrated by\
+men. The upshot to this\
+formula is that men can chill\
+a bit on the pressure to\
+say the right thing,  if\
+they work to adjust their body\
+language so that it does most\
+of the talking for them.</\
+p>\
+<p>Mixing\
+signals is the art of telling\
+/showing a woman one thing\
+,  while showing/telling her\
+another. There are four permutations\
+of body language and speech that\
+are possible when approaching women,\
+only two of which involve mixed\
+signals.</p>\
+<p\
+><strong>1. Direct\
+Body Language (DBL) +\
+Direct Verbal Communication (DVC)</\
+strong></p>\
+<p\
+>You make a bold statement\
+of intention with both your body\
+motions and your words. Example\
+:</p>\
+<p>\
+Walking slowly toward a woman,\
+holding eye contact the whole way\
+,  stopping in front of her\
+,  <a href="https\
+://heartiste.wordpress.com\
+/2012/08/03\
+/pregnant-pause-game\
+/" target="_blank">pausing\
+for effect</a>,  and\
+with a low,  deliberate tone\
+of voice,  saying,  &#\
+8220;I&#8217;\
+d regret it forever if I\
+didn&#8217;t come\
+over and see if you are\
+the type of woman I want\
+to get to know better.&#\
+8221;</p>\
+<p\
+><strong>2. Indirect\
+Body Language (IBL) +\
+Indirect Verbal Communication (IVC)</\
+strong></p>\
+<p\
+>You engage a girl with\
+a seemingly innocuous statement about some\
+peculiarity in your shared environment,\
+and comport yourself like you have\
+another place to be and she\
+just happens to be there to\
+listen to you. Example:</\
+p>\
+<p>Looking\
+over your shoulder at the girl\
+,  turning your body to partially\
+face her,  one foot pointed\
+in another direction,  rocking back\
+on your heels as you speak\
+,  glancing once or twice at\
+some faraway object,  and with\
+a neutral tone of voice,\
+saying &#8220;If the\
+bookstore weren&#8217;t\
+so full of poseurs,  we\
+might have a chance to get\
+a book within the next hour\
+.&#8221;</p>\
+<\
+p><strong>3.\
+DBL + IVC</strong></\
+p>\
+<p>You\
+make a bold statement of romantic\
+intention with your body and facial\
+expressions,  while speaking neutrally so\
+as to suggest you are not\
+interested in hitting on her.\
+Example:</p>\
+<p\
+>Directly facing the woman,\
+positioning yourself so that eye contact\
+is unavoidable and escape is limited\
+,  occupying her personal space,\
+you ask in an unthreatening,\
+bland tone of voice,  after\
+a mood-heightening silent pause\
+,  if she can direct you\
+to the nearest toy shop so\
+you can buy a gift for\
+your niece.</p>\
+<\
+p><strong>4.\
+IBL + DVC</strong></\
+p>\
+<p>You\
+verbally communicate your romantic interest while\
+your body language bespeaks disinterest.\
+Example:</p>\
+<p\
+>Body rocking,  feet positioned\
+as if you are about to\
+walk off,  approaching at an\
+angle with shoulders turned halfway outward\
+,  eyes surveying your environment,\
+you open her directly with a\
+strong sexual vibe that belies your\
+mannerisms.</p>\
+<p\
+>Which of these styles of\
+interaction is best? That&#\
+8217;s hard to say\
+,  because the style that works\
+best depends in some measure on\
+the skill of the womanizer.\
+A sexually needy man who experiences\
+bouts of nerves when cute girls\
+are near stands a good chance\
+of being perceived as incongruent in\
+his words and behavior if he\
+tries to directly open a girl\
+while comporting himself as if he\
+&#8217;s too cool\
+for school. Similarly,  an\
+experienced player with rock solid confident\
+body language who masks his intentions\
+under a flurry of misdirecting banalities\
+may strike a girl as a\
+coward who is too skittish to\
+say what&#8217;s\
+on his mind.</p>\
+\
+<p>However,  this\
+contextual problem aside,  I believe\
+a useful generalization about the effectiveness\
+of the different approach styles can\
+be made.</p>\
+<\
+p><a href="https\
+://heartiste.wordpress.com\
+/2012/11/29\
+/indirect-vs-direct\
+-vs-clever-openers\
+-which-is-best\
+/#comment-391142" target\
+="_blank">Eric Disco</\
+a> comments:</p>\
+\
+<blockquote><p>This\
+is essentially what most guys do\
+when they attempt to be indirect\
+,  they are indirect with their\
+words (“How do you get\
+       to Starbucks?”) but then\
+they are very direct with their\
+body language–mainly eye contact\
+and body orientation. They face\
+her and give her lots of\
+eye contact,  looking at her\
+continuously,  as if they’\
+ve just spotted a rare bird\
+. From my experience,  instead\
+of combining the best of both\
+worlds,  this combines the worst\
+.</p>\
+<p>\
+When you’re direct,\
+it shows balls. The drawback\
+is that you are betraying a\
+lot of interest,  which lowers\
+your value and makes you seem\
+like less of a challenge.\
+When you combine an indirect verbal\
+opener with direct body language,\
+you betray interest but don’\
+t show any balls at all\
+.</p>\
+<p>\
+Once you’re in the\
+interaction with her,  you can\
+start to show more interest physically\
+,  once she’s earned\
+it. You can be more\
+sexual with your eye contact,\
+etc. But if you’\
+re going to open indirect,\
+then be indirect. Don’\
+t betray too much interest.\
+Act like she just happened to\
+be there and so you said\
+something to her. If you\
+’re going to walk across\
+a room/park just to\
+talk to her,  then show\
+some balls. Go direct.</\
+p></blockquote>\
+<p\
+>Eric is onto something.\
+The DBL + IVC style is\
+probably the riskiest strategy for the\
+average man to pull off.\
+It&#8217;s too\
+easy to come across like a\
+suave dude who can&#8217\
+;t go the extra distance\
+and just ask the girl out\
+. I bet a lot of\
+you good-looking guys who\
+read this blog have this problem\
+.</p>\
+<p>\
+Any kind of situation which necessarily\
+calls for a direct approach &#\
+8212; say,  walking across\
+a park or large room in\
+full view of your target so\
+that she is under no illusion\
+why you are moving in on\
+her &#8212; would benefit\
+from a direct style verbal opener\
+. You can still go indirect\
+in these circumstances,  but you\
+had better be a master at\
+manipulating women&#8217;s\
+expectations so that your value remains\
+at a constant high level compared\
+to them.</p>\
+<\
+p>Men new to the\
+stealthy art of seduction are best\
+served learning pickup by employing the\
+IBL + IVC style. This\
+is,  in fact,  what\
+most pickup artists teach their acolytes\
+. The typical woman <a\
+href="https://heartiste.\
+wordpress.com/2012/\
+11/29/indirect-\
+vs-direct-vs-\
+clever-openers-which-\
+is-best/" target="\
+_blank">prefers the indirect approach\
+</a> from the typical\
+man,  and the inexperienced man\
+is not going to possess the\
+degree of self-amused state\
+control that is required to successfully\
+pull off direct approaches. The\
+newb will need gradual indicators of\
+interest from women to build up\
+his confidence levels to a point\
+where he is comfortable risking more\
+on direct openers and interactions of\
+powerful sexual intention.</p>\
+\
+<p>Then,  too\
+,  the newb can get a\
+better grasp of gauging a woman\
+&#8217;s &#8220\
+;buying temperature&#8221;\
+by adjusting his body language from\
+indirect to direct and back to\
+indirect,  as opposed to the\
+more difficult route of direct to\
+indirect back to direct. It\
+&#8217;s easier to\
+maintain plausible deniability with the former\
+than with the latter.</p\
+>\
+<p>So,\
+I&#8217;d say\
+IBL + IVC is optimal for\
+younger men and less experienced men\
+. This is not a mixed\
+signal strategy at the outset,\
+but it can be farther along\
+in the process when it is\
+simpler to incorporate different verbal and\
+nonverbal tactics.</p>\
+<\
+p>Where it gets interesting\
+is the IBL + DVC strategy\
+. This can potentially be the\
+most powerful approach technique wielded in\
+the right hands. Such a\
+man is perceived as having the\
+conviction of his words,  but\
+simultaneously sending barely perceptible signals that\
+his interest level is waning,\
+or that he&#8217;\
+s hard to keep engaged.\
+Naturals tend to this style,\
+and the classic archetype is the\
+devil-may-care badboy\
+who speaks of lustful things to\
+a girl while his eyes wander\
+around the room scanning for fresh\
+meat.</p>\
+<p\
+>Generally,  though,  mixing\
+signals is a technique best left\
+for experts. The risk of\
+mood-killing incongruence is very\
+high,  and I&#8217\
+;ve seen far too many\
+enthusiastic men muck it up when\
+they couldn&#8217;t\
+sufficiently manage the inherent discrepancy between\
+their words and their mannerisms.</\
+p>\
+<p>YaReally\
+makes the <a href="\
+https://heartiste.wordpress.\
+com/2012/11/\
+29/indirect-vs-\
+direct-vs-clever-\
+openers-which-is-\
+best/#comment-391104"\
+target="_blank">inarguable point\
+</a> that,  once\
+a certain level of inner confidence\
+is achieved,  it doesn&#\
+8217;t really matter what\
+kind of approach style a man\
+uses.</p>\
+<blockquote\
+><p>The PUA community\
+used to think you needed solid\
+indirect openers to open. Then\
+we found out you could go\
+direct. [&#8230;]</p\
+         >\
+<p>Now\
+         we understand that you can\
+         open with anything,  as\
+         long as what you open\
+         with comes from a place\
+         of self-amusement and\
+         congruency.</p>\
+<\
+         p>When you think\
+         “How should I open\
+         this girl?” you’\
+         re essentially thinking “What\
+         can I say/do\
+         to earn this girl’\
+         s validation?” and you\
+         ’re already coming from\
+         a frame of having lower\
+         value than her.</p\
+         >\
+<p>When\
+         you think “What I\
+         ’m saying is gold\
+         ,  of course she’\
+         ll love me,  I\
+         ’m so awesome!”\
+         you’re essentially screening\
+         her for “Is she\
+         cool enough for me to\
+         let her hang with me\
+         ?” and you’re\
+         coming from a frame of\
+         having higher value than her\
+         .</p>\
+<p\
+         >Girls generally pick up\
+         on this subconsciously,  because\
+         they’ve spent their\
+         lives having to learn to\
+         quickly assess “is this\
+         person being genuine/honest\
+         with me or are they\
+         trying to get something from\
+         me?”</p>\
+<\
+         p>A lot of\
+         why “Who lies more\
+         ?” worked so well was\
+         because the guys learning it\
+         felt like they found the\
+secret invincible formula,  so when\
+they approached with it they were\
+approaching from that “This is\
+going to blow her mind,\
+of course she’s going\
+to love me” frame.</\
+p>\
+<p>Direct\
+worked because the guys who tried\
+it were sick of going indirect\
+and beating around the bush and\
+wanted to just get their intentions\
+out in the open so they\
+were just saying “HEY.\
+You’re cute,  I\
+’d kick myself if I\
+didn’t come say hi\
+.” and expecting it to work\
+,  so it did.</p\
+></blockquote>\
+<p>\
+Some of you may be asking\
+,  &#8220;Doesn&#\
+8217;t YaReally&#8217\
+;s advice contradict the study\
+you just posted about how indirect\
+,  innocuous openers are best?&#\
+8221;</p>\
+<p\
+>Good question! Superficially,\
+yes. But you&#8217\
+;ve got to understand that\
+most of the men involved in\
+these studies have no game,\
+have never heard of game,\
+and likely wouldn&#8217;\
+t understand the concept of congruence\
+if you whacked them over the\
+head with it. These studies\
+examine the responses of women to\
+the behavior of the *average\
+,  no-game-having\
+* man,  and in that\
+context,  indirect is best.\
+Since that context is most contexts\
+,  it is good advice to\
+follow for most men. Men\
+who have been exposed to a\
+new way of thinking about women\
+and seduction are better equipped to\
+pursue different approach strategies that streamline\
+the process and maximize their lay rates.</p>\
+'
+
+gs21 = epub.EpubHtml(title='trump-up charges',
+file_name='trump-up_charges.xhtml',
+lang='en')
+gs21.content='\
+<h2>Trump-Up Charges</h2>\
+<p>Women love to\
+bitch and moan about their men\
+. It&#8217;s\
+in their blood. But it\
+matters not,  most of the\
+time. As long as you\
+smite her heart with your heraldic\
+war pike of forged steel alphaness\
+,  her bitching and moaning will\
+waft into the ether,  having\
+no influence whatsoever on her desire\
+to cling to you. In\
+fact,  bitching and moaning is\
+often a sign that the woman\
+is deeply in love,  for\
+such a powerfully debilitating emotion ushers\
+forth a fusillade of half-\
+hearted complaints as a grounding mechanism\
+to steady her so that she\
+can make at least semi-\
+cogent rationalizations why she can&#\
+8217;t get enough of\
+your assholery.</p>\
+<\
+p>There is,  however\
+,  a time and context when\
+the complaints carry more weight.\
+This is usually right near the\
+end of a relationship,  when\
+she has already checked out and\
+is now trying to wriggle free\
+without confronting the real reasons why\
+she feels no tingle. You\
+will know this is happening because\
+complaints you rarely heard before suddenly\
+come out of nowhere,  and\
+with increasing frequency. Her bitching\
+,  too,  will take on\
+a serious cast,  and the\
+playfulness with which she needled you\
+before will be gone,  replaced\
+by a somber recounting of grievous\
+faults. You will almost picture\
+her wearing a green eyeshade as\
+she ticks off your bothersome habits\
+that,  for reasons unclear to\
+your formulaically analytical male mind,\
+she finds irredeemably annoying what once\
+she thought charming,  and evidence\
+that you are unsalvageable as a\
+boyfriend.</p>\
+<p\
+>&#8220;You&#8217\
+;re late all the time\
+.&#8221;</p>\
+<\
+p>&#8220;I hate\
+they way you kiss with the\
+side of your lips.&#8221\
+;</p>\
+<p>&#\
+8220;You never got me\
+anything nice.&#8221; (\
+You&#8217;ll notice\
+girls using an out-of\
+-place past tense when you\
+have been mentally demoted to ex\
+-lover.)</p>\
+<\
+p>We here at the\
+Chateau know the reason why she\
+has morphed into a human resources\
+department assistant manager: you lost\
+your alpha mojo. Her complaints\
+,  more often than not utterly\
+baseless trumped-up charges,\
+are simply mediums through which she\
+contextualizes your emerging betatude. She\
+cannot fathom the subtleties of character\
+deficiency and behavioral emasculation that turn\
+her off,  but she can\
+wrap her frazzled hamster around the\
+one time you were ten minutes\
+late picking her up from the\
+train station. And since a\
+woman&#8217;s memory\
+for trivial details rivals a quad\
+core CPU,  you can expect\
+that she will remember retroactive annoyances\
+from five years ago that today\
+serve as convenient nitpick fodder to\
+justify the torrent of hypergamous preprogramming\
+that propels her away from your\
+domesticated ass.</p>\
+<\
+p>Happily for you readers\
+,  the Chateau is a one\
+stop shop for all your relationship\
+management needs. We don&#\
+8217;t just diagnose the\
+problem; we give you solutions\
+. So what do you do\
+when the end is nigh and\
+the bitching has evolved into a\
+stone cold staff meeting? Whatever\
+you do&#8230;</p\
+>\
+<p>DON&#\
+8217;T ENGAGE HER LOGICALLY\
+.</p>\
+<p>\
+Women are probably capable of some\
+rudimentary logical thinking in a pinch\
+,  but it isn&#8217\
+;t their default mental algorithm\
+,  and they won&#8217\
+;t like having to be\
+logical when they could defer to\
+their insanely precocious <em>\
+feeeeelings</em> instead.\
+So when you engage a woman\
+logically,  assaulting her with the\
+facts and bolstering your case,\
+you are actually signing your own\
+notice of dismissal. In the\
+court of love,  fairness is\
+a fleeting proclamation and evidence an\
+obstacle to be tampered with on\
+the way to the Siberian celibacy\
+camps.</p>\
+<p\
+>&#8220;You&#8217\
+;re late all the time\
+.&#8221;</p>\
+<\
+p>&#8220;No,\
+I&#8217;m not\
+. Once or twice,  maybe\
+. But do you remember me\
+being on time for the house\
+party last week?&#8221;</\
+p>\
+<p>BAD\
+.</p>\
+<p>&#\
+8220;You&#8217;\
+re late all the time.&#\
+8221;</p>\
+<p\
+>&#8220;You would be\
+too if your ten other girlfriends\
+were constantly bugging you.&#8221\
+;</p>\
+<p>\
+GOOD.</p>\
+<p\
+>&#8220;I hate the\
+way you kiss with the side\
+of your lips.&#8221;</\
+p>\
+<p>&#8220\
+;I don&#8217;\
+t do that. You&#\
+8217;re just making shit\
+up.&#8221;</p>\
+\
+<p>BAD.</p\
+>\
+<p>&#8220;\
+I hate the way you kiss\
+with the side of your lips\
+.&#8221;</p>\
+<\
+p>&#8220;Next time\
+I&#8217;ll aim\
+for your ear.&#8221;</\
+p>\
+<p>GOOD\
+.</p>\
+<p>&#\
+8220;You never got me\
+anything nice.&#8221;</p\
+>\
+<p>&#8220;\
+Sure I did. What about\
+that cashmere sweater I got you\
+for your birthday?&#8221;</\
+p>\
+<p>BAD\
+.</p>\
+<p>&#\
+8220;You never got me\
+anything nice.&#8221;</p\
+>\
+<p>&#8220;\
+Fuck you. That <a\
+href="https://heartiste.\
+wordpress.com/2009/\
+05/19/be-\
+a-skittles-man/"\
+target="_blank">bag of\
+Skittles</a> cost me\
+an arm and a leg.&#\
+8221;</p>\
+<p\
+>MOST EXCELLENT.</p>\
+\
+<p>The above are\
+merely suggestions for dealing with the\
+red flags of rationalization bitching.\
+<a href="https://\
+heartiste.wordpress.com/\
+2009/08/13/\
+relationship-game-week-\
+agree-and-amplify/"\
+target="_blank">Many game\
+strategies</a> are available\
+to you,  and all are\
+good in their own way.\
+The point of this post is\
+that under no circumstances should you\
+ever <a href="https\
+://heartiste.wordpress.com\
+/2008/12/05\
+/dirty-photo-album\
+/" target="_blank">take\
+a woman seriously</a>\
+in relationship matters,  unless she\
+is waving a small white stick\
+with a pink tip in front\
+of you.</p>\
+<\
+p>Even then,  <\
+a href="https://heartiste\
+.wordpress.com/2009\
+/03/17/predator\
+-sluts/" target="_blank\
+">proceed with caution</a\
+>.</p>\
+'
+
+gs22 = epub.EpubHtml(title='kiss',
+file_name='kiss',
+lang='en')
+gs22.content='\
+\
+                <h2>When To\
+                Move On For The Kiss\
+                On The First Date</\
+                h2>\
+ft writes:</\
+                p>\
+<blockquote><\
+                p>I&#8217\
+                ;d like your thoughts\
+                on a recent date I\
+                had.</p>\
+<\
+                p>We were introduced\
+                through family. <strong\
+                >[Ed: Never a\
+                  good idea if you play\
+                  the short game.] </\
+                strong>We went on\
+                one date and it went\
+                well. Started 10 PM\
+                and didn&#8217;\
+                t end until 530AM.</\
+                p>\
+<p>\
+                Conversation was free and easy\
+                and I escalated slowly throughout\
+                the evening,  although I\
+                didn&#8217;t\
+                push hard enough. When\
+                I needed to demonstrate value\
+                I did.  When I\
+                told her to follow she\
+                obeyed. I dropped some\
+                good negs.  I had\
+                problems with my ATM card\
+                but she had no problem\
+                paying until I straightened them\
+                out (we visited 4\
+                     -5 venues) without\
+                a fuss. We said our goodbyes.</p>\
+<p>The second date is the one I&#\
+                8217;d like you\
+                to comment on.  It\
+was the next day and I\
+called her and invited her out\
+for drinks.  She told me\
+she&#8217;d call\
+me after dinner and kept her\
+word.  She sounded surprised to\
+hear from me so soon but\
+didn&#8217;t hem\
+or haw and we met within\
+a half hour.  This time\
+we found a pool hall and\
+I displayed my superiority while gently\
+negging her.</p>\
+<\
+p>HER: Am I\
+really the worst pool player you\
+&#8217;ve ever seen\
+?</p>\
+<p>\
+ME: It&#8217;\
+s kind of tough to call\
+.  I knew this blind guy\
+who liked to play&#8230\
+;</p>\
+<p>\
+She liked that one.</p\
+>\
+<p>We moved\
+to a lounge which had couches\
+and single chairs. I guided\
+her to a loveseat and she\
+didn&#8217;t protest\
+.</p>\
+<p>\
+I spread out alpha style and\
+put my arm up on the\
+back,  almost around her.\
+We chatted for a while,\
+light touching,  teasing.  She\
+went to the bathroom and this\
+is when the shit test started\
+. I hadn&#8217;\
+t had a real one so\
+far that night or on the\
+first date.</p>\
+<\
+p>I noticed that after\
+she returned from the bathroom another\
+button on her shirt was undone\
+and her hair was a little\
+more tousled than before.  She\
+began by complementing my overall physique\
+,  but she then started to\
+ask why I wore my clothes\
+a little more loosely than usual\
+. I told her it was\
+for comfort. She told me\
+she couldn&#8217;t\
+tell whether or not I was\
+in shape.  As I was\
+wearing a polo and an undershirt\
+she said she could better judge\
+if I removed the polo.</\
+p>\
+<p>Let\
+me say that a year ago\
+I might have complied to a\
+request like this without hesitating,\
+but after some game research and\
+restoring my manly dignity,  I\
+do not perform for women,\
+nor do I give something for\
+nothing. Nor would I be\
+embarassed about what she would see\
+. I don&#8217;\
+t have a six pack but\
+I&#8217;m tall\
+,  lean,  with wide shoulders\
+and v-shaped back.</\
+p>\
+<p>I\
+decided to see if she would\
+put her money where her mouth\
+was and told her if she\
+wanted it she would have to\
+kiss me. She said no\
+. Right then I knew it\
+was about control. If she\
+had wanted an excuse to escalate\
+she had it. I reframed\
+by teasing her she didn&#\
+8217;t impress me with\
+her sales skills (she&#\
+                  8217;s in sales\
+                  ). That bought me time\
+to pay<br />\
+and\
+walk her out of the bar\
+and home. It was about\
+a forty minute walk. We\
+had a good convo pretending to\
+bargain over the price to see\
+me without the outershirt.</p\
+>\
+<p>Halfway to\
+her place I asked her if\
+she could do me a favor\
+. I took off my jacket\
+and tossed it to her.\
+&#8220;Can you hold\
+this for me? I&#\
+8217;m warm.&#8221\
+; The smile on her face\
+was priceless. She thought she\
+was about to get what she\
+wanted. A few minutes later\
+when handing me back the jacket\
+,  she made an attempt to\
+lift up my shirt. I\
+gently stopped her hands and feigned\
+disappointment that she would resort to\
+trickery.  The rest of the\
+walk home I kept about half\
+a step ahead.</p>\
+\
+<p>As we reached\
+her door I slowed but didn\
+&#8217;t stop and\
+said my goodbyes as I turned\
+to continue home.  She looked\
+stunned that I didn&#8217\
+;t hug her or peck\
+her on the cheek. It\
+was cordial but minimal with no\
+contact.</p>\
+<p\
+>As I walked away I\
+was proud of myself for not\
+selling out to desperation. My\
+gut told me following an order\
+for her would have spelled doom\
+,  but I know I missed\
+an opportunity somewhere. Would she\
+say yes to another date?</\
+p>\
+<p>Appreciated\
+, <br />\
+Shaft</\
+p></blockquote>\
+<p\
+>Even though this question from\
+the reader is about his second\
+date,  the title of the\
+post is about moving in for\
+the kiss on the first date\
+,  since it is the first\
+date when you should get physical\
+with a girl. The majority\
+of kiss-less first dates\
+lead nowhere. It is also\
+a bad idea to schedule a\
+second date the very next day\
+following the first date. This\
+reader was one of the fortunate\
+few to dodge some self-\
+inflicted seduction-killing obstacles.\
+The rest of his game &#\
+8212; such as the handling\
+of her shit tests &#8212\
+; was good,  and probably\
+accounted for her continued interest.</\
+p>\
+<p>Her\
+are some basic rules about kissing\
+on the first date:</p\
+>\
+<ol>\
+<li\
+><strong>Do not kiss\
+her when you meet her at\
+the start of the first date\
+.</strong> You are not\
+as debonair or as European as\
+you think you are,  and\
+neither is she. A kiss\
+upon meeting is going to feel\
+awkward for her and for you\
+. This goes even in those\
+first date cases where you previously\
+had a sloppy make-out\
+with her in the bar on\
+the night when you scored her\
+digits. Actually,  it goes\
+doubly for those instances. (\
+    Previous sloppy bar make-\
+    outs reveal your hand,\
+    so your job should be\
+    to temporarily disqualify yourself so\
+    she doesn&#8217;\
+    t think you are too\
+    easy.)</li>\
+<\
+li><strong>Do not\
+kiss her at the end of\
+the first date unless there was\
+significant physical contact during the date\
+.</strong> Multiply the awkwardness\
+of the initial meeting kiss by\
+ten and you will know the\
+feeling of planting a night-\
+ending wet one on a girl\
+at the end of a date\
+that was woefully free of any\
+physical connection.</li>\
+<\
+li><strong>Do not\
+attempt to force a nonexistent rapport\
+by kissing the girl.</strong\
+> This rule applies for any\
+date,  but its disregard is\
+most evident on the first date\
+. Many men will try to\
+light a fuse in their dates\
+by moving in for the kiss\
+sans any physical groundwork,  incorrectly\
+thinking that their shared sterling,\
+intellectual conversation was proof enough that\
+she was ready for kissing.\
+They are then flummoxed when she\
+delivers the cheek turn,  the\
+&#8220;whoa,  not\
+so fast&#8221; rejoinder\
+,  or,  worse,  the\
+&#8220;what do you\
+think you&#8217;re\
+doing?&#8221; lawyerspeak shut\
+-down. Instead of the\
+smooth move these men imagined in\
+their heads it would be,\
+they end up lurching clumsily from\
+chit chat at a four foot\
+distance to a lips-probing\
+kiss flying in at the speed\
+of light. Kissing is an\
+emergent property of successfully executed game\
+; it is not a standalone\
+game maneuver that you can run\
+in any context. If you\
+haven&#8217;t escalated\
+physical touching with a girl during\
+a date,  don&#8217\
+;t think that a kiss\
+after three hours of arms-\
+crossed shop talk will advance the\
+seduction.</li>\
+<li\
+><strong>Do not go\
+for the first date kiss in\
+a crowded room</strong>.\
+<a href="https://\
+heartiste.wordpress.com/\
+2008/01/13/\
+best-feeling-in-\
+the-world/" target="\
+_blank">Venue bounce</a\
+>,  drink,  venue bounce again\
+,  settle into a sofa at\
+a lounge,  make out.\
+Most girls lie to themselves that\
+they are &#8220;not\
+that kind of girl&#8221\
+;; why give a girl an\
+excuse to test her self-\
+delusions by moving in for the\
+kiss where a <a href\
+="https://heartiste.wordpress\
+.com/2008/05\
+/05/pda-is\
+-beta/" target="_blank\
+">huge crowd can analyze the\
+depravity of her sluttiness</a\
+>?</li>\
+<li><\
+strong>The ideal first date\
+kiss should happen sometime in the\
+middle of the date.</strong\
+> Kino escalation,  growing intimacy\
+,  then kissing,  followed by\
+a cooling off push-away\
+,  more light banter,  reinitiated\
+kino,  etc&#8230;\
+if you can physically peak in\
+the middle to last third of\
+the date,  you will leave\
+her wanting more while simultaneously avoiding\
+the dreaded last minute kiss of\
+desperation that poisons so many dates\
+. Mid-date physical peaking\
+also prevents ASD (anti-\
+                   slut defense).</li>\
+\
+</ol>\
+<p>\
+So to sum up,  don\
+&#8217;t kiss at\
+the very beginning or the desperate\
+end of a first date,\
+don&#8217;t force\
+a kiss if she isn&#\
+8217;t giving indicators of\
+interest,  escalate physical contact until\
+you ideally begin kissing her in\
+the middle to last third of\
+a date,  and wait to\
+kiss her when you&#8217\
+;re settled into an intimate\
+location (this includes a back\
+          alley if the weather is\
+          warm).</p>\
+<\
+p>Caveat: If you\
+are going for a bust-\
+or-bail first date same\
+night lay,  kiss her whenever\
+the fuck you feel like it\
+. An end-of-\
+official-date kiss is simply\
+a prelude to a beginning-\
+of-unofficial-date night\
+of fornication.</p>\
+<\
+p>The ideal kiss window\
+should <a href="https\
+://heartiste.wordpress.com\
+/2008/08/04\
+/kiss-close-in\
+-front-of-her\
+-friends/" target="_blank\
+">open effortlessly if your game\
+is tight</a>. Girls\
+who are being seduced properly *\
+want* to be kissed.\
+Always check for dilating pupils,\
+hair twisting,  leg opening,\
+lip licking,  heel dangling,\
+head cocking,  bar stool swiveling\
+,  drink swilling,  incidental thigh\
+touching,  and hand on chin\
+head propping.</p>\
+<\
+p>To the reader:\
+    it&#8217;s\
+    hard to know if she\
+    &#8217;ll agree\
+    to a third date based\
+    on how you described the\
+    second date ending. It\
+    looks like you fell into\
+    the trap of <a\
+    href="https://heartiste\
+    .wordpress.com/\
+    2010/07/26\
+    /overgaming/" target="\
+    _blank">overgaming</a\
+    > to compensate for some\
+    fuck-ups you may\
+    have done on the first\
+    date,  and to reestablish\
+    hand after she denied you\
+    the kiss when you playfully\
+    challenged her to one.\
+    In your zeal to demonstrate\
+    non-neediness,  you\
+    forgot that you have to\
+    make a physical move on\
+    a girl to get the\
+    ball rolling toward sex.\
+    There is a fine line\
+    between slyly camouflaging your intentions\
+    and showing no intention at\
+    all. Two dates have\
+    now gone by without any\
+    kissing or intimate touching,\
+    from what you have written\
+    . This is a recipe\
+    for a seduction about to\
+    fizzle.</p>\
+<\
+p>What you did by\
+nonchalantly walking off was probably better\
+than ending the date on an\
+awkward goodnight cheek kiss where she\
+held all the cards,  but\
+you shouldn&#8217;t\
+have put yourself in that situation\
+to begin with. Had you\
+prepped the courtship by kissing her\
+earlier in the evening (let\
+                        &#8217;s say\
+                        during drinks at the lounge\
+                        ),  the date-ending\
+goodbye would not have been a\
+test of wills pitting your aloofness\
+against her coyness. Sure,\
+by unexpectedly denying her the long\
+-awaited goodbye kiss of prostration\
+you may have won the battle\
+,  but you lost the war\
+well before your tepid final flanking\
+maneuver.</p>\
+<p\
+>In the future,  push\
+for kissing by the middle of\
+the first date,  but don\
+&#8217;t overdo it\
+. Making out with a girl\
+for too long and too hard\
+on the first date &#8212\
+; again,  unless you are\
+gunning for a SNL &#8212\
+; will gradually lower your value\
+and,  hence,  raise her\
+buyer&#8217;s remorse\
+,  leading to <a href\
+="https://heartiste.wordpress\
+.com/2007/05\
+/22/flake-odds\
+-point-system/" target\
+="_blank">flaking on subsequent\
+dates</a>. The perfect\
+seduction moves two steps forward,\
+one step back. No kissing\
+= celibate LJBF. Too much\
+kissing = flaking. Ideal kissing\
+= mid-date,  in\
+measured doses. You want to\
+break the lip barrier without making\
+a spectacle of your horniness.</\
+p>\
+<p>Always\
+remember that the alpha male demonstrates\
+by his actions complete mastery over\
+his sexual desire,  and knows\
+when and how to parcel it\
+. A man with simmering,\
+feral arousal that he can control\
+is intoxicating to women. This\
+is why make-outs followed\
+abruptly by takeaways or teasing push\
+-offs is so attractive to\
+women &#8212; they love\
+that they can&#8217;\
+t figure out how much you\
+really want to fuck them.</\
+p>\
+<p>When\
+you kiss on the first date\
+,  stop before she does,\
+lean back to talk some more\
+,  and chastise her lightly for\
+moving too fast. Repeat a\
+couple times during the night,\
+then hold her hand as you\
+walk her home. Kiss her\
+*before* you get to\
+her door,  then drop her\
+off about twenty feet from her\
+place (to reduce the impression\
+       of formality that surrounds a\
+       door-step departure),\
+giving her a hug if you\
+wish. Then tell her you\
+had a great time AND LEAVE\
+. Do not tell her you\
+&#8217;ll call her\
+,  or try to set up\
+a second date. Just leave\
+,  and she&#8217;\
+ll thank you later,  in\
+the best way women know,\
+for blessing her happily restless sleep\
+that night with the inscrutability of your actions.</p>\
+'
+
+gs23 = epub.EpubHtml(title='get lost',
+file_name='get_lost.xhtml',
+lang='en')
+gs23.content='\
+<h2>Get Lost</h2>\
+<p>Most girls avoid\
+inciting confrontation. But some girls\
+are constitutionally nasty. All girls\
+can occasionally be nasty if they\
+are pushed hard enough (or\
+                        PMSing hard enough). American\
+girls are <a href="\
+https://heartiste.wordpress.\
+com/2009/06/\
+15/the-masculinization-\
+of-the-western-\
+white-female/" target="\
+_blank">getting manlier</a\
+> and,  hence,  nastier\
+,  so the occasions you will\
+encounter nastiness from a girl in\
+America and her Western satellites are\
+likely increasing in frequency.</p\
+>\
+<p>Some things\
+a nasty bitch will utter are\
+so grating you feel impelled to\
+haul back and send her to\
+the moon. &#8220;\
+Get lost&#8221; is\
+one of those things. Of\
+course,  you don&#8217\
+;t want to do this\
+. Not only will it result\
+in a white knight brigade gang\
+-tackling you in hopes of\
+receiving a pat on the back\
+from some fat hog in flip\
+-flops,  it will kill\
+your pickup momentum.</p>\
+\
+<p>The best answer\
+to female nastiness is calm.\
+As long as your demeanor is\
+calm and you look unflustered,\
+you will knock a nasty cunt\
+off her game plan. She\
+&#8217;s expecting one\
+reaction; you&#8217;\
+re giving her another.</p\
+>\
+<p>Calmness is\
+essentially non-reactiveness. When\
+you react,  you accede,\
+implicitly or explicitly,  to your\
+antagonist&#8217;s frame\
+. When you react,  you\
+confess defensive insecurity,  even if\
+objectively you are not,  because\
+perception is all that matters in\
+seduction. Defensiveness is the biggest\
+game-killer,  outside of\
+supplication. If you ever observe\
+naturals or experienced players hitting on\
+women,  one thing you&#\
+8217;ll notice they all\
+have in common is a complete\
+and total lack of defensiveness or\
+supplication. The non-neediness\
+and self-certainty of the\
+inveterate player are so ingrained that\
+he couldn&#8217;t\
+be otherwise if he tried.</\
+p>\
+<p>So\
+,  to sum up,  when\
+you encounter shocking nastiness from a\
+girl:</p>\
+<p\
+>1. Stay calm<\
+br />\
+2. Don&#\
+8217;t react<br\
+/>\
+3. Announce your preferred\
+intention</p>\
+<p\
+>Number 1 is very hard\
+to do if you are a\
+young man full of impulsivity and\
+heavy balls. But it comes\
+with practice. Hot emotions can\
+be corralled and channeled,  just\
+like yogis can train themselves to\
+focus inwardly and feel less pain\
+.</p>\
+<p>\
+Number 2 can be mastered simply\
+by willing yourself to pause for\
+a second or two in mental\
+silence before responding to a girl\
+who has attempted to get under\
+your skin. The <a\
+href="https://heartiste.\
+wordpress.com/2012/\
+08/03/pregnant-\
+pause-game/" target="\
+_blank">pause of alphaness</\
+a> is a powerful technique\
+,  and will help you gather\
+your thoughts and keep a poker\
+face. It is also very\
+unsettling to your opponent.</p\
+>\
+<p>Number 3\
+is reframing. This is where\
+you apply the proper tension with\
+the words you choose to relay\
+to her. A substitution of\
+her tacit demands with your alternative\
+preference implies your indifference and perhaps\
+mild annoyance. You are not\
+angry or spiteful. You are\
+condescending.</p>\
+<p\
+>So,  for example,\
+a girl says this to you\
+:</p>\
+<p>&#\
+8220;Get lost.&#8221\
+;</p>\
+<p>\
+You would ideally respond with this\
+:</p>\
+<p>&#\
+8220;No,  I think\
+I&#8217;ll stay\
+right here.&#8221;</p\
+>\
+<p>No anger\
+,  no spite,  no sulking\
+,  no defensive flailing. Just\
+a calm iteration of fact and\
+an imposition of your will on\
+the world,  wrapped in an\
+unmovable frame.</p>\
+<\
+p>If she really hates\
+you,  she&#8217;\
+ll mutter something like &#8220\
+;fuck you&#8221;\
+under her breath and walk off\
+,  which is the equivalent of\
+taking her ball home and declaring\
+victory. But the perception will\
+be that you will have won\
+,  standing your ground like an\
+unflappable mofo. A small measure\
+of self-satisfaction will materialize\
+in a smirk on your face\
+. It&#8217;s\
+these little victories that add up\
+to a rich,  fulfilling life\
+.</p>\
+<p>\
+If she doesn&#8217;\
+t really hate you,  and\
+was just being bitchy because bitch\
+,  her reaction will be an\
+amalgam of surprise,  indignation and\
+intrigue. All these reactions are\
+better than the alternative,  because\
+they all mean her frame has\
+been broken and subsumed into yours\
+. Great love often germinates in\
+such difficult soil.</p>\
+\
+<p>Now I know\
+some of you are incredulously asking\
+yourselves,  &#8220;So\
+an alpha male is never supposed\
+to get angry,  even when\
+such anger is fully justified?&#\
+8221;</p>\
+<p\
+>No,  I didn&#\
+8217;t say that.\
+An alpha male should favor being\
+proactive over reactive. What this\
+means in practice is that anger\
+is best displayed intermittently,  infrequently\
+,  and unexpectedly. It is\
+also best used when its usage\
+is personally advantageous. The rules\
+of the sexual market are not\
+guided by principles of fairness;\
+an angry defensive outburst moves you\
+no closer to your goal of\
+pleasure,  and usually moves you\
+further from it.</p>\
+\
+<p>Bitchiness should be\
+answered first with bemused calm,\
+which steals the bitch&#8217\
+;s thunder and robs her\
+of the satisfaction of provoking the\
+expected butthurt response. Preternatural calm\
+and steadfast state control will induce\
+in the bitch complacency,  guard\
+-lowering,  and second thoughts\
+,  from which a seduction may\
+move forward,  or from which\
+you may lower the war hammer\
+of ego smiting. Give the\
+bitch room to bitch,  implant\
+in her the impression that you\
+aren&#8217;t easily\
+provoked and might even be worth\
+getting to know,  and then\
+,  when she least expects it\
+,  reveal the awesome glory of\
+your disgust with her as a\
+person.</p>\
+<p\
+>Dishing out unforeseen comeuppance is\
+almost as satisfying as sex.\
+But it&#8217;s\
+a long game,  for those\
+who have the patience and discipline\
+to master not only the egos of others,  but one&#8217;s own ego.</p>\
+'
+
+
+gs24 = epub.EpubHtml(title='femme fatales',
+file_name='femme_fatales.xhtml',
+lang='en')
+gs23.content='\
+<h2>How To Handle Femme Fatales</h2>\
+<p><a href="\
+http://aliasclio.blogspot.\
+com/" target="_blank">\
+Clio</a> wrote an\
+informative and entertaining series of posts\
+about the taxonomy of femmes fatales\
+&#8212; those irresistible women\
+who will do a man no\
+good if he leaves himself ignorant\
+of and defenseless to their machinations\
+. I&#8217;ve\
+decided to do a counterpost explaining\
+to men how to guard themselves\
+against the four main femme fatale\
+types as described by Clio,\
+based on my experiences with women\
+who fell into one or the\
+other category.</p>\
+<\
+p><a href="http\
+://aliasclio.blogspot.com\
+/2008/07/heartbreakers\
+-5-gold-digger\
+.html" target="_blank\
+"><strong>The Golddigger</\
+strong></a></p>\
+\
+<blockquote><p>The\
+gold-digger is the classic\
+female heartbreaker,  the one everyone\
+except a few feminists loves to\
+hate. She is not a\
+prostitute: although she marries for\
+money she does not have sex\
+for money. [&#8230;]</\
+            p>\
+<p>\
+            In fact,  the chief\
+            characteristic of this type of\
+            female heartbreaker is her ruthlessness\
+            in pursuit of what she\
+            wants. She has to\
+            be careful not to fall\
+            in love,  because it\
+            would cloud her judgment and\
+            because the type of man\
+            she requires is likely to\
+            be frightened by displays of\
+            emotional desperation and put off\
+            by neediness.</p></\
+            blockquote>\
+<p>\
+            While the golddigger&#8217\
+            ;s ultimate goal is\
+            marriage to a wealthy man\
+            ,  she will have sex\
+            with rich guys as long\
+            as the trinkets and baubles\
+            flow. Because payment for\
+            her services is not so\
+            direct,  often coming days\
+            or weeks later instead of\
+            being left on the endtable\
+            by the bed,  she\
+            is able to delude herself\
+            into believing she is not\
+            a common whore. But\
+            absent love,  she is\
+            ideologically indistinguishable from her streetwalker\
+            cousins. She&#8217\
+            ;s simply smart enough\
+            to secure payment without a\
+            pimp middleman,  and to\
+            do it from one or\
+            two smitten sources instead of\
+            a carousel of johns.</\
+            p>\
+<p>\
+            The way to handle a\
+            golddigger is to establish your\
+            terms of courtship early on\
+            ,  before she has had\
+            a chance to suck you\
+            into her reality. You\
+            really want to sniff out\
+the golddigger quickly,  because if\
+you don&#8217;t\
+have the money,  or you\
+do have the money but don\
+&#8217;t want to\
+buy a woman&#8217;\
+s love with it,  then\
+you&#8217;ll want\
+to waste as little time dating\
+golddiggers as possible. Without game\
+,  you&#8217;ll\
+never change them. The good\
+news is that it&#8217\
+;s a simple matter tricking\
+a golddigger to reveal her true\
+inner whore.</p>\
+<\
+p>The secret is this\
+: Golddiggers target wealthy but gameless\
+greater betas and alphas who deal\
+with women in a very traditional\
+and conventional manner &#8212;\
+i.e. buying her\
+drinks and taking her to fancy\
+dinners on the first date.\
+These are the kind of men\
+who work all their lives to\
+eventually purchase arm candy they can\
+bring to cocktail parties. You\
+can jolt the golddigger right out\
+of her utilitarian programming by QUALIFYING\
+HER. For example,  you\
+must make clear early on you\
+don&#8217;t buy\
+drinks for women and,  in\
+fact,  if she&#8217\
+;s cool,  you&#\
+8217;ll let her buy\
+a drink for you. Another\
+effective tactic for exposing the golddigger\
+and putting her on the hot\
+seat is to remark on her\
+good taste in clothes or jewelry\
+(golddiggers love when you share\
+ their materialistic worldview) and\
+then say without a hint of\
+irony that it&#8217;\
+s a good thing you dressed\
+up for the occasion and wore\
+your best watch &#8212;\
+while pointing to the Swatch on\
+your wrist. If she laughs\
+or compliments your watch,  you\
+have a shot to convert her\
+. If she takes you seriously\
+and looks around the room annoyed\
+or cackles sarcastically,  you can\
+escape on a &#8220;\
+bathroom break&#8221; and\
+leave her with the check.</\
+p>\
+<p>The\
+golddigger is not used to the\
+tables being turned like this.\
+Indignantly,  she will either leave\
+in a huff or become surprisingly\
+intrigued by your chutzpa. You\
+win no matter which path she\
+chooses. She leaves; you\
+&#8217;ve now avoided\
+spending money on a <em\
+>de facto</em>\
+whore without the integrity to put\
+out <em>quid pro\
+quo</em> on the\
+first date like an actual whore\
+. She stays; you have\
+broken her and ensured her attraction\
+for you will be genuine.</\
+p>\
+<p>The\
+more ruthless the woman,  the\
+bolder <strong>and more\
+alpha</strong> you have\
+to be in your dealings with\
+her. An attractive and successful\
+golddigger &#8212; and they\
+are usually 8s and up;\
+less attractive golddigger wannabes are simply\
+not in the field of view\
+of rich men &#8212;\
+requires the utmost boldness. Beta\
+nerds who have made a lot\
+of money in the tech field\
+should not attempt to tangle with\
+them. They will be chewed\
+up and left more misogynistic than\
+they were before they met her\
+.</p>\
+<p>\
+The only time it is acceptable\
+to play by a golddigger&#\
+8217;s rules is when\
+you don&#8217;t\
+mind spending the money for access\
+to sex with a hotter women\
+than you could normally acquire relying\
+on just your personality and charm\
+. There are many men like\
+this,  so the golddigger is\
+here to stay. I estimate\
+their numbers in the general population\
+of bangable women at around 15\
+%.</p>\
+<p>\
+One thing you have to remember\
+about golddiggers &#8212; they\
+are not that smart. Don\
+&#8217;t confuse ruthlessness\
+for smarts. Being base,\
+corporeally-centered creatures with a\
+crass understanding of the sexual market\
+,  they are easily manipulated into\
+behaving by the standards you set\
+for them as long as your\
+game is tight. Shock and\
+awe is how I would describe\
+the game you need to break\
+their will.</p>\
+<\
+p>Btw,  it is\
+possible for a golddigger to fall\
+in love with a man based\
+solely on his money. Cash\
+is a form of power,\
+and women are universally attracted to\
+male power in whichever form it\
+comes. Beware: If she\
+fell in love with you for\
+your money,  she&#8217\
+;ll fall out of love\
+with you twice as fast if\
+the money disappears. Hopefully for\
+you,  by that time,\
+she&#8217;ll be\
+a has-been cougar and\
+have no options but to deal\
+with your gameless,  poor ass\
+.</p>\
+<p><\
+strong><a href="http\
+://aliasclio.blogspot.com\
+/2008/07/heartbreakers\
+-5-waifneurotic-revised\
+.html" target="_blank\
+">The Waif/Neurotic</\
+a></strong></p>\
+\
+<blockquote><p>There\
+is the more vocal Neurotic type\
+,  who is probably very intelligent\
+and a high achiever (think\
+                     Plath,  left,  or\
+                     Wurtzel,  bottom left,\
+                     both excellent students),  who\
+probably suffers from depression and will\
+do her best to ensure that\
+you do as well; and\
+there is the Waif,  who\
+is more obviously fragile in appearance\
+than the neurotic,  less verbal\
+,  less likely to be an\
+academic success,  and more drawn\
+to the visual arts than to\
+writing. What they have in\
+common is that they suffer,\
+and use their pain to hold\
+on to their men. [&#\
+                  8230;]</p>\
+<\
+p>Forget worrying about gold\
+-diggers,  men. It\
+&#8217;s these ladies\
+who will find a way to\
+make you miserable every time.\
+The ones on the Neurotic end\
+of the spectrum will wear you\
+out trying to take care of\
+them when they&#8217;\
+re sick; worry you to\
+death with threats of suicide;\
+make an idiot of you as\
+you try to amuse them with\
+silly jokes or make them feel\
+loved with romantic gestures; persuade\
+you spend all your time and\
+money trying to make them happy\
+. None of it will ever\
+be enough. And then they\
+will leave you for someone else\
+,  or have to go for\
+drug or alcohol treatment,  or\
+decide that they need to be\
+on their own for a little\
+while.</p>\
+<p\
+>The Waifs won&#8217\
+;t expect you to spend\
+much money,  and they tend\
+not to demand as much attention\
+as Neurotics,  but if annoyed\
+with you they will give you\
+the silent treatment,  drifting around\
+sadly with huge eyes,  attracting\
+other men,  and suddenly leave\
+you for one. Like Neurotic\
+heartbreakers,  Waifs tend to develop\
+drug or alcohol problems,  but\
+theirs may be more serious,\
+as they don&#8217;\
+t have the same level of\
+self-discipline as their Neurotic\
+sisters. They won&#8217\
+;t threaten suicide verbally,\
+but you might come home to\
+find one of them half-\
+dead from an overdose. Lots\
+of drama with these women.\
+[&#8230;]</p>\
+<\
+ p>One caution I\
+ want to make is that\
+ not all Neurotic or Waif\
+ women are heartbreakers. It\
+ &#8217;s a\
+ special type of Neurotic or\
+ Waif who is also a\
+ <em>fatale</\
+ em>,  who learns to\
+ use sexual conquest as a\
+ temporary antidote to unhappiness.</\
+ p></blockquote>\
+<\
+ p>We all know\
+ these types &#8212;\
+ think any role played by\
+ Winona Ryder or Gwyneth Paltrow\
+ . I agree with Clio\
+ ,  these women are more\
+ dangerous than golddiggers because they\
+ wield their feminine power with\
+ subtlety and innocent sincerity.\
+ Their coin of the realm\
+ is fragile femininity and emotional\
+ manipulation,  as opposed to\
+ sex for resources barter.\
+ If you are a man\
+ who likes his girls girly\
+ ,  you won&#8217\
+ ;t know what hit\
+ you until it&#8217\
+ ;s too late and\
+ you&#8217;re\
+ in with both feet and\
+ all your heart.</p\
+ >\
+<p>The\
+ only way to learn to\
+ deal with the waif and\
+ neurotic is through experience.\
+ It&#8217;s\
+ hard to teach a man\
+ to temper his protective instinct\
+ . A waif who connects\
+ with a man&#8217\
+ ;s heart and pride\
+ enslaves him more than the\
+ golddigger who connects through his\
+ loins and wallet.</p\
+>\
+<p>The solution\
+to the emotionally manipulative waif/\
+neurotic is to <strong>\
+call her bluff</strong>.\
+I once had a girl threaten\
+to kill herself as she sat\
+on the edge of my bed\
+,  spastically emptying desk draws for\
+bottles of pills she could swallow\
+. The normal man would crumble\
+and attempt to alleviate her pain\
+and tears with his comfort and\
+listening ability. WRONG. This\
+will only embolden her to greater\
+future outbursts. Instead,  I\
+opened the window and told her\
+to jump,  it&#8217\
+;ll get the job done\
+faster. It worked. She\
+cursed and stormed out,  only\
+to return,  humbled,  a\
+couple days later.</p>\
+\
+<p>Warning: Sometimes\
+she will actually go through with\
+it and kill herself. Be\
+strong. Her mental weakness is\
+not your moral crisis. You\
+have just saved yourself years of\
+heartache dealing with her recurrent emotional\
+breakdowns.</p>\
+<p\
+>Don&#8217;t\
+get caught up in the waif\
+&#8217;s exploitative exhibitions\
+. <a href="https\
+://heartiste.wordpress.com\
+/2008/07/08\
+/the-sixteen-commandments\
+-of-poon/" target\
+="_blank">You are the\
+oak tree</a>,  strong\
+and rooted. Let her flail\
+away; you are immoveable.\
+When she sees her tawdry drama\
+and passive-aggressiveness is having\
+no effect on you,  she\
+&#8217;ll fall deeper\
+in love. Remind her in\
+the strongest terms that her happiness\
+depends on herself,  not you\
+. Tell her that she must\
+understand her low self-esteem\
+is no excuse for her shitty\
+behavior and you have little patience\
+for it. You will not\
+be there to validate her ego\
+. Flirt ostentatiously with other women\
+so she knows you can leave\
+at a moment&#8217;\
+s notice. Rinse and repeat\
+,  and marvel as she learns\
+to manage her worst excesses so\
+as not to disappoint you.</\
+p>\
+<p>You\
+will have to PUSH AWAY a\
+waif to get her to come\
+closer to you. Consoling her\
+,  protecting her,  and drawing\
+her tighter into your orbit will\
+work to do just the opposite\
+of what you intended &#8212\
+; push her into the arms\
+of another <span style="\
+text-decoration:line-\
+through;">sucker</span>\
+man.</p>\
+<p\
+>There is really nothing more\
+annoying or frustrating than a waif\
+giving you the silent treatment and\
+allowing other men to flirt with\
+her in front of you.\
+Often,  the frustration is precisely\
+because she does not know what\
+she is doing to you.\
+I&#8217;ve found\
+the best way to deal with\
+these situations is to confront the\
+waif in clear and calm terms\
+and let her know you are\
+aware what is going on.\
+To wit:</p>\
+<\
+p>&#8220;You&#\
+8217;re attitude is telling\
+. If you have something on\
+your mind,  you should let\
+me know,  or go home\
+now. I will only allow\
+women into my life who are\
+capable of getting past their egos\
+and meeting me with an open\
+heart. Improve yourself,  or\
+leave. There are plenty of\
+men who will gladly put up\
+with your shit.&#8221;</\
+p>\
+<p>If\
+this doesn&#8217;t\
+shake the waif out of her\
+manipulative malaise,  nothing will.\
+And for girls who flirt with\
+other guys in your presence,\
+you have two options: Fight\
+flirting with flirting,  or confront\
+her,  as I explained above\
+. Showing complete indifference to her\
+provocations will work short term,\
+but fail long term. You\
+&#8217;re better off\
+sparking her lust for you by\
+flirting with other women in return\
+,  because waifs respond to drama\
+,  their own or yours.\
+Otherwise,  let her betrayal play\
+out,  then later in the\
+evening pull her aside and tell\
+her not to call you again\
+until she&#8217;s\
+ready to respect your boundaries.\
+Odds are you will get a\
+call,  and notice a positive\
+change in her behavior.</p\
+>\
+<blockquote><p>\
+Waifs tend to be drawn to\
+arty,  egocentric men who cope\
+with their women&#8217;\
+s whims by ignoring them (\
+    think of Picasso and most\
+    of his women).</p\
+></blockquote>\
+<p>\
+I have dated quite a few\
+Waifs and this is exactly how\
+I dealt with them. Often\
+,  I would confront her drama\
+with my own drama. Dramafest\
+!</p>\
+<p><\
+em>Tomorrow: The Eternal\
+Ingenue and the Amazonian Alpha!</\
+em></p>\
+'
+
+
+
+gs25 = epub.EpubHtml(title='femme fatales part ii',
+file_name='femme_fatales_partii.xhtml',
+lang='en')
+gs25.content='\
+<h2>Femme Fatales Part II</h2>\
+'
+
+
+gs26 = epub.EpubHtml(title ='femme fatales part iii',
+file_name='femme_fatales_partiii.xhtml',
+lang='en')
+gs26.content=' <h2>Femme Fatales PART III</h2>\
+<p>In my final\
+installment I will discuss methods for\
+dealing with Clio&#8217;\
+s last,  and scariest,\
+femme fatale.</p>\
+<\
+p><strong><a href\
+="http://aliasclio.blogspot\
+.com/2008/07\
+/heartbreakers-8-amazonian\
+-alpha.html" target\
+="_blank">The Amazonian Alpha\
+(AKA Lawyer Chick)</a\
+></strong></p>\
+<\
+blockquote><p>This woman\
+,  along with the Eternal Ingenue\
+,  is the most likely of\
+all <em>femme fatale\
+</em> types to be\
+perceived as an Iconic Woman.\
+But whereas the Eternal Ingenue inspires\
+dreams of perpetual love and happiness\
+,  the Amazonian Alpha inspires,\
+in those who fall in love\
+with her,  dreams of glory\
+,  of being raised above all\
+the ordinary people who mill around\
+on the face of the earth\
+. She is the Maverick Alpha\
+&#8217;s natural mate\
+[Editor&#8217;s\
+ note: think John and\
+ Cindy McCain],  although she\
+may choose a more ordinary Classic\
+Alpha. Often she is unable\
+to find a man she considers\
+worthy of her,  and may\
+remain single.</p></blockquote\
+>\
+<p>Yes,\
+Amazonian Alphas who don&#8217\
+;t get married before it\
+&#8217;s too late\
+are the most likely to wind\
+up frightening middle-aged women\
+alone in mansions on hilltops with\
+their pet german shepherds and classical\
+music. The less prideful ones\
+will become cougars &#8212;\
+very VERY aggressive cougars who will\
+stroke your chest on the slimmest\
+pretense.</p>\
+<blockquote\
+><p>The Amazonian Alpha\
+is usually very intelligent and generally\
+beautiful or at least physically impressive\
+,  being statuesque of build,\
+like Maud Gonne,  the Irish\
+nationalist who made Yeats miserable,\
+and often athletic as well.\
+[&#8230;]</p></blockquote\
+ >\
+<p>My\
+ experience with Amazonian Alphas I\
+ have dated is that many\
+ of them have striking facial\
+ bone structure and an often\
+ exotic beauty. They are\
+ never &#8220;cute\
+ &#8221; or pretty\
+ in the dull,  washed\
+ -out,  southern sorority\
+ sister way. They have\
+ the kind of angular looks\
+ and prominent features that a\
+ sizeable minority of men will\
+ not find attractive. They\
+ are usually taller than average\
+ and wear heels everywhere and\
+ know how to walk in\
+ them. You will never\
+ see an Amazonian wear flip\
+ -flops. She&#\
+ 8217;d sooner submit\
+ to a beta male like\
+ yourself.</p>\
+<\
+ blockquote><p>In\
+ social life,  she can\
+ be often recognised as the\
+ lone woman talking with a\
+ large group of men,\
+ men who laugh at her\
+ jokes and who may anxiously\
+ ask her opinion about public\
+ affairs and actually listen to\
+ what she says about them\
+ . Random men sledom try\
+ to ogle or touch her\
+ ,  because however beautiful she\
+ may be she has a\
+ steely eye or haughty deportment\
+ that does not bode well\
+ for men who behave disrespectfully\
+ to her. Her great\
+ virtue is strength of character\
+ : she will not readily\
+ back down and is usually\
+ possessed of physical and moral\
+ courage. Her great weakness\
+ is pride,  which may\
+lead her to serious errors in\
+judgment.</p></blockquote>\
+\
+<p>Because Amazonians are\
+the product of the union of\
+a successful alpha male and his\
+beautiful wife,  they often inherit\
+their fathers&#8217; blazing\
+intelligence,  cocksure attitude,  and\
+ambition. If they are lucky\
+,  they will inherit their mothers\
+&#8217; beauty,  but\
+this doesn&#8217;t\
+always happen. More than a\
+few alpha females look like drag\
+queens in pantsuits.</p>\
+\
+<p>Men are scared\
+to tangle with the Amazonian because\
+it feels like locking horns with\
+a gung-ho man.\
+They may be nice to look\
+at,  but their afeminine ballbusting\
+personalities can be a total turn\
+-off. Stubborn as mules\
+,  bloated egos that need constant\
+stroking,  and a keen sixth\
+sense for smoking out suitors of\
+bad character,  the Amazonian inspires\
+men to treat her like another\
+man as often as a woman\
+to be seduced. If she\
+&#8217;s smart,\
+she learns to temper her masculine\
+essence to entrap men of high\
+quality,  because studies are showing\
+that very masculine men with high\
+testosterone are <a href="\
+http://news.bbc.\
+co.uk/2/\
+hi/uk_news/scotland/\
+north_east/7616354.stm"\
+target="_blank">more attracted\
+to very feminine women</a\
+>.</p>\
+<blockquote><\
+p>The Alpha Amazon will\
+almost certainly be a Daddy&#\
+8217;s Girl,  but\
+unlike the Neurotic Heartbreaker,  her\
+relationship with her father will not\
+have been interrupted by early death\
+or marital breakdown. Unlike the\
+Eternal Ingenue,  her father is\
+probably also a very successful man\
+,  a dominant Alpha male who\
+was either born to money and\
+power or who acquired it through\
+his own drive or gifts.</\
+p></blockquote>\
+<p\
+>Spot on. I remember\
+this one <span style="\
+text-decoration:line-\
+through;">cunt</span>\
+lawyer chick I dated who rhapsodized\
+about her father on our first\
+date:</p>\
+<p\
+>&#8220;He&#8217\
+;s a professor at the\
+University of Chicago,  and he\
+&#8217;s a classical\
+pianist. He&#8217;\
+s played in symphonies. He\
+&#8217;s got patents\
+on some of his inventions.&#\
+8221;</p>\
+<p\
+>I believe she used the\
+word &#8220;redoubtable&#\
+8221; in her high praise\
+of him. My penis tucked\
+itself in my ass crack.</\
+p>\
+<p>Which\
+reminds me&#8230; I\
+haven&#8217;t torn\
+a new one in <a\
+href="https://heartiste.\
+wordpress.com/2007/\
+11/02/i-\
+cant-make-this-\
+shit-up/" target="\
+_blank">lawyer chicks in a\
+while</a>. Where&#\
+8217;s my thesaurus?</\
+p>\
+<blockquote><p\
+>The Amazonian Alpha,  although\
+she may break many hearts,\
+is perhaps alone among all the\
+Heartbreaker types catalogued here in that\
+she very rarely does so deliberately\
+,  nor out of subconscious neurotic\
+compulsion. Her great problem,\
+and the reason she finds herself\
+breaking hearts,  is the one\
+summarized in Sheryl Crow&#8217\
+;s lament,  &#8220\
+;Are you strong enough to\
+be my man?&#8221;</\
+p></blockquote>\
+<p\
+>You will endure the WORST\
+shit tests from the Amazonian Alpha\
+. Lesser men will retreat into\
+belligerence or submissive shoe-gazing\
+. Budding alphas just starting out\
+in the game will overcompensate and\
+allow the brinksmanship to carry on\
+too long,  thinking that sparring\
+with her is the best way\
+to get her in bed.\
+David Alexander will get turned on\
+and swap railfanning stories with her\
+.</p>\
+<blockquote><\
+p>She will not respect\
+a man who is not strong\
+enough for her,  and will\
+spend at least part of her\
+life surrounded by male admirers who\
+are not quite equal to her\
+in ability or dominance,  who\
+fight a bit desperately for her\
+notice. Diana Mitford had this\
+problem: she married a sweet\
+-natured,  rather passive man\
+,  mainly to escape from her\
+parents&#8217; control,\
+and soon after humiliated him by\
+choosing the Maverick Alpha male Oswald\
+Mosley as a lover and publicly\
+flaunting their relationship. Once she\
+married Mosley,  <strong>\
+she accepted his dominance and his\
+infidelities.</strong></p></\
+blockquote>\
+<p>This\
+is the interesting thing about women\
+(yes,  all women).\
+If her man is strong enough\
+and gets her thoroughly wet,\
+she&#8217;ll forgive\
+his sins despite her moral posturing\
+. But woe be the beta\
+who can&#8217;t\
+get her wet; even his\
+minor sins will forever be wielded\
+like a cudgel,  beating him\
+mercilessly into submission,  extracting the\
+last ounce of tribute from his\
+shattered psyche,  and used as\
+flimsy pretext to commit ten times\
+worse sins against him. Which\
+brings us to&#8230;</\
+p>\
+<p><strong\
+>Maxim #10: It\
+&#8217;s pussy wetness\
+uber alles.</strong></p\
+>\
+<p>A woman\
+&#8217;s shifting,\
+squirrelly morality and conditional umbrage is\
+also proof of another fact of\
+evolutionary psychology &#8212; men\
+&#8217;s infidelity is\
+not nearly as harmful or unacceptable\
+as women&#8217;s\
+infidelity. I&#8217;\
+ll leave it as an exercise\
+for the reader to figure out\
+why this is so.</p\
+>\
+<blockquote><p>\
+Alpha Amazons tend to have more\
+male than female friends,  and\
+to be more at ease in\
+the company of men,  partly\
+because unlike so many women they\
+don&#8217;t mind\
+arguing or fighting for their point\
+of view,  behaviour that makes\
+many women uneasy.</p></\
+blockquote>\
+<p>If\
+an Amazonian Alpha has female friends\
+,  she will be THE MOST\
+CHALLENGING cockblock you will ever have\
+the displeasure to encounter. I\
+hope you sacked up before opening\
+her group.</p>\
+<\
+blockquote><p>If you\
+find yourself competing with a woman\
+&#8217;s father;\
+if you find that you are\
+always wondering if you are good\
+enough for her,  then it\
+is possible that you have found\
+an Alpha Amazon.</p></\
+blockquote>\
+<p>Trenchant\
+.</p>\
+<p><\
+strong>Maxim #45:\
+Daddy&#8217;s girls\
+are status whores. You will\
+never measure up to her father\
+. Don&#8217;t\
+even try.</strong></p\
+>\
+<p><strong>\
+Corollary: Not trying will turn\
+her on. Be indifferent to\
+her father&#8217;s\
+accomplishments.</strong></p>\
+\
+<p>I told the\
+lawyer chick from the above conversation\
+that her father&#8217;\
+s life sounded &#8220;\
+full&#8221;,  and then\
+I quickly changed the subject.\
+I banged her that evening.</\
+p>\
+<p>If\
+you are a masochist who likes\
+women with vestigial penises,  then\
+by all means knock yourself out\
+with the Amazonian Alpha. This\
+is what you need to keep\
+in mind to seduce her:</\
+p>\
+<ul>\
+<\
+li>DON&#8217;\
+T accept her challenges. Parry\
+and dance blithely around her provocations\
+. Thwart her programming. The\
+frame of mind you want to\
+adopt: She is inferior to\
+you. No bitch gets uppity\
+with you.</li>\
+<\
+li>DON&#8217;\
+T answer shit test with shit\
+test ad infinitum. She can\
+do that all night,  and\
+you can&#8217;t\
+. Pass the first few shit\
+tests she throws out (and\
+                      Amazonians front load their shit\
+                      tests,  unlike Ingenues and\
+                      Neurotics who shit test forever\
+                      and ever) and then\
+tell her &#8220;Look\
+,  you don&#8217;\
+t have to be this way\
+. Ssshhh. It&#8217\
+;s time for us to\
+talk like human beings now.&#\
+8221; The goal is to\
+arouse her pussy,  not her\
+pride,  and not her intellect\
+.</li>\
+<li>\
+DON&#8217;T brag\
+about your achievements,  especially in\
+response to her own gleefully recounted\
+resume. She will see any\
+bragging as compensation. It&#\
+8217;s actually better for\
+you to make light of your\
+station in life. &#8220\
+;Yeah,  I just bought\
+a new scooter. You&#\
+8217;ll be the belle\
+of the ball showing up riding\
+in the flower basket I put\
+over the handlebars!&#8221;.</\
+li>\
+<li>DON\
+&#8217;T be ordinary\
+. You can coast with drinks\
+at a trendy lounge with an\
+artsy chick,  but you&#\
+8217;ll want to step\
+it up for an Amazonian.\
+Take her on an adventure.\
+Samba dancing at midnight,  bingo\
+at a gay club,  berry\
+picking in the countryside&#8230\
+; you get the idea.</\
+li>\
+<li>DON\
+&#8217;T be beta\
+. This is true for any\
+woman,  but never moreso than\
+with the Alpha chick. You\
+&#8217;ve gotta show\
+real dominance,  and that means\
+never asking questions,  being decisive\
+,  leading her on the dance\
+floor,  and choosing her drinks\
+for her. She will try\
+to push you around,  probing\
+for weak spots in your underbelly\
+,  and you have to stay\
+solid,  armored,  like a concrete bunker.</li>\
+<li>DON&#8217;T talk about her father.</li>\
+<li>DO stroke her\
+ego. This is really the\
+only type of girl you can\
+genuinely compliment on the first date\
+without seeming beta. Keep your\
+compliments focused on her smarts and\
+her life-affirming gusto.\
+She&#8217;ll eat\
+it up.</li>\
+<\
+li>DO qualify her hard\
+. You won&#8217;\
+t run the risk of overqualifying\
+yourself with this girl like you\
+would with the other types of\
+femmes fatales. Remember,  she\
+already thinks she is above you\
+,  so constantly screening her for\
+compatibility will only push her closer\
+to your level,  never below\
+it. Example: &#8220\
+;So you can cook,\
+but you don&#8217;\
+t know how to cook Thai\
+-Mongolian fusion? I would\
+&#8217;ve thought of\
+all the girls I&#8217\
+;ve met you would be\
+the one who could.&#8221\
+;</li>\
+<li>\
+DO fuck her like a silverback\
+gorilla. Hair pulling is just\
+the start. Practice your wind\
+-up; you&#8217\
+;re going to be smacking\
+her ass so hard your dick\
+will feel the sting in her\
+pussy.</li>\
+<li\
+>DO dump her after getting\
+your rocks off. Why would\
+you want to spend your life\
+with a nutcrushing battleaxe like this\
+?</li>\
+</ul>\
+\
+<p>Dating ballbusters has\
+really hardened me. I&#\
+8217;m a better man\
+for it.</p>\
 '
 
 
@@ -3915,14 +15866,107 @@ c18.content='
 
 
 
-# Book Spine
 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+#Book Spine
 book.add_item(intro)
 book.add_item(foundations)
 book.add_item(f1)
 book.add_item(f2)
-book .add_item(f3)
-book .add_item(f5)
+book.add_item(f3)
+book.add_item(f5)
 book.add_item(f6)
 book.add_item(f7)
 book.add_item(f8)
@@ -3931,8 +15975,67 @@ book.add_item(f10)
 book.add_item(f11)
 book.add_item(f12)
 book.add_item(f13)
+book.add_item(c)
+book.add_item(c1)
+book.add_item(c2)
+book.add_item(c4)
+book.add_item(c5)
+book.add_item(c6)
+book.add_item(c7)
+book.add_item(c8)
+book.add_item(c9)
+book.add_item(c10)
+book.add_item(c11)
+book.add_item(c12)
+book.add_item(c13)
+book.add_item(c14)
+book.add_item(c15)
+book.add_item(c16)
+book.add_item(c17)
+book.add_item(c18)
+book.add_item(gm)
+book.add_item(gm2)
+book.add_item(gm3)
+book.add_item(gm4)
+book.add_item(gm5)
+book.add_item(gm6)
+book.add_item(gm7)
+book.add_item(gm8)
+book.add_item(gm9)
+book.add_item(gm10)
+book.add_item(gm11)
+book.add_item(gs)
+book.add_item(gs2)
+book.add_item(gs3)
+book.add_item(gs4)
+book.add_item(gs5)
+book.add_item(gs6)
+book.add_item(gs7)
+book.add_item(gs8)
+book.add_item(gs9)
+book.add_item(gs10)
+book.add_item(gs11)
+book.add_item(gs12)
+book.add_item(gs13)
+book.add_item(gs14)
+book.add_item(gs15)
+book.add_item(gs16)
+book.add_item(gs17)
+book.add_item(gs18)
+book.add_item(gs19)
+book.add_item(gs20)
+book.add_item(gs21)
+book.add_item(gs22)
+book.add_item(gs23)
+book.add_item(gs24)
+book.add_item(gs25)
+book.add_item(gs26)
+
 book.spine = ['cover ', intro, foundations, f1, f2, f3, f4, f5 , f6, f7, f8,
-              f9, f10, f11, f12 , f13]
+f9, f10, f11, f12 , f13,  c, c1, c2, c4, c5, c6, c7, c8, c9, c10, c11, c12,
+c13, c14, c15, c16, c17, c18, gm, gm2, gm3, gm4, gm5, gm6, gm7, gm8, gm9, gm10,
+gm11, gs, gs2, gs3, gs4, gs5, gs6, gs7, gs8, gs9, gs10, gs11, gs12, gs13, gs14,
+gs15, gs16, gs17, gs18, gs19, gs20, gs21, gs22, gs23, gs24, gs25, gs26]
 
 # create epub file
 epub.write_epub('roissy.epub', book, {})
