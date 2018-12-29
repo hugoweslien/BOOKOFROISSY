@@ -9029,7 +9029,7 @@ her I would memorize her number\
 '
 
 gs5 = epub.EpubHtml(title='the sexual frame',
-                file_name='the_sexual_frame.xhtml',
+file_name='the_sexual_frame.xhtml',
 lang='en')
 gs5.content='\
 <h2>The Sexual Frame</h2>\
@@ -9334,7 +9334,7 @@ of lion.</p>\
 
 
 gs7 = epub.EpubHtml(title='DQ Bluff',
- file_name='DQ_Bluff.xhtml',
+file_name='DQ_Bluff.xhtml',
 lang='en')
 gs7.content='\
 <h2>What To Do If A Girl Calls Your Disqualification Bluff?<h2>\
@@ -10333,7 +10333,7 @@ hypothesis.</p>\
 
 
 gs9 = epub.EpubHtml(title='a-hole game part ii',
- file_name='a-hole_game_part_ii.xhtml',
+file_name='a-hole_game_part_ii.xhtml',
 lang='en')
 gs9.content='\
 <h2>A-Hole Game Part II</h2>\
@@ -10464,9 +10464,9 @@ p>\
 
 
 gs10 = epub.EpubHtml(title='a-hole game part iii',
- file_name='a-hole_game_part_iii.xhtml',
+file_name='a-hole_game_part_iii.xhtml',
 lang='en')
-gs9.content='\
+gs10.content='\
 <h2>A-Hole Game Part III</h2>\
 <p><em>Previously\
 : <a href="https\
@@ -10930,10 +10930,10 @@ guy is an asshole,  and \
 there&#8217;s no \
 denying he would be a miserable \
 failure with women (although,  \
-                    it has to be said\
-                    ,  he&#8217;\
-                    d still do better than \
-                    the typical mincing betabot). \
+                it has to be said\
+                ,  he&#8217;\
+                d still do better than \
+                the typical mincing betabot). \
 So where did his assholery go \
 wrong? For that,  we \
 need to contrast him with his \
@@ -10946,9 +10946,9 @@ guys I just met.&#8221\
 ;</p>\
 <p>\
 Asshole who cares thiiiiiiis much: \
-    &#8220;My heart \
-    will go on.&#8221\
-    ;</p>\
+&#8220;My heart \
+will go on.&#8221\
+;</p>\
 <p\
 >Girl: &#8220;Well,  you did seem like \
 you wanted it.&#8221;</\
@@ -10999,7 +10999,7 @@ claims to the contrary.</p>\
 
 
 gs12 = epub.EpubHtml(title='direct game essentials',
- file_name='direct_game_essentials.xhtml',
+file_name='direct_game_essentials.xhtml',
 lang='en')
 gs12.content='\
 <h2>Direct Game Essentials</h2>\
@@ -11382,7 +11382,7 @@ of fraught flirtation.</p>\
 
 
 gs13 = epub.EpubHtml(title='generalizing your way into her panties',
- file_name='generalizing_your_way_into_her_panties.xhtml',
+file_name='generalizing_your_way_into_her_panties.xhtml',
 lang='en')
 gs13.content='\
 <h2>Generalizing Your Way Into Her Panties</h2>\
@@ -14791,7 +14791,7 @@ to master not only the egos of others,  but one&#8217;s own ego.</p>\
 gs24 = epub.EpubHtml(title='femme fatales',
 file_name='femme_fatales.xhtml',
 lang='en')
-gs23.content='\
+gs24.content='\
 <h2>How To Handle Femme Fatales</h2>\
 <p><a href="\
 http://aliasclio.blogspot.\
